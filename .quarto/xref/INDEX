@@ -16,5 +16,23 @@
   },
   "posts.qmd": {
     "posts.html": "e8399833"
+  },
+  "awards.qmd": {
+    "awards.html": "68ad29d2"
+  },
+  "teaching.qmd": {
+    "teaching.html": "e9c02e46"
+  },
+  "contact.qmd": {
+    "contact.html": "adda1dcf"
+  },
+  "presentations.qmd": {
+    "presentations.html": "2df1cb08"
+  },
+  "leadership.qmd": {
+    "leadership.html": "e1daa4f1"
+  },
+  "404.qmd": {
+    "404.html": "8a25e2c7"
   }
 }

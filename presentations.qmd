@@ -1,0 +1,98 @@
+---
+title: "Conferences & Presentations"
+subtitle: "Selected conference participation, workshops, and academic presentations"
+page-layout: full
+toc: true
+---
+
+## Conferences & Workshops
+
+### Joint Statistical Meetings (JSM) and Diversity Mentoring Program
+
+**American Statistical Association**  
+**Boston, Massachusetts · August 2026**
+
+Participated in the Joint Statistical Meetings and the Diversity Mentoring Program, with opportunities for professional development, mentoring, networking, and engagement with the broader statistical community.
+
+---
+
+### ENAR Fostering Diversity in Biostatistics Workshop
+
+**Indiana · March 2026**
+
+Participated in the ENAR Fostering Diversity in Biostatistics Workshop, with a focus on professional development, mentoring, and exposure to opportunities in biostatistics.
+
+---
+
+## Research Presentations
+
+### County-Level Food Insecurity and Chronic Disease Burden in the United States
+
+**Research Presentation**  
+Illinois State University  
+**May 2026**
+
+Presented an analysis of county-level food insecurity and chronic disease burden in the United States, with emphasis on identifying priority counties for intervention.
+
+The project incorporated regression modeling, sensitivity analysis, spatial autocorrelation, and geographic mapping.
+
+---
+
+### County-Level Lung Cancer Mortality in the United States
+
+**Research Presentation**  
+Illinois State University  
+**March 2026**
+
+Presented research on social vulnerability, behavioral risk factors, spatial clustering, and unexplained mortality hotspots across U.S. counties.
+
+The analysis incorporated:
+
+- Robust OLS
+- Quantile regression
+- Moran's I
+- LISA
+- Spatial error models
+- Machine learning
+- Mediation analysis
+
+---
+
+### Application of Machine Learning Models to Identify Risk Factors of Malaria Incidence Among Children Under Five in Ghana
+
+**Departmental Seminar**  
+University of Ghana  
+**November 2023**
+
+Presented undergraduate thesis research using machine learning methods to identify risk factors associated with malaria incidence among children under five years of age in Ghana.
+
+---
+
+## Academic Presentations
+
+### Statistical Analysis of Diabetes Risk Factors Among American Adults
+
+**Class Presentation**  
+Illinois State University  
+**May 2026**
+
+Presented a sex-based comparative analysis of diabetes risk factors using SAS and R.
+
+Methods included:
+
+- Chi-square tests
+- Factorial ANOVA
+- Multiple regression
+- Logistic regression
+- Model diagnostics
+
+---
+
+### Statistical Analysis of Cardiovascular Disease Risk Factors
+
+**Class Presentation**  
+Illinois State University  
+**December 2025**
+
+Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.
+---

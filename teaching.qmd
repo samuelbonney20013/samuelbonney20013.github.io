@@ -1,0 +1,136 @@
+---
+title: "Teaching"
+subtitle: "Teaching experience, mentoring, and quantitative education"
+page-layout: full
+toc: true
+---
+
+## Teaching Experience
+
+### Graduate Teaching Assistant
+
+**Department of Mathematics, Illinois State University**  
+**August 2025 – Present**
+
+As a Graduate Teaching Assistant, I support undergraduate instruction in mathematics and statistics through discussion sessions, computational work, assessment, and individualized feedback.
+
+My responsibilities include:
+
+- Facilitating weekly discussion sections
+- Leading computational and problem-solving sessions
+- Reinforcing mathematical and statistical concepts through active learning
+- Grading assignments and examinations
+- Providing detailed feedback on student work
+- Supporting students who need additional help with course material
+
+---
+
+## Courses Taught and Assisted
+
+### Illinois State University
+
+**MAT 113 — Elements of Mathematical Reasoning**  
+Fall 2025, Fall 2026
+
+**MAT 119 — College Algebra**
+Fall 2026
+
+**MAT 120 — Finite Mathematics**
+Spring 2026
+
+---
+
+### University of Ghana
+
+**STAT 223 — Elementary Statistical Methods**
+
+**STAT 456 — Actuarial Statistics**
+
+---
+
+## Teaching and Research Assistant
+
+**Department of Statistics and Actuarial Science, University of Ghana**  
+**September 2023 – August 2024**
+
+I supported undergraduate and graduate students through tutorials, review sessions, and quantitative problem-solving.
+
+My responsibilities included:
+
+- Coordinating tutorial sessions
+- Conducting comprehensive review sessions
+- Explaining theoretical statistical concepts
+- Helping students develop stronger problem-solving strategies
+- Supporting students preparing for assessments
+- Assisting with faculty research through data cleaning, literature reviews, and exploratory data analysis
+
+This role allowed me to combine teaching with research support in a statistical consulting environment.
+
+---
+
+## Teaching Philosophy
+
+I view mathematics and statistics as disciplines that are best learned through a combination of conceptual understanding, structured problem solving, and practical application.
+
+In teaching, I aim to help students move beyond memorizing formulas or procedures and instead understand:
+
+- Why a method works
+- When it should be used
+- What assumptions it relies on
+- How to interpret results
+- How to communicate reasoning clearly
+
+I also believe students learn quantitative material best when they are encouraged to ask questions, work through examples, and connect abstract ideas to concrete problems.
+
+---
+
+## Computational Instruction
+
+A significant part of my teaching and academic experience involves helping students develop confidence with quantitative and computational tools.
+
+Areas I support include:
+
+- Data management
+- Exploratory data analysis
+- Statistical visualization
+- Regression modeling
+- Statistical inference
+- Interpretation of statistical output
+- Reproducible analysis
+
+My technical experience includes:
+
+**R · SAS · SPSS · STATA · Python · SQL**
+
+---
+
+## Mentoring and Academic Support
+
+### Solution Space Member
+
+**The Mathematics Society, University of Ghana**  
+**2020 – 2023**
+
+As a member of the Solution Space initiative, I helped students approach challenging mathematical problems by providing explanations, problem-solving strategies, and guidance intended to promote independent reasoning.
+
+---
+
+## Educational Leadership
+
+### MathEye Impact
+
+**Co-Founder / Vice President**  
+**2021 – Present**
+
+I co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana.
+
+My responsibilities have included:
+
+- Academic and organizational leadership
+- Supporting students in mathematics and related subjects
+- Developing learning opportunities for high-achieving students
+- Contributing to the administration of a residential academic program
+- Supporting students preparing for Cambridge International examinations
+
+The inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.
+---

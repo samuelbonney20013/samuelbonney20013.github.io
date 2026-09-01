@@ -1,0 +1,65 @@
+---
+title: "Contact"
+subtitle: "Get in touch"
+page-layout: full
+toc: false
+---
+
+## Contact Me
+
+I am always interested in connecting with researchers, students, and professionals working in statistics, data science, machine learning, public health analytics, and related fields.
+
+I am also open to conversations about research collaborations, internships, statistical consulting, and other professional opportunities.
+
+---
+
+## Email
+
+**Samuel Bonney**  
+Graduate Student in Applied Statistics  
+Illinois State University
+
+[✉ sbonney@ilstu.edu](mailto:sbonney@ilstu.edu){.contact-link}
+
+---
+
+## Location
+
+**Normal, Illinois, USA**
+
+Illinois State University  
+Department of Mathematics
+
+---
+
+## Online Profiles
+
+[GitHub](https://github.com/samuelbonney20013){.btn .btn-outline-primary}
+
+[LinkedIn](https://www.linkedin.com/in/samuel-bonney-b06472299){.btn .btn-outline-primary}
+
+---
+
+## Research & Professional Interests
+
+I welcome opportunities involving:
+
+- Applied statistics
+- Statistical methodology
+- Nonparametric statistics
+- Spatial statistics
+- Machine learning
+- Statistical computing
+- Public health analytics
+- Data science
+- Research collaboration
+- Statistical consulting
+
+---
+
+## Curriculum Vitae
+
+For additional information about my education, research, teaching, and professional experience:
+
+[View My CV](files/CV.pdf){.btn .btn-primary target="_blank"}
+---

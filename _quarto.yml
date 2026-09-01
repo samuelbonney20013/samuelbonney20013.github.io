@@ -10,7 +10,7 @@ website:
 
   image: "images/PP.jpeg"
 
-  description: "Personal academic website for research, projects, and professional activities."
+  description: "Personal academic website for research, projects, teaching, and professional activities."
 
   navbar:
     background: "#8A1838"
@@ -27,12 +27,24 @@ website:
             href: research.qmd
           - text: Academic Projects
             href: projects.qmd
+          - text: Presentations
+            href: presentations.qmd
 
-      - text: Awards & Honors
-        href: awards.qmd
+      - text: Experience
+        menu:
+          - text: Teaching
+            href: teaching.qmd
+          - text: Leadership & Service
+            href: leadership.qmd
+          - text: Awards & Honors
+            href: awards.qmd
 
-      - text: Featured Posts
-        href: posts.qmd
+      - text: More
+        menu:
+          - text: Featured Posts
+            href: posts.qmd
+          - text: Contact
+            href: contact.qmd
 
     right:
       - text: CV
@@ -90,4 +102,3 @@ format:
 
 execute:
   freeze: auto
-

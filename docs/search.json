@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Samuel Bonney",
     "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\nWelcome to my academic website!\nI am Samuel Bonney, a graduate student in Applied Statistics at Illinois State University.\nI earned my Bachelor of Arts in Mathematics and Statistics from the University of Ghana and am currently pursuing my Master of Applied Statistics at Illinois State University.\nMy academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.\nI enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way.\n\n\n\n\nApplied Statistics\nStatistical Modeling\nSpatial Statistics\nNonparametric Statistics\nStatistical Computing\nData Science\nMachine Learning\nPublic Health Analytics\n\n\n\n\n\n\n&lt;div class=\"edu-degree\"&gt;Master of Applied Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  Illinois State University ·\n  &lt;span class=\"edu-year\"&gt;Expected 2027&lt;/span&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"edu-degree\"&gt;Bachelor of Arts in Mathematics and Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  University of Ghana ·\n  &lt;span class=\"edu-year\"&gt;2023&lt;/span&gt;\n&lt;/div&gt;"
+    "text": "Welcome to my academic website!\nI am Samuel Bonney, a graduate student in Applied Statistics at Illinois State University.\nI earned my Bachelor of Arts in Mathematics and Statistics from the University of Ghana and am currently pursuing my Master of Applied Statistics at Illinois State University.\nMy academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.\nI enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Samuel Bonney",
-    "section": "",
-    "text": "&lt;div class=\"edu-degree\"&gt;Master of Applied Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  Illinois State University ·\n  &lt;span class=\"edu-year\"&gt;Expected 2027&lt;/span&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"edu-degree\"&gt;Bachelor of Arts in Mathematics and Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  University of Ghana ·\n  &lt;span class=\"edu-year\"&gt;2023&lt;/span&gt;\n&lt;/div&gt;"
+    "section": "Education",
+    "text": "Education\n\nMaster of Applied Statistics\nIllinois State University\n2025–2027\n\n\nBachelor of Arts in Mathematics and Statistics\nUniversity of Ghana\n2019–2023"
   },
   {
     "objectID": "index.html#about-me",
@@ -31,8 +31,8 @@
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Samuel Bonney",
-    "section": "",
-    "text": "Applied Statistics\nStatistical Modeling\nSpatial Statistics\nNonparametric Statistics\nStatistical Computing\nData Science\nMachine Learning\nPublic Health Analytics"
+    "section": "Research Interests",
+    "text": "Research Interests\n\nApplied Statistics\nStatistical Modeling\nSpatial Statistics\nNonparametric Statistics\nStatistical Computing\nData Science\nMachine Learning\nPublic Health Analytics"
   },
   {
     "objectID": "index.html#selected-research",
@@ -285,5 +285,215 @@
     "title": "Featured Posts",
     "section": "Updated September 2026",
     "text": "Updated September 2026"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
+  },
+  {
+    "objectID": "awards.html#awards-honors",
+    "href": "awards.html#awards-honors",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Department of Mathematics, Illinois State University\nAugust 2025 – Present\nAs a Graduate Teaching Assistant, I support undergraduate instruction in mathematics and statistics through discussion sessions, computational work, assessment, and individualized feedback.\nMy responsibilities include:\n\nFacilitating weekly discussion sections\nLeading computational and problem-solving sessions\nReinforcing mathematical and statistical concepts through active learning\nGrading assignments and examinations\nProviding detailed feedback on student work\nSupporting students who need additional help with course material"
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "Department of Mathematics, Illinois State University\nAugust 2025 – Present\nAs a Graduate Teaching Assistant, I support undergraduate instruction in mathematics and statistics through discussion sessions, computational work, assessment, and individualized feedback.\nMy responsibilities include:\n\nFacilitating weekly discussion sections\nLeading computational and problem-solving sessions\nReinforcing mathematical and statistical concepts through active learning\nGrading assignments and examinations\nProviding detailed feedback on student work\nSupporting students who need additional help with course material"
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nI view mathematics and statistics as disciplines that are best learned through a combination of conceptual understanding, structured problem solving, and practical application.\nIn teaching, I aim to help students move beyond memorizing formulas or procedures and instead understand:\n\nWhy a method works\nWhen it should be used\nWhat assumptions it relies on\nHow to interpret results\nHow to communicate reasoning clearly\n\nI also believe students learn quantitative material best when they are encouraged to ask questions, work through examples, and connect abstract ideas to concrete problems."
+  },
+  {
+    "objectID": "teaching.html#computational-instruction",
+    "href": "teaching.html#computational-instruction",
+    "title": "Teaching",
+    "section": "Computational Instruction",
+    "text": "Computational Instruction\nA significant part of my teaching and academic experience involves helping students develop confidence with quantitative and computational tools.\nAreas I support include:\n\nData management\nExploratory data analysis\nStatistical visualization\nRegression modeling\nStatistical inference\nInterpretation of statistical output\nReproducible analysis\n\nMy technical experience includes:\nR · SAS · SPSS · STATA · Python · SQL"
+  },
+  {
+    "objectID": "teaching.html#mentoring-and-academic-support",
+    "href": "teaching.html#mentoring-and-academic-support",
+    "title": "Teaching",
+    "section": "Mentoring and Academic Support",
+    "text": "Mentoring and Academic Support\n\nSolution Space Member\nThe Mathematics Society, University of Ghana\n2020 – 2023\nAs a member of the Solution Space initiative, I helped students approach challenging mathematical problems by providing explanations, problem-solving strategies, and guidance intended to promote independent reasoning."
+  },
+  {
+    "objectID": "teaching.html#educational-leadership",
+    "href": "teaching.html#educational-leadership",
+    "title": "Teaching",
+    "section": "Educational Leadership",
+    "text": "Educational Leadership\n\nMathEye Impact\nCo-Founder / Vice President\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting students in mathematics and related subjects\nDeveloping learning opportunities for high-achieving students\nContributing to the administration of a residential academic program\nSupporting students preparing for Cambridge International examinations"
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\nI am especially interested in teaching courses related to:\n\nIntroductory Statistics\nApplied Statistics\nRegression Analysis\nStatistical Computing\nData Science\nMachine Learning\nProbability and Mathematical Statistics\nStatistical Programming"
+  },
+  {
+    "objectID": "teaching.html#courses-taught-and-assisted",
+    "href": "teaching.html#courses-taught-and-assisted",
+    "title": "Teaching",
+    "section": "Courses Taught and Assisted",
+    "text": "Courses Taught and Assisted\n\nIllinois State University\nMAT 113 — Elements of Mathematical Reasoning\nFall 2025, Fall 2026\nMAT 119 — College Algebra Fall 2026\nMAT 120 — Finite Mathematics Spring 2026\n\n\n\nUniversity of Ghana\nSTAT 223 — Elementary Statistical Methods\nSTAT 456 — Actuarial Statistics"
+  },
+  {
+    "objectID": "teaching.html#teaching-and-research-assistant",
+    "href": "teaching.html#teaching-and-research-assistant",
+    "title": "Teaching",
+    "section": "Teaching and Research Assistant",
+    "text": "Teaching and Research Assistant\nDepartment of Statistics and Actuarial Science, University of Ghana\nSeptember 2023 – August 2024\nI supported undergraduate and graduate students through tutorials, review sessions, and quantitative problem-solving.\nMy responsibilities included:\n\nCoordinating tutorial sessions\nConducting comprehensive review sessions\nExplaining theoretical statistical concepts\nHelping students develop stronger problem-solving strategies\nSupporting students preparing for assessments\nAssisting with faculty research through data cleaning, literature reviews, and exploratory data analysis\n\nThis role allowed me to combine teaching with research support in a statistical consulting environment."
+  },
+  {
+    "objectID": "teaching.html#the-inaugural-cohort-achieved-strong-academic-outcomes-with-students-earning-a-and-a-grades-on-more-than-70-of-examinations-taken.",
+    "href": "teaching.html#the-inaugural-cohort-achieved-strong-academic-outcomes-with-students-earning-a-and-a-grades-on-more-than-70-of-examinations-taken.",
+    "title": "Teaching",
+    "section": "The inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.",
+    "text": "The inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am always interested in connecting with researchers, students, and professionals working in statistics, data science, machine learning, public health analytics, and related fields.\nI am also open to conversations about research collaborations, internships, statistical consulting, and other professional opportunities."
+  },
+  {
+    "objectID": "contact.html#contact-me",
+    "href": "contact.html#contact-me",
+    "title": "Contact",
+    "section": "",
+    "text": "I am always interested in connecting with researchers, students, and professionals working in statistics, data science, machine learning, public health analytics, and related fields.\nI am also open to conversations about research collaborations, internships, statistical consulting, and other professional opportunities."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nSamuel Bonney\nGraduate Student in Applied Statistics\nIllinois State University\n✉ sbonney@ilstu.edu (sbonney at ilstu dot edu)"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "Location",
+    "text": "Location\nNormal, Illinois, USA\nIllinois State University\nDepartment of Mathematics"
+  },
+  {
+    "objectID": "contact.html#online-profiles",
+    "href": "contact.html#online-profiles",
+    "title": "Contact",
+    "section": "Online Profiles",
+    "text": "Online Profiles\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#research-professional-interests",
+    "href": "contact.html#research-professional-interests",
+    "title": "Contact",
+    "section": "Research & Professional Interests",
+    "text": "Research & Professional Interests\nI welcome opportunities involving:\n\nApplied statistics\nStatistical methodology\nNonparametric statistics\nSpatial statistics\nMachine learning\nStatistical computing\nPublic health analytics\nData science\nResearch collaboration\nStatistical consulting"
+  },
+  {
+    "objectID": "contact.html#curriculum-vitae",
+    "href": "contact.html#curriculum-vitae",
+    "title": "Contact",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\nFor additional information about my education, research, teaching, and professional experience:"
+  },
+  {
+    "objectID": "contact.html#view-my-cv",
+    "href": "contact.html#view-my-cv",
+    "title": "Contact",
+    "section": "View My CV",
+    "text": "View My CV"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Conferences & Presentations",
+    "section": "",
+    "text": "American Statistical Association\nBoston, Massachusetts · August 2026\nParticipated in the Joint Statistical Meetings and the Diversity Mentoring Program, with opportunities for professional development, mentoring, networking, and engagement with the broader statistical community.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, with a focus on professional development, mentoring, and exposure to opportunities in biostatistics."
+  },
+  {
+    "objectID": "presentations.html#conferences-workshops",
+    "href": "presentations.html#conferences-workshops",
+    "title": "Conferences & Presentations",
+    "section": "",
+    "text": "American Statistical Association\nBoston, Massachusetts · August 2026\nParticipated in the Joint Statistical Meetings and the Diversity Mentoring Program, with opportunities for professional development, mentoring, networking, and engagement with the broader statistical community.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, with a focus on professional development, mentoring, and exposure to opportunities in biostatistics."
+  },
+  {
+    "objectID": "presentations.html#research-presentations",
+    "href": "presentations.html#research-presentations",
+    "title": "Conferences & Presentations",
+    "section": "Research Presentations",
+    "text": "Research Presentations\n\nCounty-Level Food Insecurity and Chronic Disease Burden in the United States\nResearch Presentation\nIllinois State University\nMay 2026\nPresented an analysis of county-level food insecurity and chronic disease burden in the United States, with emphasis on identifying priority counties for intervention.\nThe project incorporated regression modeling, sensitivity analysis, spatial autocorrelation, and geographic mapping.\n\n\n\nCounty-Level Lung Cancer Mortality in the United States\nResearch Presentation\nIllinois State University\nMarch 2026\nPresented research on social vulnerability, behavioral risk factors, spatial clustering, and unexplained mortality hotspots across U.S. counties.\nThe analysis incorporated:\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nMachine learning\nMediation analysis\n\n\n\n\nApplication of Machine Learning Models to Identify Risk Factors of Malaria Incidence Among Children Under Five in Ghana\nDepartmental Seminar\nUniversity of Ghana\nNovember 2023\nPresented undergraduate thesis research using machine learning methods to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
+  },
+  {
+    "objectID": "presentations.html#academic-presentations",
+    "href": "presentations.html#academic-presentations",
+    "title": "Conferences & Presentations",
+    "section": "Academic Presentations",
+    "text": "Academic Presentations\n\nStatistical Analysis of Diabetes Risk Factors Among American Adults\nClass Presentation\nIllinois State University\nMay 2026\nPresented a sex-based comparative analysis of diabetes risk factors using SAS and R.\nMethods included:\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel diagnostics\n\n\n\n\nStatistical Analysis of Cardiovascular Disease Risk Factors\nClass Presentation\nIllinois State University\nDecember 2025"
+  },
+  {
+    "objectID": "presentations.html#presented-a-gender-based-comparative-analysis-of-cardiovascular-disease-risk-factors-using-minitab.",
+    "href": "presentations.html#presented-a-gender-based-comparative-analysis-of-cardiovascular-disease-risk-factors-using-minitab.",
+    "title": "Conferences & Presentations",
+    "section": "Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.",
+    "text": "Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab."
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "Illinois State University\n2026 – Present\nAs Treasurer of the Ghanaian Students Association, I help manage the organization’s financial operations and support planning for student activities and events.\nMy responsibilities include:\n\nBudget preparation\nFinancial recordkeeping\nReimbursement processing\nExpenditure tracking\nResource allocation\nCollaboration with executive members on event planning\nSupporting responsible financial decision-making\n\n\n\n\n\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana, particularly in the Central Region.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting the development of a residential learning environment\nContributing to student recruitment and academic programming\nSupporting mathematics and science education\nAssisting with school administration and resource planning\nMentoring students preparing for Cambridge International examinations\n\nThe inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.\nFive students also finished first in Ghana in their respective subjects."
+  },
+  {
+    "objectID": "leadership.html#leadership",
+    "href": "leadership.html#leadership",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "Illinois State University\n2026 – Present\nAs Treasurer of the Ghanaian Students Association, I help manage the organization’s financial operations and support planning for student activities and events.\nMy responsibilities include:\n\nBudget preparation\nFinancial recordkeeping\nReimbursement processing\nExpenditure tracking\nResource allocation\nCollaboration with executive members on event planning\nSupporting responsible financial decision-making\n\n\n\n\n\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana, particularly in the Central Region.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting the development of a residential learning environment\nContributing to student recruitment and academic programming\nSupporting mathematics and science education\nAssisting with school administration and resource planning\nMentoring students preparing for Cambridge International examinations\n\nThe inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.\nFive students also finished first in Ghana in their respective subjects."
+  },
+  {
+    "objectID": "leadership.html#mentoring",
+    "href": "leadership.html#mentoring",
+    "title": "Leadership & Service",
+    "section": "Mentoring",
+    "text": "Mentoring\n\nSolution Space Member\nThe Mathematics Society, University of Ghana\n2020 – 2023\nAs a member of the Solution Space initiative, I helped students work through challenging mathematical problems by providing clear explanations, structured problem-solving strategies, and guidance aimed at building independent reasoning skills."
+  },
+  {
+    "objectID": "leadership.html#professional-memberships",
+    "href": "leadership.html#professional-memberships",
+    "title": "Leadership & Service",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\nI am currently a member of:\n\nAmerican Mathematical Society — 2025–Present\nInstitute of Mathematical Statistics — 2025–Present"
+  },
+  {
+    "objectID": "leadership.html#professional-development",
+    "href": "leadership.html#professional-development",
+    "title": "Leadership & Service",
+    "section": "Professional Development",
+    "text": "Professional Development\nMy professional development activities have included:\n\nJoint Statistical Meetings Diversity Mentoring Program\nENAR Fostering Diversity in Biostatistics Workshop\nResearch presentations\nStatistical consulting experience\nTeaching and mentoring\nData analysis and statistical computing"
   }
 ]

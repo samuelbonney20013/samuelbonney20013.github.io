@@ -277,3 +277,164 @@ hr {
     font-size: 1rem;
   }
 }
+
+/* =========================================================
+   Project Portfolio Cards
+   ========================================================= */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(300px, 1fr));
+  gap: 1.8rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.project-card {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 14px;
+  padding: 1.5rem;
+
+  box-shadow:
+    0 4px 14px rgba(0, 0, 0, 0.06);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+
+  box-shadow:
+    0 10px 28px rgba(138, 24, 56, 0.14);
+
+  border-color: rgba(138, 24, 56, 0.25);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  color: var(--primary);
+}
+
+.project-card p {
+  margin-bottom: 0.8rem;
+}
+
+/* Tool badges */
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.8rem 0 1rem 0;
+}
+
+.badge {
+  display: inline-block;
+
+  background: rgba(138, 24, 56, 0.08);
+  color: var(--primary);
+
+  border: 1px solid rgba(138, 24, 56, 0.18);
+  border-radius: 999px;
+
+  padding: 0.28rem 0.65rem;
+
+  font-size: 0.78rem;
+  font-weight: 600;
+
+  letter-spacing: 0.01em;
+}
+
+/* Project links */
+
+.project-links {
+  margin-top: 1rem;
+}
+
+.project-links .btn {
+  text-decoration: none;
+}
+
+/* Toolkit section */
+
+.toolkit {
+  background: #fafafa;
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+
+  padding: 1.3rem 1.5rem;
+  margin-top: 1rem;
+}
+
+.toolkit strong {
+  color: var(--primary);
+}
+
+/* Mobile layout */
+
+@media (max-width: 850px) {
+
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+/* =========================================================
+   Awards & Honors
+   ========================================================= */
+
+.award-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(300px, 1fr));
+  gap: 1.6rem;
+  margin-top: 1.5rem;
+}
+
+.award-card {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-left: 4px solid var(--accent);
+  border-radius: 12px;
+
+  padding: 1.4rem 1.5rem;
+
+  box-shadow:
+    0 4px 14px rgba(0, 0, 0, 0.06);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.award-card:hover {
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 9px 24px rgba(138, 24, 56, 0.12);
+}
+
+.award-card h3 {
+  margin-top: 0;
+  color: var(--primary);
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.award-card strong {
+  color: #806b30;
+}
+
+@media (max-width: 850px) {
+
+  .award-grid {
+    grid-template-columns: 1fr;
+  }
+
+}
