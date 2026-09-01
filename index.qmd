@@ -28,32 +28,38 @@ about:
       target: _blank
 ---
 
+*Graduate Student in Applied Statistics · Illinois State University*
+
 ## About Me
 
-Welcome to my academic website!
+Welcome to my academic website.
 
 I am **Samuel Bonney**, a graduate student in Applied Statistics at [Illinois State University](https://illinoisstate.edu/).
 
-I earned my Bachelor of Arts in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and am currently pursuing my Master of Applied Statistics at Illinois State University.
+I earned my Bachelor of Arts in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and am currently pursuing my master's degree in Applied Statistics at Illinois State University.
 
-My academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.
+My current research focuses on **nonparametric statistical methodology**, including tilted kernel density estimation and Bickel–Rosenblatt goodness-of-fit testing. I am also interested in spatial statistics, statistical learning, machine learning, and public-health applications.
 
-I enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way.
+My broader work includes county-level spatial analyses of lung cancer mortality and chronic disease burden, explainable machine learning for malaria risk, and large language model applications in clinical text classification.
+
+I enjoy combining statistical theory, computation, simulation, and visualization to address practical problems and communicate results clearly.
 
 ## Research Interests
 
-- Applied Statistics
-- Statistical Modeling
-- Spatial Statistics
 - Nonparametric Statistics
-- Statistical Computing
-- Data Science
+- Statistical Inference
+- Spatial Statistics
+- Statistical Learning
 - Machine Learning
+- Explainable AI
+- Statistical Computing
+- Simulation Studies
 - Public Health Analytics
+- Data Science
 
 ## Education
 
-### Master of Applied Statistics
+### Master of Science in Applied Statistics
 
 **Illinois State University**  
 2025–2027

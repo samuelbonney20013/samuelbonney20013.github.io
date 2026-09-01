@@ -138,56 +138,6 @@ h4 {
   color: var(--primary) !important;
 }
 
-/* Education timeline */
-
-.edu-timeline {
-  margin: 1.2rem 0 0;
-  border-left: 2px solid #d8d8d8;
-}
-
-.edu-item {
-  position: relative;
-  padding: 4px 0 20px 22px;
-}
-
-.edu-item:last-child {
-  padding-bottom: 4px;
-}
-
-.edu-item::before {
-  content: "";
-  position: absolute;
-  left: -9px;
-  top: 7px;
-
-  width: 16px;
-  height: 16px;
-
-  border-radius: 50%;
-  background: var(--primary);
-}
-
-.edu-item.edu-current::before {
-  background: var(--accent);
-  border: 3px solid var(--primary);
-}
-
-.edu-degree {
-  color: var(--primary);
-  font-weight: 700;
-  font-size: 1.05rem;
-}
-
-.edu-school {
-  color: var(--text);
-  font-size: 0.95rem;
-}
-
-.edu-year {
-  color: #806b30;
-  font-weight: 600;
-}
-
 /* Buttons */
 
 .btn-primary {
@@ -199,6 +149,18 @@ h4 {
 .btn-primary:focus {
   background-color: var(--primary-dark);
   border-color: var(--primary-dark);
+}
+
+.btn-outline-primary {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: var(--primary);
+  border-color: var(--primary);
+  color: #ffffff;
 }
 
 /* Horizontal rules */
@@ -230,52 +192,6 @@ hr {
 
 .nav-footer a {
   color: var(--primary);
-}
-
-/* Project cards for later */
-
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(280px, 1fr));
-  gap: 2rem;
-  padding: 1rem 0;
-}
-
-.project-card {
-  background: #ffffff;
-  border-radius: 12px;
-  padding: 1.5rem;
-
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.07);
-
-  transition:
-    transform 0.25s ease,
-    box-shadow 0.25s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(138, 24, 56, 0.15);
-}
-
-/* Mobile */
-
-@media (max-width: 768px) {
-
-  .project-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .about-image img,
-  .about-entity img,
-  #hero-heading img {
-    width: 180px !important;
-    height: 180px !important;
-  }
-
-  body {
-    font-size: 1rem;
-  }
 }
 
 /* =========================================================
@@ -361,7 +277,7 @@ hr {
   text-decoration: none;
 }
 
-/* Toolkit section */
+/* Toolkit */
 
 .toolkit {
   background: #fafafa;
@@ -374,16 +290,6 @@ hr {
 
 .toolkit strong {
   color: var(--primary);
-}
-
-/* Mobile layout */
-
-@media (max-width: 850px) {
-
-  .project-grid {
-    grid-template-columns: 1fr;
-  }
-
 }
 
 /* =========================================================
@@ -431,10 +337,23 @@ hr {
   color: #806b30;
 }
 
+/* Mobile */
+
 @media (max-width: 850px) {
 
+  .project-grid,
   .award-grid {
     grid-template-columns: 1fr;
   }
 
+  .about-image img,
+  .about-entity img,
+  #hero-heading img {
+    width: 180px !important;
+    height: 180px !important;
+  }
+
+  body {
+    font-size: 1rem;
+  }
 }

@@ -54,6 +54,7 @@ website:
       - icon: github
         href: https://github.com/samuelbonney20013
         target: _blank
+        aria-label: GitHub
 
   page-navigation: true
 
@@ -71,7 +72,6 @@ website:
     location: navbar
     type: textbox
 
-  reader-mode: true
   draft-mode: unlinked
 
   repo-url: https://github.com/samuelbonney20013/samuelbonney20013.github.io

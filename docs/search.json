@@ -11,28 +11,28 @@
     "href": "index.html",
     "title": "Samuel Bonney",
     "section": "",
-    "text": "Welcome to my academic website!\nI am Samuel Bonney, a graduate student in Applied Statistics at Illinois State University.\nI earned my Bachelor of Arts in Mathematics and Statistics from the University of Ghana and am currently pursuing my Master of Applied Statistics at Illinois State University.\nMy academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.\nI enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way."
+    "text": "Graduate Student in Applied Statistics · Illinois State University"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Samuel Bonney",
     "section": "Education",
-    "text": "Education\n\nMaster of Applied Statistics\nIllinois State University\n2025–2027\n\n\nBachelor of Arts in Mathematics and Statistics\nUniversity of Ghana\n2019–2023"
+    "text": "Education\n\nMaster of Science in Applied Statistics\nIllinois State University\n2025–2027\n\n\nBachelor of Arts in Mathematics and Statistics\nUniversity of Ghana\n2019–2023"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Samuel Bonney",
-    "section": "",
-    "text": "Welcome to my academic website!\nI am Samuel Bonney, a graduate student in Applied Statistics at Illinois State University.\nI earned my Bachelor of Arts in Mathematics and Statistics from the University of Ghana and am currently pursuing my Master of Applied Statistics at Illinois State University.\nMy academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.\nI enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way."
+    "section": "About Me",
+    "text": "About Me\nWelcome to my academic website.\nI am Samuel Bonney, a graduate student in Applied Statistics at Illinois State University.\nI earned my Bachelor of Arts in Mathematics and Statistics from the University of Ghana and am currently pursuing my master’s degree in Applied Statistics at Illinois State University.\nMy current research focuses on nonparametric statistical methodology, including tilted kernel density estimation and Bickel–Rosenblatt goodness-of-fit testing. I am also interested in spatial statistics, statistical learning, machine learning, and public-health applications.\nMy broader work includes county-level spatial analyses of lung cancer mortality and chronic disease burden, explainable machine learning for malaria risk, and large language model applications in clinical text classification.\nI enjoy combining statistical theory, computation, simulation, and visualization to address practical problems and communicate results clearly."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Samuel Bonney",
     "section": "Research Interests",
-    "text": "Research Interests\n\nApplied Statistics\nStatistical Modeling\nSpatial Statistics\nNonparametric Statistics\nStatistical Computing\nData Science\nMachine Learning\nPublic Health Analytics"
+    "text": "Research Interests\n\nNonparametric Statistics\nStatistical Inference\nSpatial Statistics\nStatistical Learning\nMachine Learning\nExplainable AI\nStatistical Computing\nSimulation Studies\nPublic Health Analytics\nData Science"
   },
   {
     "objectID": "index.html#selected-research",
