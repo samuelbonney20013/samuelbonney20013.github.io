@@ -2,21 +2,92 @@ project:
   type: website
   output-dir: docs
 
+description-meta: "Academic website for Samuel Bonney, graduate student in Applied Statistics."
+author-meta: "Samuel Bonney"
+
 website:
-  title: "Website"
+  title: ""
+
+  image: "images/PP.jpeg"
+
+  description: "Personal academic website for research, projects, and professional activities."
+
   navbar:
+    background: "#8A1838"
+    foreground: "#FFFFFF"
+    pinned: true
+
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+
+      - text: Research
+        menu:
+          - text: Research Overview
+            href: research.qmd
+          - text: Academic Projects
+            href: projects.qmd
+
+      - text: Awards & Honors
+        href: awards.qmd
+
+      - text: Featured Posts
+        href: posts.qmd
+
+    right:
+      - text: CV
+        href: files/CV.pdf
+        target: _blank
+
+      - icon: github
+        href: https://github.com/samuelbonney20013
+        target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: "Samuel Bonney © 2026"
+
+    center: 'Last updated <script>document.write(new Date(document.lastModified).toLocaleDateString("en-US", {year:"numeric", month:"long", day:"numeric"}))</script>'
+
+    right:
+      - icon: github
+        href: https://github.com/samuelbonney20013
+        target: _blank
+
+  search:
+    location: navbar
+    type: textbox
+
+  reader-mode: true
+  draft-mode: unlinked
+
+  repo-url: https://github.com/samuelbonney20013/samuelbonney20013.github.io
+
+  open-graph: true
+  twitter-card: true
+
+  site-url: "https://samuelbonney20013.github.io"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: cosmo
+    css:
+      - styles.css
 
-editor: visual
+    toc: true
+    page-layout: full
+
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+
+execute:
+  freeze: auto
 

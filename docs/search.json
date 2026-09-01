@@ -1,16 +1,289 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Samuel Bonney",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\nWelcome to my academic website!\nI am Samuel Bonney, a graduate student in Applied Statistics at Illinois State University.\nI earned my Bachelor of Arts in Mathematics and Statistics from the University of Ghana and am currently pursuing my Master of Applied Statistics at Illinois State University.\nMy academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.\nI enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way.\n\n\n\n\nApplied Statistics\nStatistical Modeling\nSpatial Statistics\nNonparametric Statistics\nStatistical Computing\nData Science\nMachine Learning\nPublic Health Analytics\n\n\n\n\n\n\n&lt;div class=\"edu-degree\"&gt;Master of Applied Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  Illinois State University ·\n  &lt;span class=\"edu-year\"&gt;Expected 2027&lt;/span&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"edu-degree\"&gt;Bachelor of Arts in Mathematics and Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  University of Ghana ·\n  &lt;span class=\"edu-year\"&gt;2023&lt;/span&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Samuel Bonney",
+    "section": "",
+    "text": "&lt;div class=\"edu-degree\"&gt;Master of Applied Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  Illinois State University ·\n  &lt;span class=\"edu-year\"&gt;Expected 2027&lt;/span&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"edu-degree\"&gt;Bachelor of Arts in Mathematics and Statistics&lt;/div&gt;\n&lt;div class=\"edu-school\"&gt;\n  University of Ghana ·\n  &lt;span class=\"edu-year\"&gt;2023&lt;/span&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Samuel Bonney",
+    "section": "",
+    "text": "Welcome to my academic website!\nI am Samuel Bonney, a graduate student in Applied Statistics at Illinois State University.\nI earned my Bachelor of Arts in Mathematics and Statistics from the University of Ghana and am currently pursuing my Master of Applied Statistics at Illinois State University.\nMy academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.\nI enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Samuel Bonney",
+    "section": "",
+    "text": "Applied Statistics\nStatistical Modeling\nSpatial Statistics\nNonparametric Statistics\nStatistical Computing\nData Science\nMachine Learning\nPublic Health Analytics"
+  },
+  {
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "Samuel Bonney",
+    "section": "Selected Research",
+    "text": "Selected Research\n\nCounty-Level Lung Cancer Mortality in the United States\nMy research examines geographic variation in lung cancer mortality across U.S. counties using social, behavioral, and public health data.\nThe project incorporates statistical and spatial methods including regression modeling, quantile regression, Moran’s I, Local Indicators of Spatial Association, and spatial error models.\nLearn more about my research →\n\n\nNonparametric Density Estimation\nI am also working on simulation-based research involving nonparametric density estimation, bandwidth selection, calibration, and statistical performance.\nThe project evaluates different bandwidth choices and tuning parameters through repeated simulation experiments.\nView my projects →"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Samuel Bonney",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming: R, Python, SQL\nStatistical Methods: Regression, Quantile Regression, Spatial Analysis, Nonparametric Methods, Simulation\nSoftware and Tools: RStudio, Quarto, Git, GitHub, LaTeX"
+  },
+  {
+    "objectID": "index.html#current-interests",
+    "href": "index.html#current-interests",
+    "title": "Samuel Bonney",
+    "section": "Current Interests",
+    "text": "Current Interests\nI am interested in opportunities involving:\n\nApplied statistical research\nData science\nStatistical consulting\nPublic health analytics\nSpatial and geographic data analysis\nResearch internships\nStatistical programming"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Samuel Bonney",
+    "section": "Contact",
+    "text": "Contact\nI am always interested in connecting with others working in statistics, data science, and related research areas.\nYou can find my work on GitHub."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests center on applied statistics, statistical learning, nonparametric methods, spatial statistics, and data-driven approaches to public health and biomedical problems.\nI am particularly interested in:\n\nNonparametric Statistics\nStatistical Inference\nSpatial Statistics\nMachine Learning\nExplainable AI\nPublic Health Analytics\nStatistical Computing\nSimulation Studies\nLarge Language Models\nReproducible Data Science"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests center on applied statistics, statistical learning, nonparametric methods, spatial statistics, and data-driven approaches to public health and biomedical problems.\nI am particularly interested in:\n\nNonparametric Statistics\nStatistical Inference\nSpatial Statistics\nMachine Learning\nExplainable AI\nPublic Health Analytics\nStatistical Computing\nSimulation Studies\nLarge Language Models\nReproducible Data Science"
+  },
+  {
+    "objectID": "research.html#graduate-thesis",
+    "href": "research.html#graduate-thesis",
+    "title": "Research",
+    "section": "Graduate Thesis",
+    "text": "Graduate Thesis\n\nNonparametric Tilted Density Estimation and Bickel–Rosenblatt Goodness-of-Fit Testing\nMy graduate thesis investigates tilted kernel density estimators and their use in goodness-of-fit testing.\nThe project focuses on selecting bandwidth and probability weights using cross-validation-based procedures and evaluating the resulting estimators through extensive simulation studies.\n\n\nCurrent Focus\nThe work examines:\n\nTilted kernel density estimation\nCross-validation-based bandwidth selection\nProbability-weight selection\nBickel–Rosenblatt goodness-of-fit testing\nAsymptotic behavior\nEmpirical test size\nStatistical power\nSimulation-based performance evaluation\nComparison with conventional kernel density estimators\n\nThe broader goal is to understand whether tilted density estimators can improve inferential performance relative to conventional kernel-based approaches under different data-generating settings."
+  },
+  {
+    "objectID": "research.html#county-level-lung-cancer-mortality-in-the-united-states",
+    "href": "research.html#county-level-lung-cancer-mortality-in-the-united-states",
+    "title": "Research",
+    "section": "County-Level Lung Cancer Mortality in the United States",
+    "text": "County-Level Lung Cancer Mortality in the United States\n\nSocial Vulnerability, Behavioral Risk Factors, Spatial Clustering, and Unexplained Mortality Hotspots\nThis project examines geographic variation in lung cancer mortality across U.S. counties.\nI integrated data from the CDC Social Vulnerability Index, CDC PLACES, and the National Cancer Institute for 2,536 counties and applied a combination of classical regression, spatial statistics, machine learning, and mediation analysis.\n\n\nMethods\n\nRobust Ordinary Least Squares regression\nQuantile regression\nGlobal Moran’s I\nLocal Indicators of Spatial Association\nSpatial error models\nRandom Forest\nXGBoost\nSHAP interpretation\nMediation analysis\nGeographic visualization\n\n\n\nKey Findings\nThe analysis identified 232 unexplained high-mortality spatial clusters after accounting for observed socioeconomic and behavioral factors.\nThe study also estimated that COPD mediated approximately 50.8% of the county-level association between smoking and lung cancer mortality."
+  },
+  {
+    "objectID": "research.html#county-level-food-insecurity-and-chronic-disease-burden",
+    "href": "research.html#county-level-food-insecurity-and-chronic-disease-burden",
+    "title": "Research",
+    "section": "County-Level Food Insecurity and Chronic Disease Burden",
+    "text": "County-Level Food Insecurity and Chronic Disease Burden\nThis project evaluates the joint geographic burden of food insecurity and chronic disease across U.S. counties.\nThe analysis included 2,299 counties and combined food insecurity, social-needs, and chronic-disease data.\n\nMethods\n\nConstruction of a standardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\n\n\nKey Finding\nThe analysis identified 408 counties experiencing both high food insecurity and high chronic disease burden, highlighting potential priority areas for public-health intervention."
+  },
+  {
+    "objectID": "research.html#biomed-scribe",
+    "href": "research.html#biomed-scribe",
+    "title": "Research",
+    "section": "BioMed-Scribe",
+    "text": "BioMed-Scribe\n\nMedical Specialty Classification from Clinical Conversations\nBioMed-Scribe is a large language model project focused on classifying clinical conversations into medical specialties.\nI fine-tuned GPT-2 Medium using a two-block parameter-efficient fine-tuning strategy on 13,492 clinical conversations.\n\n\nModel Performance\nThe final model achieved:\n\n79.1% test accuracy\n0.799 macro-F1\nClassification across Cardiology, Neurology, Orthopedics, and General Medicine\n\n\n\nMethods and Tools\n\nGPT-2 Medium\nParameter-efficient fine-tuning\nClinical text preprocessing\nt-SNE embedding analysis\nModel evaluation\nGradio application deployment\n\nThe project demonstrates how large language models can be adapted to specialized clinical classification tasks while limiting the number of trainable parameters."
+  },
+  {
+    "objectID": "research.html#statistical-analysis-of-diabetes-risk-factors",
+    "href": "research.html#statistical-analysis-of-diabetes-risk-factors",
+    "title": "Research",
+    "section": "Statistical Analysis of Diabetes Risk Factors",
+    "text": "Statistical Analysis of Diabetes Risk Factors\nThis project investigates clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes among American adults.\nThe analysis used 253,680 observations from the CDC Behavioral Risk Factor Surveillance System.\n\nMethods\n\nData transformation\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nRegression diagnostics\nSex-stratified analysis\n\nThe analysis was conducted using both SAS and R."
+  },
+  {
+    "objectID": "research.html#modeling-life-expectancy-in-africa",
+    "href": "research.html#modeling-life-expectancy-in-africa",
+    "title": "Research",
+    "section": "Modeling Life Expectancy in Africa",
+    "text": "Modeling Life Expectancy in Africa\nThis project used socioeconomic and health indicators to model life expectancy across African countries.\nA multiple linear regression model was developed to identify key predictors of national life expectancy.\nThe final model achieved an adjusted R-squared of approximately 0.98, with adult mortality and HIV incidence emerging as major predictors."
+  },
+  {
+    "objectID": "research.html#malaria-research-in-ghana",
+    "href": "research.html#malaria-research-in-ghana",
+    "title": "Research",
+    "section": "Malaria Research in Ghana",
+    "text": "Malaria Research in Ghana\nMy earlier research focused on the use of machine learning to study malaria risk in Ghana.\n\nMalaria Among Pregnant Women\nUsing Demographic and Health Survey data, I applied explainable machine learning techniques to predict malaria risk among pregnant women.\nThe K-Nearest Neighbor model achieved the strongest predictive performance, with an AUC of approximately 0.88.\nThe analysis also ranked important predictors such as age and anaemia status.\n\n\nUndergraduate Thesis\nMy undergraduate thesis examined machine learning approaches for identifying risk factors associated with malaria incidence among children under five years of age in Ghana.\nThe project evaluated multiple machine learning algorithms, including:\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nAdditional classification models\n\nThe analysis used data from the 2019 Ghana Malaria Indicator Survey."
+  },
+  {
+    "objectID": "research.html#fractal-pattern-generation-via-iterated-function-systems",
+    "href": "research.html#fractal-pattern-generation-via-iterated-function-systems",
+    "title": "Research",
+    "section": "Fractal Pattern Generation via Iterated Function Systems",
+    "text": "Fractal Pattern Generation via Iterated Function Systems\nThis project explored computational applications of linear algebra through the generation of fractal patterns.\nI developed a Python program that applied affine transformations iteratively to geometric shapes using matrix operations and translation vectors.\n\nTools and Concepts\n\nPython\nNumPy\nMatrix transformations\nAffine mappings\nIterated function systems\nMathematical visualization"
+  },
+  {
+    "objectID": "research.html#research-approach",
+    "href": "research.html#research-approach",
+    "title": "Research",
+    "section": "Research Approach",
+    "text": "Research Approach\nAcross my projects, I am interested in combining statistical methodology with reproducible computational workflows.\nMy research frequently involves:\n\nData cleaning and integration\nExploratory data analysis\nStatistical modeling\nMonte Carlo simulation\nMachine learning\nSpatial analysis\nExplainable AI\nData visualization\nReproducible reporting\nR, Python, SAS, SQL, and Quarto"
+  },
+  {
+    "objectID": "research.html#current-research-direction",
+    "href": "research.html#current-research-direction",
+    "title": "Research",
+    "section": "Current Research Direction",
+    "text": "Current Research Direction\nMy current work is increasingly focused on nonparametric statistical methodology, simulation-based inference, and the integration of classical statistical techniques with modern machine learning methods."
+  },
+  {
+    "objectID": "research.html#i-am-especially-interested-in-research-that-is-methodologically-rigorous-computationally-reproducible-and-applicable-to-meaningful-scientific-and-public-health-questions.",
+    "href": "research.html#i-am-especially-interested-in-research-that-is-methodologically-rigorous-computationally-reproducible-and-applicable-to-meaningful-scientific-and-public-health-questions.",
+    "title": "Research",
+    "section": "I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions.",
+    "text": "I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.\n\n\n\nMedical Specialty Classification from Clinical Conversations\n\nPython GPT-2 NLP Gradio\n\nFine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.\nHighlights\n\n79.1% test accuracy\n0.799 macro-F1\n25.2M trainable parameters\nFour medical specialties\nt-SNE embedding analysis\nInteractive Gradio deployment\n\n\nView GitHub\n\n\n\n\nSpatial Statistics, Machine Learning, and Public Health\n\nR Spatial Statistics XGBoost SHAP\n\nAnalyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.\nMethods\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nRandom Forest\nXGBoost\nSHAP\nMediation analysis\n\nKey Results\n\n232 unexplained high-mortality spatial clusters identified\nCOPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\n\nCounty-Level Public Health Analysis\n\nR Spatial Analysis Regression Mapping\n\nAnalyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\nMethods\n\nStandardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\nKey Result\nIdentified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\n\nCDC BRFSS Analysis\n\nSAS R Regression ANOVA\n\nAnalyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.\nMethods\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nDiagnostics\nSex-stratified analysis\n\n\n\n\nSocioeconomic and Health Indicators\n\nR Regression Predictive Modeling\n\nBuilt a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.\nKey Result\nThe final model achieved an adjusted R² of approximately 0.98.\nAdult mortality and HIV incidence emerged as major predictors.\n\n\n\nMalaria Among Pregnant Women in Ghana\n\nMachine Learning KNN Public Health\n\nApplied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.\nKey Result\nThe K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.\n\n\n\nMalaria Risk Among Children Under Five in Ghana\n\nMachine Learning Random Forest Neural Networks\n\nUsed the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nOther classification algorithms\n\n\n\n\nIterated Function Systems\n\nPython NumPy Linear Algebra\n\nDeveloped a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.\nConcepts\n\nMatrix transformations\nAffine mappings\nTranslation vectors\nIterative computation\nMathematical visualization"
+  },
+  {
+    "objectID": "projects.html#selected-projects",
+    "href": "projects.html#selected-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.\n\n\n\nMedical Specialty Classification from Clinical Conversations\n\nPython GPT-2 NLP Gradio\n\nFine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.\nHighlights\n\n79.1% test accuracy\n0.799 macro-F1\n25.2M trainable parameters\nFour medical specialties\nt-SNE embedding analysis\nInteractive Gradio deployment\n\n\nView GitHub\n\n\n\n\nSpatial Statistics, Machine Learning, and Public Health\n\nR Spatial Statistics XGBoost SHAP\n\nAnalyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.\nMethods\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nRandom Forest\nXGBoost\nSHAP\nMediation analysis\n\nKey Results\n\n232 unexplained high-mortality spatial clusters identified\nCOPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\n\nCounty-Level Public Health Analysis\n\nR Spatial Analysis Regression Mapping\n\nAnalyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\nMethods\n\nStandardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\nKey Result\nIdentified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\n\nCDC BRFSS Analysis\n\nSAS R Regression ANOVA\n\nAnalyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.\nMethods\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nDiagnostics\nSex-stratified analysis\n\n\n\n\nSocioeconomic and Health Indicators\n\nR Regression Predictive Modeling\n\nBuilt a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.\nKey Result\nThe final model achieved an adjusted R² of approximately 0.98.\nAdult mortality and HIV incidence emerged as major predictors.\n\n\n\nMalaria Among Pregnant Women in Ghana\n\nMachine Learning KNN Public Health\n\nApplied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.\nKey Result\nThe K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.\n\n\n\nMalaria Risk Among Children Under Five in Ghana\n\nMachine Learning Random Forest Neural Networks\n\nUsed the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nOther classification algorithms\n\n\n\n\nIterated Function Systems\n\nPython NumPy Linear Algebra\n\nDeveloped a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.\nConcepts\n\nMatrix transformations\nAffine mappings\nTranslation vectors\nIterative computation\nMathematical visualization"
+  },
+  {
+    "objectID": "projects.html#biomed-scribe",
+    "href": "projects.html#biomed-scribe",
+    "title": "Projects",
+    "section": "BioMed-Scribe",
+    "text": "BioMed-Scribe\n\nMedical Specialty Classification from Clinical Conversations\nType: Large Language Model / NLP\nTools: Python, GPT-2 Medium, t-SNE, Gradio\nBioMed-Scribe is a medical text classification project designed to classify clinical conversations into medical specialties.\nThe project used 13,492 clinical conversations and fine-tuned GPT-2 Medium using a two-block parameter-efficient fine-tuning strategy.\n\n\nResults\n\n79.1% test accuracy\n0.799 macro-F1\nFour-class classification:\n\nCardiology\nNeurology\nOrthopedics\nGeneral Medicine\n\n25.2 million trainable parameters\nInteractive deployment using Gradio\n\n\n\nWhat I Worked On\n\nClinical text preprocessing\nModel fine-tuning\nClassification evaluation\nEmbedding visualization using t-SNE\nInteractive model deployment"
+  },
+  {
+    "objectID": "projects.html#county-level-lung-cancer-mortality-in-the-united-states",
+    "href": "projects.html#county-level-lung-cancer-mortality-in-the-united-states",
+    "title": "Projects",
+    "section": "County-Level Lung Cancer Mortality in the United States",
+    "text": "County-Level Lung Cancer Mortality in the United States\nType: Spatial Statistics / Public Health / Machine Learning\nTools: R, spatial analysis, Random Forest, XGBoost, SHAP\nThis project analyzed lung cancer mortality across 2,536 U.S. counties using data from the CDC Social Vulnerability Index, CDC PLACES, and the National Cancer Institute.\n\nMethods\n\nRobust OLS regression\nQuantile regression\nGlobal Moran’s I\nLocal Indicators of Spatial Association\nSpatial error models\nRandom Forest\nXGBoost\nSHAP interpretation\nMediation analysis\n\n\n\nResults\n\nIdentified 232 unexplained high-mortality spatial clusters\nEstimated that COPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\nSkills Demonstrated\n\nMulti-source data integration\nSpatial modeling\nRegression analysis\nMachine learning\nExplainable AI\nPublic-health interpretation\nGeographic visualization"
+  },
+  {
+    "objectID": "projects.html#county-level-food-insecurity-and-chronic-disease-burden",
+    "href": "projects.html#county-level-food-insecurity-and-chronic-disease-burden",
+    "title": "Projects",
+    "section": "County-Level Food Insecurity and Chronic Disease Burden",
+    "text": "County-Level Food Insecurity and Chronic Disease Burden\nType: Public Health Analytics / Spatial Analysis\nTools: R, regression, spatial statistics, mapping\nThis project analyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\n\nMethods\n\nConstruction of a standardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\n\n\nResult\nThe analysis identified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\nSkills Demonstrated\n\nIndex construction\nData integration\nGeographic analysis\nStatistical modeling\nPublic-health interpretation"
+  },
+  {
+    "objectID": "projects.html#statistical-analysis-of-diabetes-risk-factors",
+    "href": "projects.html#statistical-analysis-of-diabetes-risk-factors",
+    "title": "Projects",
+    "section": "Statistical Analysis of Diabetes Risk Factors",
+    "text": "Statistical Analysis of Diabetes Risk Factors\nType: Statistical Modeling / Public Health\nTools: SAS, R\nThis project used 253,680 CDC BRFSS observations to investigate factors associated with diabetes-related outcomes among American adults.\n\nMethods\n\nData transformation\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nRegression diagnostics\nSex-stratified analyses\n\n\n\nSkills Demonstrated\n\nLarge dataset analysis\nClassical statistical inference\nModel diagnostics\nSAS programming\nR programming"
+  },
+  {
+    "objectID": "projects.html#modeling-life-expectancy-in-africa",
+    "href": "projects.html#modeling-life-expectancy-in-africa",
+    "title": "Projects",
+    "section": "Modeling Life Expectancy in Africa",
+    "text": "Modeling Life Expectancy in Africa\nType: Regression Modeling\nTools: R\nThis project used socioeconomic and health indicators to predict life expectancy across African countries.\n\nResults\nThe final multiple linear regression model achieved an adjusted R-squared of approximately 0.98.\nAdult mortality and HIV incidence were identified as major predictors of life expectancy.\n\n\nSkills Demonstrated\n\nRegression modeling\nVariable selection\nModel interpretation\nStatistical diagnostics"
+  },
+  {
+    "objectID": "projects.html#explainable-machine-learning-for-malaria-risk",
+    "href": "projects.html#explainable-machine-learning-for-malaria-risk",
+    "title": "Projects",
+    "section": "Explainable Machine Learning for Malaria Risk",
+    "text": "Explainable Machine Learning for Malaria Risk\nType: Machine Learning / Public Health\nTools: R, machine learning models\nThis project used Demographic and Health Survey data to model malaria prevalence among pregnant women in Ghana.\n\nMethods\nSeveral machine learning models were evaluated and compared.\nThe K-Nearest Neighbor model achieved the strongest predictive performance, with an AUC of approximately 0.88.\n\n\nSkills Demonstrated\n\nPredictive modeling\nModel comparison\nClassification\nFeature importance\nPublic-health analytics"
+  },
+  {
+    "objectID": "projects.html#undergraduate-thesis-malaria-risk-among-children-under-five",
+    "href": "projects.html#undergraduate-thesis-malaria-risk-among-children-under-five",
+    "title": "Projects",
+    "section": "Undergraduate Thesis: Malaria Risk Among Children Under Five",
+    "text": "Undergraduate Thesis: Malaria Risk Among Children Under Five\nType: Machine Learning / Epidemiology\nMy undergraduate thesis investigated machine learning methods for identifying risk factors associated with malaria incidence among children under five years of age in Ghana.\nThe analysis used the 2019 Ghana Malaria Indicator Survey.\n\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nAdditional classification algorithms\n\n\n\nSkills Demonstrated\n\nSurvey-data analysis\nMachine learning\nModel evaluation\nEpidemiologic interpretation"
+  },
+  {
+    "objectID": "projects.html#fractal-pattern-generation",
+    "href": "projects.html#fractal-pattern-generation",
+    "title": "Projects",
+    "section": "Fractal Pattern Generation",
+    "text": "Fractal Pattern Generation\n\nIterated Function Systems\nType: Mathematical Computing\nTools: Python, NumPy\nThis project explored computational applications of linear algebra by generating fractal patterns using iterated function systems.\nI developed a Python program that repeatedly applied affine transformations to geometric shapes using matrix operations and translation vectors.\n\n\nConcepts Used\n\nLinear algebra\nMatrix transformations\nAffine transformations\nIterated function systems\nNumPy computation\nMathematical visualization"
+  },
+  {
+    "objectID": "projects.html#technical-toolkit",
+    "href": "projects.html#technical-toolkit",
+    "title": "Projects",
+    "section": "Technical Toolkit",
+    "text": "Technical Toolkit\n\nStatistical Software\nR · SAS · SPSS · STATA\nProgramming & Databases\nPython · SQL\nData & Visualization\nPower BI · Excel · Geographic Mapping\nResearch & Reproducibility\nQuarto · R Markdown · LaTeX · Git · GitHub"
+  },
+  {
+    "objectID": "projects.html#github",
+    "href": "projects.html#github",
+    "title": "Projects",
+    "section": "GitHub",
+    "text": "GitHub\nAdditional code and future project repositories will be available on my GitHub profile."
+  },
+  {
+    "objectID": "projects.html#view-my-github",
+    "href": "projects.html#view-my-github",
+    "title": "Projects",
+    "section": "View my GitHub",
+    "text": "View my GitHub"
+  },
+  {
+    "objectID": "projects.html#view-github",
+    "href": "projects.html#view-github",
+    "title": "Projects",
+    "section": "View GitHub",
+    "text": "View GitHub"
+  },
+  {
+    "objectID": "award.html",
+    "href": "award.html",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
+  },
+  {
+    "objectID": "award.html#awards-honors",
+    "href": "award.html#awards-honors",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Featured Posts",
+    "section": "",
+    "text": "American Statistical Association · Boston, MA · August 2026\nI participated in the Joint Statistical Meetings and the Diversity Mentoring Program, gaining exposure to current developments in statistics, professional networking, and mentoring opportunities within the statistical community.\n\n\n\n\nResearch Presentation · Illinois State University · May 2026\nPresented research on county-level food insecurity and chronic disease burden in the United States, with a focus on identifying priority counties for intervention.\nThe project combined public-health indicators, regression modeling, spatial autocorrelation, and geographic mapping.\n\n\n\n\nClass Presentation · Illinois State University · May 2026\nPresented a statistical analysis of diabetes risk factors among American adults using SAS and R.\nThe project used CDC BRFSS data and included chi-square testing, ANOVA, regression modeling, diagnostics, and sex-based comparative analysis.\n\n\n\n\nResearch Presentation · Illinois State University · March 2026\nPresented research examining social vulnerability, behavioral risk factors, spatial clustering, and unexplained lung cancer mortality hotspots across U.S. counties.\nThe analysis incorporated spatial statistics, regression models, machine learning, and mediation analysis.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, an opportunity focused on mentoring, professional development, and engagement with the biostatistics community.\n\n\n\n\nClass Presentation · Illinois State University · December 2025\nPresented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.\n\n\n\n\nDepartmental Seminar · University of Ghana · November 2023\nPresented undergraduate research on the application of machine learning models to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
+  },
+  {
+    "objectID": "posts.html#featured-posts",
+    "href": "posts.html#featured-posts",
+    "title": "Featured Posts",
+    "section": "",
+    "text": "American Statistical Association · Boston, MA · August 2026\nI participated in the Joint Statistical Meetings and the Diversity Mentoring Program, gaining exposure to current developments in statistics, professional networking, and mentoring opportunities within the statistical community.\n\n\n\n\nResearch Presentation · Illinois State University · May 2026\nPresented research on county-level food insecurity and chronic disease burden in the United States, with a focus on identifying priority counties for intervention.\nThe project combined public-health indicators, regression modeling, spatial autocorrelation, and geographic mapping.\n\n\n\n\nClass Presentation · Illinois State University · May 2026\nPresented a statistical analysis of diabetes risk factors among American adults using SAS and R.\nThe project used CDC BRFSS data and included chi-square testing, ANOVA, regression modeling, diagnostics, and sex-based comparative analysis.\n\n\n\n\nResearch Presentation · Illinois State University · March 2026\nPresented research examining social vulnerability, behavioral risk factors, spatial clustering, and unexplained lung cancer mortality hotspots across U.S. counties.\nThe analysis incorporated spatial statistics, regression models, machine learning, and mediation analysis.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, an opportunity focused on mentoring, professional development, and engagement with the biostatistics community.\n\n\n\n\nClass Presentation · Illinois State University · December 2025\nPresented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.\n\n\n\n\nDepartmental Seminar · University of Ghana · November 2023\nPresented undergraduate research on the application of machine learning models to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
+  },
+  {
+    "objectID": "posts.html#updated-september-2026",
+    "href": "posts.html#updated-september-2026",
+    "title": "Featured Posts",
+    "section": "Updated September 2026",
+    "text": "Updated September 2026"
   }
 ]

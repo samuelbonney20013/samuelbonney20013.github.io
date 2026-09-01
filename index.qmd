@@ -1,11 +1,77 @@
 ---
-title: "Website"
+title: "Samuel Bonney"
+description-meta: "Academic website for Samuel Bonney, graduate student in Applied Statistics."
+image: "images/PP.jpeg"
+
+page-navigation: true
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 50%
+
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sbonney@ilstu.edu
+
+    - icon: github
+      text: GitHub
+      href: https://github.com/samuelbonney20013
+      target: _blank
+
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/samuel-bonney-b06472299
+      target: _blank
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+Welcome to my academic website!
+
+I am **Samuel Bonney**, a graduate student in Applied Statistics at [Illinois State University](https://illinoisstate.edu/).
+
+I earned my Bachelor of Arts in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and am currently pursuing my Master of Applied Statistics at Illinois State University.
+
+My academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.
+
+I enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way.
+
+## Research Interests
+
+- Applied Statistics
+- Statistical Modeling
+- Spatial Statistics
+- Nonparametric Statistics
+- Statistical Computing
+- Data Science
+- Machine Learning
+- Public Health Analytics
+
+## Education
+
+```{=html}
+<div class="edu-timeline">
+
+  <div class="edu-item edu-current">
+    <div class="edu-degree">Master of Applied Statistics</div>
+    <div class="edu-school">
+      Illinois State University ·
+      <span class="edu-year">Expected 2027</span>
+    </div>
+  </div>
+
+  <div class="edu-item">
+    <div class="edu-degree">Bachelor of Arts in Mathematics and Statistics</div>
+    <div class="edu-school">
+      University of Ghana ·
+      <span class="edu-year">2023</span>
+    </div>
+  </div>
+
+</div>

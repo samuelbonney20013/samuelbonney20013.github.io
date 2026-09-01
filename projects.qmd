@@ -1,0 +1,263 @@
+---
+title: "Projects"
+subtitle: "Selected statistical, machine learning, and data science projects"
+page-layout: full
+toc: false
+---
+
+## Selected Projects
+
+A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.
+
+<div class="project-grid">
+
+<div class="project-card">
+
+### BioMed-Scribe
+
+**Medical Specialty Classification from Clinical Conversations**
+
+<div class="badges">
+<span class="badge">Python</span>
+<span class="badge">GPT-2</span>
+<span class="badge">NLP</span>
+<span class="badge">Gradio</span>
+</div>
+
+Fine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.
+
+**Highlights**
+
+- 79.1% test accuracy
+- 0.799 macro-F1
+- 25.2M trainable parameters
+- Four medical specialties
+- t-SNE embedding analysis
+- Interactive Gradio deployment
+
+<div class="project-links">
+
+[View GitHub](https://github.com/samuelbonney20013){.btn .btn-sm .btn-outline-primary}
+
+</div>
+
+</div>
+
+
+<div class="project-card">
+
+### County-Level Lung Cancer Mortality
+
+**Spatial Statistics, Machine Learning, and Public Health**
+
+<div class="badges">
+<span class="badge">R</span>
+<span class="badge">Spatial Statistics</span>
+<span class="badge">XGBoost</span>
+<span class="badge">SHAP</span>
+</div>
+
+Analyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.
+
+**Methods**
+
+- Robust OLS
+- Quantile regression
+- Moran's I
+- LISA
+- Spatial error models
+- Random Forest
+- XGBoost
+- SHAP
+- Mediation analysis
+
+**Key Results**
+
+- 232 unexplained high-mortality spatial clusters identified
+- COPD mediated approximately 50.8% of the county-level smoking–mortality association
+
+</div>
+
+
+<div class="project-card">
+
+### Food Insecurity and Chronic Disease Burden
+
+**County-Level Public Health Analysis**
+
+<div class="badges">
+<span class="badge">R</span>
+<span class="badge">Spatial Analysis</span>
+<span class="badge">Regression</span>
+<span class="badge">Mapping</span>
+</div>
+
+Analyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.
+
+**Methods**
+
+- Standardized disease-burden index
+- Multivariable regression
+- Sensitivity analysis
+- Spatial autocorrelation
+- Geographic mapping
+
+**Key Result**
+
+Identified 408 counties experiencing both high food insecurity and high chronic disease burden.
+
+</div>
+
+
+<div class="project-card">
+
+### Statistical Analysis of Diabetes Risk Factors
+
+**CDC BRFSS Analysis**
+
+<div class="badges">
+<span class="badge">SAS</span>
+<span class="badge">R</span>
+<span class="badge">Regression</span>
+<span class="badge">ANOVA</span>
+</div>
+
+Analyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.
+
+**Methods**
+
+- Chi-square tests
+- Factorial ANOVA
+- Multiple regression
+- Logistic regression
+- Model selection
+- Diagnostics
+- Sex-stratified analysis
+
+</div>
+
+
+<div class="project-card">
+
+### Modeling Life Expectancy in Africa
+
+**Socioeconomic and Health Indicators**
+
+<div class="badges">
+<span class="badge">R</span>
+<span class="badge">Regression</span>
+<span class="badge">Predictive Modeling</span>
+</div>
+
+Built a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.
+
+**Key Result**
+
+The final model achieved an adjusted R² of approximately 0.98.
+
+Adult mortality and HIV incidence emerged as major predictors.
+
+</div>
+
+
+<div class="project-card">
+
+### Explainable Machine Learning for Malaria Risk
+
+**Malaria Among Pregnant Women in Ghana**
+
+<div class="badges">
+<span class="badge">Machine Learning</span>
+<span class="badge">KNN</span>
+<span class="badge">Public Health</span>
+</div>
+
+Applied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.
+
+**Key Result**
+
+The K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.
+
+</div>
+
+
+<div class="project-card">
+
+### Undergraduate Thesis
+
+**Malaria Risk Among Children Under Five in Ghana**
+
+<div class="badges">
+<span class="badge">Machine Learning</span>
+<span class="badge">Random Forest</span>
+<span class="badge">Neural Networks</span>
+</div>
+
+Used the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.
+
+**Models Evaluated**
+
+- Random Forest
+- Neural Networks
+- K-Nearest Neighbors
+- Other classification algorithms
+
+</div>
+
+
+<div class="project-card">
+
+### Fractal Pattern Generation
+
+**Iterated Function Systems**
+
+<div class="badges">
+<span class="badge">Python</span>
+<span class="badge">NumPy</span>
+<span class="badge">Linear Algebra</span>
+</div>
+
+Developed a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.
+
+**Concepts**
+
+- Matrix transformations
+- Affine mappings
+- Translation vectors
+- Iterative computation
+- Mathematical visualization
+
+</div>
+
+</div>
+
+---
+
+## Technical Toolkit
+
+<div class="toolkit">
+
+**Statistical Software**  
+R · SAS · SPSS · STATA
+
+**Programming & Databases**  
+Python · SQL
+
+**Data & Visualization**  
+Power BI · Excel · Geographic Mapping
+
+**Research & Reproducibility**  
+Quarto · R Markdown · LaTeX · Git · GitHub
+
+</div>
+
+---
+
+## GitHub
+
+Additional code and future project repositories will be available on my GitHub profile.
+
+[View GitHub](https://github.com/samuelbonney20013){.btn .btn-primary}
+---
+
+## 

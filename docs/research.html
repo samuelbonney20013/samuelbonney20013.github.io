@@ -9,7 +9,7 @@
 <meta name="author" content="Samuel Bonney">
 <meta name="description" content="Academic website for Samuel Bonney, graduate student in Applied Statistics.">
 
-<title>Samuel Bonney</title>
+<title>Research</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -72,9 +73,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Samuel Bonney">
+<meta property="og:title" content="Research">
+<meta property="og:description" content="Selected research projects and methodological interests">
 <meta property="og:image" content="https://samuelbonney20013.github.io/images/PP.jpeg">
-<meta name="twitter:title" content="Samuel Bonney">
+<meta name="twitter:title" content="Research">
+<meta name="twitter:description" content="Selected research projects and methodological interests">
 <meta name="twitter:image" content="https://samuelbonney20013.github.io/images/PP.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -92,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -115,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Awards &amp; Honors</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link" href="./posts.qmd"> 
 <span class="menu-text">Featured Posts</span></a>
   </li>  
 </ul>
@@ -145,89 +148,308 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#research-interests" id="toc-research-interests" class="nav-link active" data-scroll-target="#research-interests">Research Interests</a></li>
+  <li><a href="#graduate-thesis" id="toc-graduate-thesis" class="nav-link" data-scroll-target="#graduate-thesis">Graduate Thesis</a>
+  <ul class="collapse">
+  <li><a href="#nonparametric-tilted-density-estimation-and-bickelrosenblatt-goodness-of-fit-testing" id="toc-nonparametric-tilted-density-estimation-and-bickelrosenblatt-goodness-of-fit-testing" class="nav-link" data-scroll-target="#nonparametric-tilted-density-estimation-and-bickelrosenblatt-goodness-of-fit-testing">Nonparametric Tilted Density Estimation and Bickel–Rosenblatt Goodness-of-Fit Testing</a></li>
+  <li><a href="#current-focus" id="toc-current-focus" class="nav-link" data-scroll-target="#current-focus">Current Focus</a></li>
+  </ul></li>
+  <li><a href="#county-level-lung-cancer-mortality-in-the-united-states" id="toc-county-level-lung-cancer-mortality-in-the-united-states" class="nav-link" data-scroll-target="#county-level-lung-cancer-mortality-in-the-united-states">County-Level Lung Cancer Mortality in the United States</a>
+  <ul class="collapse">
+  <li><a href="#social-vulnerability-behavioral-risk-factors-spatial-clustering-and-unexplained-mortality-hotspots" id="toc-social-vulnerability-behavioral-risk-factors-spatial-clustering-and-unexplained-mortality-hotspots" class="nav-link" data-scroll-target="#social-vulnerability-behavioral-risk-factors-spatial-clustering-and-unexplained-mortality-hotspots">Social Vulnerability, Behavioral Risk Factors, Spatial Clustering, and Unexplained Mortality Hotspots</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a></li>
+  </ul></li>
+  <li><a href="#county-level-food-insecurity-and-chronic-disease-burden" id="toc-county-level-food-insecurity-and-chronic-disease-burden" class="nav-link" data-scroll-target="#county-level-food-insecurity-and-chronic-disease-burden">County-Level Food Insecurity and Chronic Disease Burden</a>
+  <ul class="collapse">
+  <li><a href="#methods-1" id="toc-methods-1" class="nav-link" data-scroll-target="#methods-1">Methods</a></li>
+  <li><a href="#key-finding" id="toc-key-finding" class="nav-link" data-scroll-target="#key-finding">Key Finding</a></li>
+  </ul></li>
+  <li><a href="#biomed-scribe" id="toc-biomed-scribe" class="nav-link" data-scroll-target="#biomed-scribe">BioMed-Scribe</a>
+  <ul class="collapse">
+  <li><a href="#medical-specialty-classification-from-clinical-conversations" id="toc-medical-specialty-classification-from-clinical-conversations" class="nav-link" data-scroll-target="#medical-specialty-classification-from-clinical-conversations">Medical Specialty Classification from Clinical Conversations</a></li>
+  <li><a href="#model-performance" id="toc-model-performance" class="nav-link" data-scroll-target="#model-performance">Model Performance</a></li>
+  <li><a href="#methods-and-tools" id="toc-methods-and-tools" class="nav-link" data-scroll-target="#methods-and-tools">Methods and Tools</a></li>
+  </ul></li>
+  <li><a href="#statistical-analysis-of-diabetes-risk-factors" id="toc-statistical-analysis-of-diabetes-risk-factors" class="nav-link" data-scroll-target="#statistical-analysis-of-diabetes-risk-factors">Statistical Analysis of Diabetes Risk Factors</a>
+  <ul class="collapse">
+  <li><a href="#methods-2" id="toc-methods-2" class="nav-link" data-scroll-target="#methods-2">Methods</a></li>
+  </ul></li>
+  <li><a href="#modeling-life-expectancy-in-africa" id="toc-modeling-life-expectancy-in-africa" class="nav-link" data-scroll-target="#modeling-life-expectancy-in-africa">Modeling Life Expectancy in Africa</a></li>
+  <li><a href="#malaria-research-in-ghana" id="toc-malaria-research-in-ghana" class="nav-link" data-scroll-target="#malaria-research-in-ghana">Malaria Research in Ghana</a>
+  <ul class="collapse">
+  <li><a href="#malaria-among-pregnant-women" id="toc-malaria-among-pregnant-women" class="nav-link" data-scroll-target="#malaria-among-pregnant-women">Malaria Among Pregnant Women</a></li>
+  <li><a href="#undergraduate-thesis" id="toc-undergraduate-thesis" class="nav-link" data-scroll-target="#undergraduate-thesis">Undergraduate Thesis</a></li>
+  </ul></li>
+  <li><a href="#fractal-pattern-generation-via-iterated-function-systems" id="toc-fractal-pattern-generation-via-iterated-function-systems" class="nav-link" data-scroll-target="#fractal-pattern-generation-via-iterated-function-systems">Fractal Pattern Generation via Iterated Function Systems</a>
+  <ul class="collapse">
+  <li><a href="#tools-and-concepts" id="toc-tools-and-concepts" class="nav-link" data-scroll-target="#tools-and-concepts">Tools and Concepts</a></li>
+  </ul></li>
+  <li><a href="#research-approach" id="toc-research-approach" class="nav-link" data-scroll-target="#research-approach">Research Approach</a></li>
+  <li><a href="#current-research-direction" id="toc-current-research-direction" class="nav-link" data-scroll-target="#current-research-direction">Current Research Direction</a></li>
+  <li><a href="#i-am-especially-interested-in-research-that-is-methodologically-rigorous-computationally-reproducible-and-applicable-to-meaningful-scientific-and-public-health-questions." id="toc-i-am-especially-interested-in-research-that-is-methodologically-rigorous-computationally-reproducible-and-applicable-to-meaningful-scientific-and-public-health-questions." class="nav-link" data-scroll-target="#i-am-especially-interested-in-research-that-is-methodologically-rigorous-computationally-reproducible-and-applicable-to-meaningful-scientific-and-public-health-questions.">I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions.</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="images/PP.jpeg" class="about-image
-  rounded " style="width: 50%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Samuel Bonney</h1>
+<h1 class="title">Research</h1>
+<p class="subtitle lead">Selected research projects and methodological interests</p>
 </div>
-<div class="quarto-title-meta column-page">
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="mailto:sbonney@ilstu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://github.com/samuelbonney20013" class="about-link" rel="" target="_blank">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="/www.linkedin.com/in/samuel-bonney-b06472299" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<section id="about-me" class="level2">
-<h2 data-anchor-id="about-me">About Me</h2>
-<p>Welcome to my academic website!</p>
-<p>I am <strong>Samuel Bonney</strong>, a graduate student in Applied Statistics at <a href="https://illinoisstate.edu/">Illinois State University</a>.</p>
-<p>I earned my Bachelor of Arts in Mathematics and Statistics from the <a href="https://www.ug.edu.gh/">University of Ghana</a> and am currently pursuing my Master of Applied Statistics at Illinois State University.</p>
-<p>My academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.</p>
-<p>I enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way.</p>
-</section>
+
+
 <section id="research-interests" class="level2">
-<h2 data-anchor-id="research-interests">Research Interests</h2>
+<h2 class="anchored" data-anchor-id="research-interests">Research Interests</h2>
+<p>My research interests center on applied statistics, statistical learning, nonparametric methods, spatial statistics, and data-driven approaches to public health and biomedical problems.</p>
+<p>I am particularly interested in:</p>
 <ul>
-<li>Applied Statistics</li>
-<li>Statistical Modeling</li>
-<li>Spatial Statistics</li>
 <li>Nonparametric Statistics</li>
-<li>Statistical Computing</li>
-<li>Data Science</li>
+<li>Statistical Inference</li>
+<li>Spatial Statistics</li>
 <li>Machine Learning</li>
+<li>Explainable AI</li>
 <li>Public Health Analytics</li>
+<li>Statistical Computing</li>
+<li>Simulation Studies</li>
+<li>Large Language Models</li>
+<li>Reproducible Data Science</li>
+</ul>
+<hr>
+</section>
+<section id="graduate-thesis" class="level2">
+<h2 class="anchored" data-anchor-id="graduate-thesis">Graduate Thesis</h2>
+<section id="nonparametric-tilted-density-estimation-and-bickelrosenblatt-goodness-of-fit-testing" class="level3">
+<h3 class="anchored" data-anchor-id="nonparametric-tilted-density-estimation-and-bickelrosenblatt-goodness-of-fit-testing">Nonparametric Tilted Density Estimation and Bickel–Rosenblatt Goodness-of-Fit Testing</h3>
+<p>My graduate thesis investigates tilted kernel density estimators and their use in goodness-of-fit testing.</p>
+<p>The project focuses on selecting bandwidth and probability weights using cross-validation-based procedures and evaluating the resulting estimators through extensive simulation studies.</p>
+</section>
+<section id="current-focus" class="level3">
+<h3 class="anchored" data-anchor-id="current-focus">Current Focus</h3>
+<p>The work examines:</p>
+<ul>
+<li>Tilted kernel density estimation</li>
+<li>Cross-validation-based bandwidth selection</li>
+<li>Probability-weight selection</li>
+<li>Bickel–Rosenblatt goodness-of-fit testing</li>
+<li>Asymptotic behavior</li>
+<li>Empirical test size</li>
+<li>Statistical power</li>
+<li>Simulation-based performance evaluation</li>
+<li>Comparison with conventional kernel density estimators</li>
+</ul>
+<p>The broader goal is to understand whether tilted density estimators can improve inferential performance relative to conventional kernel-based approaches under different data-generating settings.</p>
+<hr>
+</section>
+</section>
+<section id="county-level-lung-cancer-mortality-in-the-united-states" class="level2">
+<h2 class="anchored" data-anchor-id="county-level-lung-cancer-mortality-in-the-united-states">County-Level Lung Cancer Mortality in the United States</h2>
+<section id="social-vulnerability-behavioral-risk-factors-spatial-clustering-and-unexplained-mortality-hotspots" class="level3">
+<h3 class="anchored" data-anchor-id="social-vulnerability-behavioral-risk-factors-spatial-clustering-and-unexplained-mortality-hotspots">Social Vulnerability, Behavioral Risk Factors, Spatial Clustering, and Unexplained Mortality Hotspots</h3>
+<p>This project examines geographic variation in lung cancer mortality across U.S. counties.</p>
+<p>I integrated data from the CDC Social Vulnerability Index, CDC PLACES, and the National Cancer Institute for 2,536 counties and applied a combination of classical regression, spatial statistics, machine learning, and mediation analysis.</p>
+</section>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+<ul>
+<li>Robust Ordinary Least Squares regression</li>
+<li>Quantile regression</li>
+<li>Global Moran’s I</li>
+<li>Local Indicators of Spatial Association</li>
+<li>Spatial error models</li>
+<li>Random Forest</li>
+<li>XGBoost</li>
+<li>SHAP interpretation</li>
+<li>Mediation analysis</li>
+<li>Geographic visualization</li>
 </ul>
 </section>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<div class="edu-timeline">
-<div class="edu-item edu-current">
-<pre><code>&lt;div class="edu-degree"&gt;Master of Applied Statistics&lt;/div&gt;
-&lt;div class="edu-school"&gt;
-  Illinois State University ·
-  &lt;span class="edu-year"&gt;Expected 2027&lt;/span&gt;
-&lt;/div&gt;</code></pre>
-</div>
-<div class="edu-item">
-<pre><code>&lt;div class="edu-degree"&gt;Bachelor of Arts in Mathematics and Statistics&lt;/div&gt;
-&lt;div class="edu-school"&gt;
-  University of Ghana ·
-  &lt;span class="edu-year"&gt;2023&lt;/span&gt;
-&lt;/div&gt;</code></pre>
-</div>
-</div>
+<section id="key-findings" class="level3">
+<h3 class="anchored" data-anchor-id="key-findings">Key Findings</h3>
+<p>The analysis identified 232 unexplained high-mortality spatial clusters after accounting for observed socioeconomic and behavioral factors.</p>
+<p>The study also estimated that COPD mediated approximately 50.8% of the county-level association between smoking and lung cancer mortality.</p>
+<hr>
+</section>
+</section>
+<section id="county-level-food-insecurity-and-chronic-disease-burden" class="level2">
+<h2 class="anchored" data-anchor-id="county-level-food-insecurity-and-chronic-disease-burden">County-Level Food Insecurity and Chronic Disease Burden</h2>
+<p>This project evaluates the joint geographic burden of food insecurity and chronic disease across U.S. counties.</p>
+<p>The analysis included 2,299 counties and combined food insecurity, social-needs, and chronic-disease data.</p>
+<section id="methods-1" class="level3">
+<h3 class="anchored" data-anchor-id="methods-1">Methods</h3>
+<ul>
+<li>Construction of a standardized disease-burden index</li>
+<li>Multivariable regression</li>
+<li>Sensitivity analysis</li>
+<li>Spatial autocorrelation</li>
+<li>Geographic mapping</li>
+</ul>
+</section>
+<section id="key-finding" class="level3">
+<h3 class="anchored" data-anchor-id="key-finding">Key Finding</h3>
+<p>The analysis identified 408 counties experiencing both high food insecurity and high chronic disease burden, highlighting potential priority areas for public-health intervention.</p>
+<hr>
+</section>
+</section>
+<section id="biomed-scribe" class="level2">
+<h2 class="anchored" data-anchor-id="biomed-scribe">BioMed-Scribe</h2>
+<section id="medical-specialty-classification-from-clinical-conversations" class="level3">
+<h3 class="anchored" data-anchor-id="medical-specialty-classification-from-clinical-conversations">Medical Specialty Classification from Clinical Conversations</h3>
+<p>BioMed-Scribe is a large language model project focused on classifying clinical conversations into medical specialties.</p>
+<p>I fine-tuned GPT-2 Medium using a two-block parameter-efficient fine-tuning strategy on 13,492 clinical conversations.</p>
+</section>
+<section id="model-performance" class="level3">
+<h3 class="anchored" data-anchor-id="model-performance">Model Performance</h3>
+<p>The final model achieved:</p>
+<ul>
+<li><strong>79.1% test accuracy</strong></li>
+<li><strong>0.799 macro-F1</strong></li>
+<li>Classification across Cardiology, Neurology, Orthopedics, and General Medicine</li>
+</ul>
+</section>
+<section id="methods-and-tools" class="level3">
+<h3 class="anchored" data-anchor-id="methods-and-tools">Methods and Tools</h3>
+<ul>
+<li>GPT-2 Medium</li>
+<li>Parameter-efficient fine-tuning</li>
+<li>Clinical text preprocessing</li>
+<li>t-SNE embedding analysis</li>
+<li>Model evaluation</li>
+<li>Gradio application deployment</li>
+</ul>
+<p>The project demonstrates how large language models can be adapted to specialized clinical classification tasks while limiting the number of trainable parameters.</p>
+<hr>
+</section>
+</section>
+<section id="statistical-analysis-of-diabetes-risk-factors" class="level2">
+<h2 class="anchored" data-anchor-id="statistical-analysis-of-diabetes-risk-factors">Statistical Analysis of Diabetes Risk Factors</h2>
+<p>This project investigates clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes among American adults.</p>
+<p>The analysis used 253,680 observations from the CDC Behavioral Risk Factor Surveillance System.</p>
+<section id="methods-2" class="level3">
+<h3 class="anchored" data-anchor-id="methods-2">Methods</h3>
+<ul>
+<li>Data transformation</li>
+<li>Chi-square tests</li>
+<li>Factorial ANOVA</li>
+<li>Multiple regression</li>
+<li>Logistic regression</li>
+<li>Model selection</li>
+<li>Regression diagnostics</li>
+<li>Sex-stratified analysis</li>
+</ul>
+<p>The analysis was conducted using both SAS and R.</p>
+<hr>
+</section>
+</section>
+<section id="modeling-life-expectancy-in-africa" class="level2">
+<h2 class="anchored" data-anchor-id="modeling-life-expectancy-in-africa">Modeling Life Expectancy in Africa</h2>
+<p>This project used socioeconomic and health indicators to model life expectancy across African countries.</p>
+<p>A multiple linear regression model was developed to identify key predictors of national life expectancy.</p>
+<p>The final model achieved an adjusted R-squared of approximately 0.98, with adult mortality and HIV incidence emerging as major predictors.</p>
+<hr>
+</section>
+<section id="malaria-research-in-ghana" class="level2">
+<h2 class="anchored" data-anchor-id="malaria-research-in-ghana">Malaria Research in Ghana</h2>
+<p>My earlier research focused on the use of machine learning to study malaria risk in Ghana.</p>
+<section id="malaria-among-pregnant-women" class="level3">
+<h3 class="anchored" data-anchor-id="malaria-among-pregnant-women">Malaria Among Pregnant Women</h3>
+<p>Using Demographic and Health Survey data, I applied explainable machine learning techniques to predict malaria risk among pregnant women.</p>
+<p>The K-Nearest Neighbor model achieved the strongest predictive performance, with an AUC of approximately 0.88.</p>
+<p>The analysis also ranked important predictors such as age and anaemia status.</p>
+</section>
+<section id="undergraduate-thesis" class="level3">
+<h3 class="anchored" data-anchor-id="undergraduate-thesis">Undergraduate Thesis</h3>
+<p>My undergraduate thesis examined machine learning approaches for identifying risk factors associated with malaria incidence among children under five years of age in Ghana.</p>
+<p>The project evaluated multiple machine learning algorithms, including:</p>
+<ul>
+<li>Random Forest</li>
+<li>Neural Networks</li>
+<li>K-Nearest Neighbors</li>
+<li>Additional classification models</li>
+</ul>
+<p>The analysis used data from the 2019 Ghana Malaria Indicator Survey.</p>
+<hr>
+</section>
+</section>
+<section id="fractal-pattern-generation-via-iterated-function-systems" class="level2">
+<h2 class="anchored" data-anchor-id="fractal-pattern-generation-via-iterated-function-systems">Fractal Pattern Generation via Iterated Function Systems</h2>
+<p>This project explored computational applications of linear algebra through the generation of fractal patterns.</p>
+<p>I developed a Python program that applied affine transformations iteratively to geometric shapes using matrix operations and translation vectors.</p>
+<section id="tools-and-concepts" class="level3">
+<h3 class="anchored" data-anchor-id="tools-and-concepts">Tools and Concepts</h3>
+<ul>
+<li>Python</li>
+<li>NumPy</li>
+<li>Matrix transformations</li>
+<li>Affine mappings</li>
+<li>Iterated function systems</li>
+<li>Mathematical visualization</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="research-approach" class="level2">
+<h2 class="anchored" data-anchor-id="research-approach">Research Approach</h2>
+<p>Across my projects, I am interested in combining statistical methodology with reproducible computational workflows.</p>
+<p>My research frequently involves:</p>
+<ul>
+<li>Data cleaning and integration</li>
+<li>Exploratory data analysis</li>
+<li>Statistical modeling</li>
+<li>Monte Carlo simulation</li>
+<li>Machine learning</li>
+<li>Spatial analysis</li>
+<li>Explainable AI</li>
+<li>Data visualization</li>
+<li>Reproducible reporting</li>
+<li>R, Python, SAS, SQL, and Quarto</li>
+</ul>
+<hr>
+</section>
+<section id="current-research-direction" class="level2">
+<h2 class="anchored" data-anchor-id="current-research-direction">Current Research Direction</h2>
+<p>My current work is increasingly focused on nonparametric statistical methodology, simulation-based inference, and the integration of classical statistical techniques with modern machine learning methods.</p>
+</section>
+<section id="i-am-especially-interested-in-research-that-is-methodologically-rigorous-computationally-reproducible-and-applicable-to-meaningful-scientific-and-public-health-questions." class="level2">
+<h2 class="anchored" data-anchor-id="i-am-especially-interested-in-research-that-is-methodologically-rigorous-computationally-reproducible-and-applicable-to-meaningful-scientific-and-public-health-questions.">I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions.</h2>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
 
 
 </section>
-</div></div>
-</div>
-
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

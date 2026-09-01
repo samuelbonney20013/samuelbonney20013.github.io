@@ -1,0 +1,73 @@
+---
+title: "Featured Posts"
+subtitle: "Selected academic activities, presentations, and professional milestones"
+page-layout: full
+toc: false
+---
+
+## Featured Posts
+
+### Joint Statistical Meetings and Diversity Mentoring Program
+
+**American Statistical Association · Boston, MA · August 2026**
+
+I participated in the Joint Statistical Meetings and the Diversity Mentoring Program, gaining exposure to current developments in statistics, professional networking, and mentoring opportunities within the statistical community.
+
+---
+
+### County-Level Food Insecurity and Chronic Disease Burden
+
+**Research Presentation · Illinois State University · May 2026**
+
+Presented research on county-level food insecurity and chronic disease burden in the United States, with a focus on identifying priority counties for intervention.
+
+The project combined public-health indicators, regression modeling, spatial autocorrelation, and geographic mapping.
+
+---
+
+### Statistical Analysis of Diabetes Risk Factors
+
+**Class Presentation · Illinois State University · May 2026**
+
+Presented a statistical analysis of diabetes risk factors among American adults using SAS and R.
+
+The project used CDC BRFSS data and included chi-square testing, ANOVA, regression modeling, diagnostics, and sex-based comparative analysis.
+
+---
+
+### County-Level Lung Cancer Mortality in the United States
+
+**Research Presentation · Illinois State University · March 2026**
+
+Presented research examining social vulnerability, behavioral risk factors, spatial clustering, and unexplained lung cancer mortality hotspots across U.S. counties.
+
+The analysis incorporated spatial statistics, regression models, machine learning, and mediation analysis.
+
+---
+
+### ENAR Fostering Diversity in Biostatistics Workshop
+
+**Indiana · March 2026**
+
+Participated in the ENAR Fostering Diversity in Biostatistics Workshop, an opportunity focused on mentoring, professional development, and engagement with the biostatistics community.
+
+---
+
+### Cardiovascular Disease Risk Factors
+
+**Class Presentation · Illinois State University · December 2025**
+
+Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.
+
+---
+
+### Machine Learning and Malaria Risk in Ghana
+
+**Departmental Seminar · University of Ghana · November 2023**
+
+Presented undergraduate research on the application of machine learning models to identify risk factors associated with malaria incidence among children under five years of age in Ghana.
+
+---
+
+<small>*Updated September 2026*</small>
+---

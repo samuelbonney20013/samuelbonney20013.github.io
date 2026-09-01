@@ -1,0 +1,232 @@
+---
+title: "Research"
+subtitle: "Selected research projects and methodological interests"
+page-layout: full
+toc: true
+---
+
+## Research Interests
+
+My research interests center on applied statistics, statistical learning, nonparametric methods, spatial statistics, and data-driven approaches to public health and biomedical problems.
+
+I am particularly interested in:
+
+- Nonparametric Statistics
+- Statistical Inference
+- Spatial Statistics
+- Machine Learning
+- Explainable AI
+- Public Health Analytics
+- Statistical Computing
+- Simulation Studies
+- Large Language Models
+- Reproducible Data Science
+
+---
+
+## Graduate Thesis
+
+### Nonparametric Tilted Density Estimation and Bickel–Rosenblatt Goodness-of-Fit Testing
+
+My graduate thesis investigates tilted kernel density estimators and their use in goodness-of-fit testing.
+
+The project focuses on selecting bandwidth and probability weights using cross-validation-based procedures and evaluating the resulting estimators through extensive simulation studies.
+
+### Current Focus
+
+The work examines:
+
+- Tilted kernel density estimation
+- Cross-validation-based bandwidth selection
+- Probability-weight selection
+- Bickel–Rosenblatt goodness-of-fit testing
+- Asymptotic behavior
+- Empirical test size
+- Statistical power
+- Simulation-based performance evaluation
+- Comparison with conventional kernel density estimators
+
+The broader goal is to understand whether tilted density estimators can improve inferential performance relative to conventional kernel-based approaches under different data-generating settings.
+
+---
+
+## County-Level Lung Cancer Mortality in the United States
+
+### Social Vulnerability, Behavioral Risk Factors, Spatial Clustering, and Unexplained Mortality Hotspots
+
+This project examines geographic variation in lung cancer mortality across U.S. counties.
+
+I integrated data from the CDC Social Vulnerability Index, CDC PLACES, and the National Cancer Institute for 2,536 counties and applied a combination of classical regression, spatial statistics, machine learning, and mediation analysis.
+
+### Methods
+
+- Robust Ordinary Least Squares regression
+- Quantile regression
+- Global Moran's I
+- Local Indicators of Spatial Association
+- Spatial error models
+- Random Forest
+- XGBoost
+- SHAP interpretation
+- Mediation analysis
+- Geographic visualization
+
+### Key Findings
+
+The analysis identified 232 unexplained high-mortality spatial clusters after accounting for observed socioeconomic and behavioral factors.
+
+The study also estimated that COPD mediated approximately 50.8% of the county-level association between smoking and lung cancer mortality.
+
+---
+
+## County-Level Food Insecurity and Chronic Disease Burden
+
+This project evaluates the joint geographic burden of food insecurity and chronic disease across U.S. counties.
+
+The analysis included 2,299 counties and combined food insecurity, social-needs, and chronic-disease data.
+
+### Methods
+
+- Construction of a standardized disease-burden index
+- Multivariable regression
+- Sensitivity analysis
+- Spatial autocorrelation
+- Geographic mapping
+
+### Key Finding
+
+The analysis identified 408 counties experiencing both high food insecurity and high chronic disease burden, highlighting potential priority areas for public-health intervention.
+
+---
+
+## BioMed-Scribe
+
+### Medical Specialty Classification from Clinical Conversations
+
+BioMed-Scribe is a large language model project focused on classifying clinical conversations into medical specialties.
+
+I fine-tuned GPT-2 Medium using a two-block parameter-efficient fine-tuning strategy on 13,492 clinical conversations.
+
+### Model Performance
+
+The final model achieved:
+
+- **79.1% test accuracy**
+- **0.799 macro-F1**
+- Classification across Cardiology, Neurology, Orthopedics, and General Medicine
+
+### Methods and Tools
+
+- GPT-2 Medium
+- Parameter-efficient fine-tuning
+- Clinical text preprocessing
+- t-SNE embedding analysis
+- Model evaluation
+- Gradio application deployment
+
+The project demonstrates how large language models can be adapted to specialized clinical classification tasks while limiting the number of trainable parameters.
+
+---
+
+## Statistical Analysis of Diabetes Risk Factors
+
+This project investigates clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes among American adults.
+
+The analysis used 253,680 observations from the CDC Behavioral Risk Factor Surveillance System.
+
+### Methods
+
+- Data transformation
+- Chi-square tests
+- Factorial ANOVA
+- Multiple regression
+- Logistic regression
+- Model selection
+- Regression diagnostics
+- Sex-stratified analysis
+
+The analysis was conducted using both SAS and R.
+
+---
+
+## Modeling Life Expectancy in Africa
+
+This project used socioeconomic and health indicators to model life expectancy across African countries.
+
+A multiple linear regression model was developed to identify key predictors of national life expectancy.
+
+The final model achieved an adjusted R-squared of approximately 0.98, with adult mortality and HIV incidence emerging as major predictors.
+
+---
+
+## Malaria Research in Ghana
+
+My earlier research focused on the use of machine learning to study malaria risk in Ghana.
+
+### Malaria Among Pregnant Women
+
+Using Demographic and Health Survey data, I applied explainable machine learning techniques to predict malaria risk among pregnant women.
+
+The K-Nearest Neighbor model achieved the strongest predictive performance, with an AUC of approximately 0.88.
+
+The analysis also ranked important predictors such as age and anaemia status.
+
+### Undergraduate Thesis
+
+My undergraduate thesis examined machine learning approaches for identifying risk factors associated with malaria incidence among children under five years of age in Ghana.
+
+The project evaluated multiple machine learning algorithms, including:
+
+- Random Forest
+- Neural Networks
+- K-Nearest Neighbors
+- Additional classification models
+
+The analysis used data from the 2019 Ghana Malaria Indicator Survey.
+
+---
+
+## Fractal Pattern Generation via Iterated Function Systems
+
+This project explored computational applications of linear algebra through the generation of fractal patterns.
+
+I developed a Python program that applied affine transformations iteratively to geometric shapes using matrix operations and translation vectors.
+
+### Tools and Concepts
+
+- Python
+- NumPy
+- Matrix transformations
+- Affine mappings
+- Iterated function systems
+- Mathematical visualization
+
+---
+
+## Research Approach
+
+Across my projects, I am interested in combining statistical methodology with reproducible computational workflows.
+
+My research frequently involves:
+
+- Data cleaning and integration
+- Exploratory data analysis
+- Statistical modeling
+- Monte Carlo simulation
+- Machine learning
+- Spatial analysis
+- Explainable AI
+- Data visualization
+- Reproducible reporting
+- R, Python, SAS, SQL, and Quarto
+
+---
+
+## Current Research Direction
+
+My current work is increasingly focused on nonparametric statistical methodology, simulation-based inference, and the integration of classical statistical techniques with modern machine learning methods.
+
+I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions.
+---
+
+## 

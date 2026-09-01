@@ -9,7 +9,7 @@
 <meta name="author" content="Samuel Bonney">
 <meta name="description" content="Academic website for Samuel Bonney, graduate student in Applied Statistics.">
 
-<title>Samuel Bonney</title>
+<title>Projects</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -72,9 +73,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Samuel Bonney">
+<meta property="og:title" content="Projects">
+<meta property="og:description" content="Selected statistical, machine learning, and data science projects">
 <meta property="og:image" content="https://samuelbonney20013.github.io/images/PP.jpeg">
-<meta name="twitter:title" content="Samuel Bonney">
+<meta name="twitter:title" content="Projects">
+<meta name="twitter:description" content="Selected statistical, machine learning, and data science projects">
 <meta name="twitter:image" content="https://samuelbonney20013.github.io/images/PP.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -92,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -115,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Awards &amp; Honors</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link" href="./posts.qmd"> 
 <span class="menu-text">Featured Posts</span></a>
   </li>  
 </ul>
@@ -149,85 +152,203 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="images/PP.jpeg" class="about-image
-  rounded " style="width: 50%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Samuel Bonney</h1>
+<h1 class="title">Projects</h1>
+<p class="subtitle lead">Selected statistical, machine learning, and data science projects</p>
 </div>
+
+
+
 <div class="quarto-title-meta column-page">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="mailto:sbonney@ilstu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://github.com/samuelbonney20013" class="about-link" rel="" target="_blank">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="/www.linkedin.com/in/samuel-bonney-b06472299" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
+
+
+<section id="selected-projects" class="level2">
+<h2 class="anchored" data-anchor-id="selected-projects">Selected Projects</h2>
+<p>A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.</p>
+<div class="project-grid">
+<section id="biomed-scribe" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="biomed-scribe">BioMed-Scribe</h3>
+<p><strong>Medical Specialty Classification from Clinical Conversations</strong></p>
+<div class="badges">
+<p><span class="badge">Python</span> <span class="badge">GPT-2</span> <span class="badge">NLP</span> <span class="badge">Gradio</span></p>
 </div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<section id="about-me" class="level2">
-<h2 data-anchor-id="about-me">About Me</h2>
-<p>Welcome to my academic website!</p>
-<p>I am <strong>Samuel Bonney</strong>, a graduate student in Applied Statistics at <a href="https://illinoisstate.edu/">Illinois State University</a>.</p>
-<p>I earned my Bachelor of Arts in Mathematics and Statistics from the <a href="https://www.ug.edu.gh/">University of Ghana</a> and am currently pursuing my Master of Applied Statistics at Illinois State University.</p>
-<p>My academic interests center on the application of statistical methods to real-world problems. I am particularly interested in statistical modeling, spatial statistics, nonparametric methods, statistical computing, data science, and public health applications.</p>
-<p>I enjoy using statistical theory, computation, and visualization to explore complex data, identify meaningful patterns, and communicate results in a clear and practical way.</p>
-</section>
-<section id="research-interests" class="level2">
-<h2 data-anchor-id="research-interests">Research Interests</h2>
+<p>Fine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.</p>
+<p><strong>Highlights</strong></p>
 <ul>
-<li>Applied Statistics</li>
-<li>Statistical Modeling</li>
-<li>Spatial Statistics</li>
-<li>Nonparametric Statistics</li>
-<li>Statistical Computing</li>
-<li>Data Science</li>
-<li>Machine Learning</li>
-<li>Public Health Analytics</li>
+<li>79.1% test accuracy</li>
+<li>0.799 macro-F1</li>
+<li>25.2M trainable parameters</li>
+<li>Four medical specialties</li>
+<li>t-SNE embedding analysis</li>
+<li>Interactive Gradio deployment</li>
+</ul>
+<div class="project-links">
+<p><a href="https://github.com/samuelbonney20013" class="btn btn-sm btn-outline-primary">View GitHub</a></p>
+</div>
+</section>
+<section id="county-level-lung-cancer-mortality" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="county-level-lung-cancer-mortality">County-Level Lung Cancer Mortality</h3>
+<p><strong>Spatial Statistics, Machine Learning, and Public Health</strong></p>
+<div class="badges">
+<p><span class="badge">R</span> <span class="badge">Spatial Statistics</span> <span class="badge">XGBoost</span> <span class="badge">SHAP</span></p>
+</div>
+<p>Analyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.</p>
+<p><strong>Methods</strong></p>
+<ul>
+<li>Robust OLS</li>
+<li>Quantile regression</li>
+<li>Moran’s I</li>
+<li>LISA</li>
+<li>Spatial error models</li>
+<li>Random Forest</li>
+<li>XGBoost</li>
+<li>SHAP</li>
+<li>Mediation analysis</li>
+</ul>
+<p><strong>Key Results</strong></p>
+<ul>
+<li>232 unexplained high-mortality spatial clusters identified</li>
+<li>COPD mediated approximately 50.8% of the county-level smoking–mortality association</li>
 </ul>
 </section>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<div class="edu-timeline">
-<div class="edu-item edu-current">
-<pre><code>&lt;div class="edu-degree"&gt;Master of Applied Statistics&lt;/div&gt;
-&lt;div class="edu-school"&gt;
-  Illinois State University ·
-  &lt;span class="edu-year"&gt;Expected 2027&lt;/span&gt;
-&lt;/div&gt;</code></pre>
+<section id="food-insecurity-and-chronic-disease-burden" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="food-insecurity-and-chronic-disease-burden">Food Insecurity and Chronic Disease Burden</h3>
+<p><strong>County-Level Public Health Analysis</strong></p>
+<div class="badges">
+<p><span class="badge">R</span> <span class="badge">Spatial Analysis</span> <span class="badge">Regression</span> <span class="badge">Mapping</span></p>
 </div>
-<div class="edu-item">
-<pre><code>&lt;div class="edu-degree"&gt;Bachelor of Arts in Mathematics and Statistics&lt;/div&gt;
-&lt;div class="edu-school"&gt;
-  University of Ghana ·
-  &lt;span class="edu-year"&gt;2023&lt;/span&gt;
-&lt;/div&gt;</code></pre>
+<p>Analyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.</p>
+<p><strong>Methods</strong></p>
+<ul>
+<li>Standardized disease-burden index</li>
+<li>Multivariable regression</li>
+<li>Sensitivity analysis</li>
+<li>Spatial autocorrelation</li>
+<li>Geographic mapping</li>
+</ul>
+<p><strong>Key Result</strong></p>
+<p>Identified 408 counties experiencing both high food insecurity and high chronic disease burden.</p>
+</section>
+<section id="statistical-analysis-of-diabetes-risk-factors" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="statistical-analysis-of-diabetes-risk-factors">Statistical Analysis of Diabetes Risk Factors</h3>
+<p><strong>CDC BRFSS Analysis</strong></p>
+<div class="badges">
+<p><span class="badge">SAS</span> <span class="badge">R</span> <span class="badge">Regression</span> <span class="badge">ANOVA</span></p>
 </div>
+<p>Analyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.</p>
+<p><strong>Methods</strong></p>
+<ul>
+<li>Chi-square tests</li>
+<li>Factorial ANOVA</li>
+<li>Multiple regression</li>
+<li>Logistic regression</li>
+<li>Model selection</li>
+<li>Diagnostics</li>
+<li>Sex-stratified analysis</li>
+</ul>
+</section>
+<section id="modeling-life-expectancy-in-africa" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="modeling-life-expectancy-in-africa">Modeling Life Expectancy in Africa</h3>
+<p><strong>Socioeconomic and Health Indicators</strong></p>
+<div class="badges">
+<p><span class="badge">R</span> <span class="badge">Regression</span> <span class="badge">Predictive Modeling</span></p>
 </div>
+<p>Built a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.</p>
+<p><strong>Key Result</strong></p>
+<p>The final model achieved an adjusted R² of approximately 0.98.</p>
+<p>Adult mortality and HIV incidence emerged as major predictors.</p>
+</section>
+<section id="explainable-machine-learning-for-malaria-risk" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="explainable-machine-learning-for-malaria-risk">Explainable Machine Learning for Malaria Risk</h3>
+<p><strong>Malaria Among Pregnant Women in Ghana</strong></p>
+<div class="badges">
+<p><span class="badge">Machine Learning</span> <span class="badge">KNN</span> <span class="badge">Public Health</span></p>
+</div>
+<p>Applied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.</p>
+<p><strong>Key Result</strong></p>
+<p>The K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.</p>
+</section>
+<section id="undergraduate-thesis" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="undergraduate-thesis">Undergraduate Thesis</h3>
+<p><strong>Malaria Risk Among Children Under Five in Ghana</strong></p>
+<div class="badges">
+<p><span class="badge">Machine Learning</span> <span class="badge">Random Forest</span> <span class="badge">Neural Networks</span></p>
+</div>
+<p>Used the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.</p>
+<p><strong>Models Evaluated</strong></p>
+<ul>
+<li>Random Forest</li>
+<li>Neural Networks</li>
+<li>K-Nearest Neighbors</li>
+<li>Other classification algorithms</li>
+</ul>
+</section>
+<section id="fractal-pattern-generation" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="fractal-pattern-generation">Fractal Pattern Generation</h3>
+<p><strong>Iterated Function Systems</strong></p>
+<div class="badges">
+<p><span class="badge">Python</span> <span class="badge">NumPy</span> <span class="badge">Linear Algebra</span></p>
+</div>
+<p>Developed a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.</p>
+<p><strong>Concepts</strong></p>
+<ul>
+<li>Matrix transformations</li>
+<li>Affine mappings</li>
+<li>Translation vectors</li>
+<li>Iterative computation</li>
+<li>Mathematical visualization</li>
+</ul>
+</section>
+</div>
+<hr>
+</section>
+<section id="technical-toolkit" class="level2">
+<h2 class="anchored" data-anchor-id="technical-toolkit">Technical Toolkit</h2>
+<div class="toolkit">
+<p><strong>Statistical Software</strong><br>
+R · SAS · SPSS · STATA</p>
+<p><strong>Programming &amp; Databases</strong><br>
+Python · SQL</p>
+<p><strong>Data &amp; Visualization</strong><br>
+Power BI · Excel · Geographic Mapping</p>
+<p><strong>Research &amp; Reproducibility</strong><br>
+Quarto · R Markdown · LaTeX · Git · GitHub</p>
+</div>
+<hr>
+</section>
+<section id="github" class="level2">
+<h2 class="anchored" data-anchor-id="github">GitHub</h2>
+<p>Additional code and future project repositories will be available on my GitHub profile.</p>
+</section>
+<section id="view-github" class="level2">
+<h2 class="anchored" data-anchor-id="view-github"><a href="https://github.com/samuelbonney20013" class="btn btn-primary">View GitHub</a></h2>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
 
 
 </section>
-</div></div>
-</div>
-
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
