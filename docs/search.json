@@ -1,10 +1,122 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Department of Mathematics, Illinois State University\nAugust 2025 – Present\nAs a Graduate Teaching Assistant, I support undergraduate instruction in mathematics and statistics through discussion sessions, computational work, assessment, and individualized feedback.\nMy responsibilities include:\n\nFacilitating weekly discussion sections\nLeading computational and problem-solving sessions\nReinforcing mathematical and statistical concepts through active learning\nGrading assignments and examinations\nProviding detailed feedback on student work\nSupporting students who need additional help with course material"
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "Department of Mathematics, Illinois State University\nAugust 2025 – Present\nAs a Graduate Teaching Assistant, I support undergraduate instruction in mathematics and statistics through discussion sessions, computational work, assessment, and individualized feedback.\nMy responsibilities include:\n\nFacilitating weekly discussion sections\nLeading computational and problem-solving sessions\nReinforcing mathematical and statistical concepts through active learning\nGrading assignments and examinations\nProviding detailed feedback on student work\nSupporting students who need additional help with course material"
+  },
+  {
+    "objectID": "teaching.html#courses-taught-and-assisted",
+    "href": "teaching.html#courses-taught-and-assisted",
+    "title": "Teaching",
+    "section": "Courses Taught and Assisted",
+    "text": "Courses Taught and Assisted\n\nIllinois State University\nMAT 113 — Elements of Mathematical Reasoning\nFall 2025, Fall 2026\nMAT 119 — College Algebra Fall 2026\nMAT 120 — Finite Mathematics Spring 2026\n\n\n\nUniversity of Ghana\nSTAT 223 — Elementary Statistical Methods\nSTAT 456 — Actuarial Statistics"
+  },
+  {
+    "objectID": "teaching.html#teaching-and-research-assistant",
+    "href": "teaching.html#teaching-and-research-assistant",
+    "title": "Teaching",
+    "section": "Teaching and Research Assistant",
+    "text": "Teaching and Research Assistant\nDepartment of Statistics and Actuarial Science, University of Ghana\nSeptember 2023 – August 2024\nI supported undergraduate and graduate students through tutorials, review sessions, and quantitative problem-solving.\nMy responsibilities included:\n\nCoordinating tutorial sessions\nConducting comprehensive review sessions\nExplaining theoretical statistical concepts\nHelping students develop stronger problem-solving strategies\nSupporting students preparing for assessments\nAssisting with faculty research through data cleaning, literature reviews, and exploratory data analysis\n\nThis role allowed me to combine teaching with research support in a statistical consulting environment."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nI view mathematics and statistics as disciplines that are best learned through a combination of conceptual understanding, structured problem solving, and practical application.\nIn teaching, I aim to help students move beyond memorizing formulas or procedures and instead understand:\n\nWhy a method works\nWhen it should be used\nWhat assumptions it relies on\nHow to interpret results\nHow to communicate reasoning clearly\n\nI also believe students learn quantitative material best when they are encouraged to ask questions, work through examples, and connect abstract ideas to concrete problems."
+  },
+  {
+    "objectID": "teaching.html#computational-instruction",
+    "href": "teaching.html#computational-instruction",
+    "title": "Teaching",
+    "section": "Computational Instruction",
+    "text": "Computational Instruction\nA significant part of my teaching and academic experience involves helping students develop confidence with quantitative and computational tools.\nAreas I support include:\n\nData management\nExploratory data analysis\nStatistical visualization\nRegression modeling\nStatistical inference\nInterpretation of statistical output\nReproducible analysis\n\nMy technical experience includes:\nR · SAS · SPSS · STATA · Python · SQL"
+  },
+  {
+    "objectID": "teaching.html#mentoring-and-academic-support",
+    "href": "teaching.html#mentoring-and-academic-support",
+    "title": "Teaching",
+    "section": "Mentoring and Academic Support",
+    "text": "Mentoring and Academic Support\n\nSolution Space Member\nThe Mathematics Society, University of Ghana\n2020 – 2023\nAs a member of the Solution Space initiative, I helped students approach challenging mathematical problems by providing explanations, problem-solving strategies, and guidance intended to promote independent reasoning."
+  },
+  {
+    "objectID": "teaching.html#educational-leadership",
+    "href": "teaching.html#educational-leadership",
+    "title": "Teaching",
+    "section": "Educational Leadership",
+    "text": "Educational Leadership\n\nMathEye Impact\nCo-Founder / Vice President\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting students in mathematics and related subjects\nDeveloping learning opportunities for high-achieving students\nContributing to the administration of a residential academic program\nSupporting students preparing for Cambridge International examinations"
+  },
+  {
+    "objectID": "teaching.html#the-inaugural-cohort-achieved-strong-academic-outcomes-with-students-earning-a-and-a-grades-on-more-than-70-of-examinations-taken.",
+    "href": "teaching.html#the-inaugural-cohort-achieved-strong-academic-outcomes-with-students-earning-a-and-a-grades-on-more-than-70-of-examinations-taken.",
+    "title": "Teaching",
+    "section": "The inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.",
+    "text": "The inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.\n\n\n\nMedical Specialty Classification from Clinical Conversations\n\nPython GPT-2 NLP Gradio\n\nFine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.\nHighlights\n\n79.1% test accuracy\n0.799 macro-F1\n25.2M trainable parameters\nFour medical specialties\nt-SNE embedding analysis\nInteractive Gradio deployment\n\n\nView GitHub\n\n\n\n\nSpatial Statistics, Machine Learning, and Public Health\n\nR Spatial Statistics XGBoost SHAP\n\nAnalyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.\nMethods\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nRandom Forest\nXGBoost\nSHAP\nMediation analysis\n\nKey Results\n\n232 unexplained high-mortality spatial clusters identified\nCOPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\n\nCounty-Level Public Health Analysis\n\nR Spatial Analysis Regression Mapping\n\nAnalyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\nMethods\n\nStandardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\nKey Result\nIdentified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\n\nCDC BRFSS Analysis\n\nSAS R Regression ANOVA\n\nAnalyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.\nMethods\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nDiagnostics\nSex-stratified analysis\n\n\n\n\nSocioeconomic and Health Indicators\n\nR Regression Predictive Modeling\n\nBuilt a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.\nKey Result\nThe final model achieved an adjusted R² of approximately 0.98.\nAdult mortality and HIV incidence emerged as major predictors.\n\n\n\nMalaria Among Pregnant Women in Ghana\n\nMachine Learning KNN Public Health\n\nApplied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.\nKey Result\nThe K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.\n\n\n\nMalaria Risk Among Children Under Five in Ghana\n\nMachine Learning Random Forest Neural Networks\n\nUsed the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nOther classification algorithms\n\n\n\n\nIterated Function Systems\n\nPython NumPy Linear Algebra\n\nDeveloped a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.\nConcepts\n\nMatrix transformations\nAffine mappings\nTranslation vectors\nIterative computation\nMathematical visualization"
+  },
+  {
+    "objectID": "projects.html#selected-projects",
+    "href": "projects.html#selected-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.\n\n\n\nMedical Specialty Classification from Clinical Conversations\n\nPython GPT-2 NLP Gradio\n\nFine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.\nHighlights\n\n79.1% test accuracy\n0.799 macro-F1\n25.2M trainable parameters\nFour medical specialties\nt-SNE embedding analysis\nInteractive Gradio deployment\n\n\nView GitHub\n\n\n\n\nSpatial Statistics, Machine Learning, and Public Health\n\nR Spatial Statistics XGBoost SHAP\n\nAnalyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.\nMethods\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nRandom Forest\nXGBoost\nSHAP\nMediation analysis\n\nKey Results\n\n232 unexplained high-mortality spatial clusters identified\nCOPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\n\nCounty-Level Public Health Analysis\n\nR Spatial Analysis Regression Mapping\n\nAnalyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\nMethods\n\nStandardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\nKey Result\nIdentified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\n\nCDC BRFSS Analysis\n\nSAS R Regression ANOVA\n\nAnalyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.\nMethods\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nDiagnostics\nSex-stratified analysis\n\n\n\n\nSocioeconomic and Health Indicators\n\nR Regression Predictive Modeling\n\nBuilt a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.\nKey Result\nThe final model achieved an adjusted R² of approximately 0.98.\nAdult mortality and HIV incidence emerged as major predictors.\n\n\n\nMalaria Among Pregnant Women in Ghana\n\nMachine Learning KNN Public Health\n\nApplied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.\nKey Result\nThe K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.\n\n\n\nMalaria Risk Among Children Under Five in Ghana\n\nMachine Learning Random Forest Neural Networks\n\nUsed the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nOther classification algorithms\n\n\n\n\nIterated Function Systems\n\nPython NumPy Linear Algebra\n\nDeveloped a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.\nConcepts\n\nMatrix transformations\nAffine mappings\nTranslation vectors\nIterative computation\nMathematical visualization"
+  },
+  {
+    "objectID": "projects.html#technical-toolkit",
+    "href": "projects.html#technical-toolkit",
+    "title": "Projects",
+    "section": "Technical Toolkit",
+    "text": "Technical Toolkit\n\nStatistical Software\nR · SAS · SPSS · STATA\nProgramming & Databases\nPython · SQL\nData & Visualization\nPower BI · Excel · Geographic Mapping\nResearch & Reproducibility\nQuarto · R Markdown · LaTeX · Git · GitHub"
+  },
+  {
+    "objectID": "projects.html#github",
+    "href": "projects.html#github",
+    "title": "Projects",
+    "section": "GitHub",
+    "text": "GitHub\nAdditional code and future project repositories will be available on my GitHub profile."
+  },
+  {
+    "objectID": "projects.html#view-github",
+    "href": "projects.html#view-github",
+    "title": "Projects",
+    "section": "View GitHub",
+    "text": "View GitHub"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Featured Posts",
+    "section": "",
+    "text": "American Statistical Association · Boston, MA · August 2026\nI participated in the Joint Statistical Meetings and the Diversity Mentoring Program, gaining exposure to current developments in statistics, professional networking, and mentoring opportunities within the statistical community.\n\n\n\n\nResearch Presentation · Illinois State University · May 2026\nPresented research on county-level food insecurity and chronic disease burden in the United States, with a focus on identifying priority counties for intervention.\nThe project combined public-health indicators, regression modeling, spatial autocorrelation, and geographic mapping.\n\n\n\n\nClass Presentation · Illinois State University · May 2026\nPresented a statistical analysis of diabetes risk factors among American adults using SAS and R.\nThe project used CDC BRFSS data and included chi-square testing, ANOVA, regression modeling, diagnostics, and sex-based comparative analysis.\n\n\n\n\nResearch Presentation · Illinois State University · March 2026\nPresented research examining social vulnerability, behavioral risk factors, spatial clustering, and unexplained lung cancer mortality hotspots across U.S. counties.\nThe analysis incorporated spatial statistics, regression models, machine learning, and mediation analysis.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, an opportunity focused on mentoring, professional development, and engagement with the biostatistics community.\n\n\n\n\nClass Presentation · Illinois State University · December 2025\nPresented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.\n\n\n\n\nDepartmental Seminar · University of Ghana · November 2023\nPresented undergraduate research on the application of machine learning models to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
+  },
+  {
+    "objectID": "posts.html#featured-posts",
+    "href": "posts.html#featured-posts",
+    "title": "Featured Posts",
+    "section": "",
+    "text": "American Statistical Association · Boston, MA · August 2026\nI participated in the Joint Statistical Meetings and the Diversity Mentoring Program, gaining exposure to current developments in statistics, professional networking, and mentoring opportunities within the statistical community.\n\n\n\n\nResearch Presentation · Illinois State University · May 2026\nPresented research on county-level food insecurity and chronic disease burden in the United States, with a focus on identifying priority counties for intervention.\nThe project combined public-health indicators, regression modeling, spatial autocorrelation, and geographic mapping.\n\n\n\n\nClass Presentation · Illinois State University · May 2026\nPresented a statistical analysis of diabetes risk factors among American adults using SAS and R.\nThe project used CDC BRFSS data and included chi-square testing, ANOVA, regression modeling, diagnostics, and sex-based comparative analysis.\n\n\n\n\nResearch Presentation · Illinois State University · March 2026\nPresented research examining social vulnerability, behavioral risk factors, spatial clustering, and unexplained lung cancer mortality hotspots across U.S. counties.\nThe analysis incorporated spatial statistics, regression models, machine learning, and mediation analysis.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, an opportunity focused on mentoring, professional development, and engagement with the biostatistics community.\n\n\n\n\nClass Presentation · Illinois State University · December 2025\nPresented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.\n\n\n\n\nDepartmental Seminar · University of Ghana · November 2023\nPresented undergraduate research on the application of machine learning models to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
+  },
+  {
+    "objectID": "posts.html#updated-september-2026",
+    "href": "posts.html#updated-september-2026",
+    "title": "Featured Posts",
+    "section": "Updated September 2026",
+    "text": "Updated September 2026"
   },
   {
     "objectID": "index.html",
@@ -12,13 +124,6 @@
     "title": "Samuel Bonney",
     "section": "",
     "text": "Graduate Student in Applied Statistics · Illinois State University"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Samuel Bonney",
-    "section": "Education",
-    "text": "Education\n\nMaster of Science in Applied Statistics\nIllinois State University\n2025–2027\n\n\nBachelor of Arts in Mathematics and Statistics\nUniversity of Ghana\n2019–2023"
   },
   {
     "objectID": "index.html#about-me",
@@ -35,32 +140,172 @@
     "text": "Research Interests\n\nNonparametric Statistics\nStatistical Inference\nSpatial Statistics\nStatistical Learning\nMachine Learning\nExplainable AI\nStatistical Computing\nSimulation Studies\nPublic Health Analytics\nData Science"
   },
   {
-    "objectID": "index.html#selected-research",
-    "href": "index.html#selected-research",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Samuel Bonney",
-    "section": "Selected Research",
-    "text": "Selected Research\n\nCounty-Level Lung Cancer Mortality in the United States\nMy research examines geographic variation in lung cancer mortality across U.S. counties using social, behavioral, and public health data.\nThe project incorporates statistical and spatial methods including regression modeling, quantile regression, Moran’s I, Local Indicators of Spatial Association, and spatial error models.\nLearn more about my research →\n\n\nNonparametric Density Estimation\nI am also working on simulation-based research involving nonparametric density estimation, bandwidth selection, calibration, and statistical performance.\nThe project evaluates different bandwidth choices and tuning parameters through repeated simulation experiments.\nView my projects →"
+    "section": "Education",
+    "text": "Education\n\nMaster of Science in Applied Statistics\nIllinois State University\n2025–2027\n\n\nBachelor of Arts in Mathematics and Statistics\nUniversity of Ghana\n2019–2023"
   },
   {
-    "objectID": "index.html#technical-skills",
-    "href": "index.html#technical-skills",
-    "title": "Samuel Bonney",
-    "section": "Technical Skills",
-    "text": "Technical Skills\nProgramming: R, Python, SQL\nStatistical Methods: Regression, Quantile Regression, Spatial Analysis, Nonparametric Methods, Simulation\nSoftware and Tools: RStudio, Quarto, Git, GitHub, LaTeX"
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
   },
   {
-    "objectID": "index.html#current-interests",
-    "href": "index.html#current-interests",
-    "title": "Samuel Bonney",
-    "section": "Current Interests",
-    "text": "Current Interests\nI am interested in opportunities involving:\n\nApplied statistical research\nData science\nStatistical consulting\nPublic health analytics\nSpatial and geographic data analysis\nResearch internships\nStatistical programming"
+    "objectID": "awards.html#awards-honors",
+    "href": "awards.html#awards-honors",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Samuel Bonney",
-    "section": "Contact",
-    "text": "Contact\nI am always interested in connecting with others working in statistics, data science, and related research areas.\nYou can find my work on GitHub."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "award.html",
+    "href": "award.html",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
+  },
+  {
+    "objectID": "award.html#awards-honors",
+    "href": "award.html#awards-honors",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am always interested in connecting with researchers, students, and professionals working in statistics, data science, machine learning, public health analytics, and related fields.\nI am also open to conversations about research collaborations, internships, statistical consulting, and other professional opportunities."
+  },
+  {
+    "objectID": "contact.html#contact-me",
+    "href": "contact.html#contact-me",
+    "title": "Contact",
+    "section": "",
+    "text": "I am always interested in connecting with researchers, students, and professionals working in statistics, data science, machine learning, public health analytics, and related fields.\nI am also open to conversations about research collaborations, internships, statistical consulting, and other professional opportunities."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nSamuel Bonney\nGraduate Student in Applied Statistics\nIllinois State University\n✉ sbonney@ilstu.edu (sbonney at ilstu dot edu)"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "Location",
+    "text": "Location\nNormal, Illinois, USA\nIllinois State University\nDepartment of Mathematics"
+  },
+  {
+    "objectID": "contact.html#online-profiles",
+    "href": "contact.html#online-profiles",
+    "title": "Contact",
+    "section": "Online Profiles",
+    "text": "Online Profiles\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#research-professional-interests",
+    "href": "contact.html#research-professional-interests",
+    "title": "Contact",
+    "section": "Research & Professional Interests",
+    "text": "Research & Professional Interests\nI welcome opportunities involving:\n\nApplied statistics\nStatistical methodology\nNonparametric statistics\nSpatial statistics\nMachine learning\nStatistical computing\nPublic health analytics\nData science\nResearch collaboration\nStatistical consulting"
+  },
+  {
+    "objectID": "contact.html#curriculum-vitae",
+    "href": "contact.html#curriculum-vitae",
+    "title": "Contact",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\nFor additional information about my education, research, teaching, and professional experience:"
+  },
+  {
+    "objectID": "contact.html#view-my-cv",
+    "href": "contact.html#view-my-cv",
+    "title": "Contact",
+    "section": "View My CV",
+    "text": "View My CV"
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "Illinois State University\n2026 – Present\nAs Treasurer of the Ghanaian Students Association, I help manage the organization’s financial operations and support planning for student activities and events.\nMy responsibilities include:\n\nBudget preparation\nFinancial recordkeeping\nReimbursement processing\nExpenditure tracking\nResource allocation\nCollaboration with executive members on event planning\nSupporting responsible financial decision-making\n\n\n\n\n\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana, particularly in the Central Region.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting the development of a residential learning environment\nContributing to student recruitment and academic programming\nSupporting mathematics and science education\nAssisting with school administration and resource planning\nMentoring students preparing for Cambridge International examinations\n\nThe inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.\nFive students also finished first in Ghana in their respective subjects."
+  },
+  {
+    "objectID": "leadership.html#leadership",
+    "href": "leadership.html#leadership",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "Illinois State University\n2026 – Present\nAs Treasurer of the Ghanaian Students Association, I help manage the organization’s financial operations and support planning for student activities and events.\nMy responsibilities include:\n\nBudget preparation\nFinancial recordkeeping\nReimbursement processing\nExpenditure tracking\nResource allocation\nCollaboration with executive members on event planning\nSupporting responsible financial decision-making\n\n\n\n\n\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana, particularly in the Central Region.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting the development of a residential learning environment\nContributing to student recruitment and academic programming\nSupporting mathematics and science education\nAssisting with school administration and resource planning\nMentoring students preparing for Cambridge International examinations\n\nThe inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.\nFive students also finished first in Ghana in their respective subjects."
+  },
+  {
+    "objectID": "leadership.html#mentoring",
+    "href": "leadership.html#mentoring",
+    "title": "Leadership & Service",
+    "section": "Mentoring",
+    "text": "Mentoring\n\nSolution Space Member\nThe Mathematics Society, University of Ghana\n2020 – 2023\nAs a member of the Solution Space initiative, I helped students work through challenging mathematical problems by providing clear explanations, structured problem-solving strategies, and guidance aimed at building independent reasoning skills."
+  },
+  {
+    "objectID": "leadership.html#professional-memberships",
+    "href": "leadership.html#professional-memberships",
+    "title": "Leadership & Service",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\nI am currently a member of:\n\nAmerican Mathematical Society — 2025–Present\nInstitute of Mathematical Statistics — 2025–Present"
+  },
+  {
+    "objectID": "leadership.html#professional-development",
+    "href": "leadership.html#professional-development",
+    "title": "Leadership & Service",
+    "section": "Professional Development",
+    "text": "Professional Development\nMy professional development activities have included:\n\nJoint Statistical Meetings Diversity Mentoring Program\nENAR Fostering Diversity in Biostatistics Workshop\nResearch presentations\nStatistical consulting experience\nTeaching and mentoring\nData analysis and statistical computing"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Conferences & Presentations",
+    "section": "",
+    "text": "American Statistical Association\nBoston, Massachusetts · August 2026\nParticipated in the Joint Statistical Meetings and the Diversity Mentoring Program, with opportunities for professional development, mentoring, networking, and engagement with the broader statistical community.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, with a focus on professional development, mentoring, and exposure to opportunities in biostatistics."
+  },
+  {
+    "objectID": "presentations.html#conferences-workshops",
+    "href": "presentations.html#conferences-workshops",
+    "title": "Conferences & Presentations",
+    "section": "",
+    "text": "American Statistical Association\nBoston, Massachusetts · August 2026\nParticipated in the Joint Statistical Meetings and the Diversity Mentoring Program, with opportunities for professional development, mentoring, networking, and engagement with the broader statistical community.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, with a focus on professional development, mentoring, and exposure to opportunities in biostatistics."
+  },
+  {
+    "objectID": "presentations.html#research-presentations",
+    "href": "presentations.html#research-presentations",
+    "title": "Conferences & Presentations",
+    "section": "Research Presentations",
+    "text": "Research Presentations\n\nCounty-Level Food Insecurity and Chronic Disease Burden in the United States\nResearch Presentation\nIllinois State University\nMay 2026\nPresented an analysis of county-level food insecurity and chronic disease burden in the United States, with emphasis on identifying priority counties for intervention.\nThe project incorporated regression modeling, sensitivity analysis, spatial autocorrelation, and geographic mapping.\n\n\n\nCounty-Level Lung Cancer Mortality in the United States\nResearch Presentation\nIllinois State University\nMarch 2026\nPresented research on social vulnerability, behavioral risk factors, spatial clustering, and unexplained mortality hotspots across U.S. counties.\nThe analysis incorporated:\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nMachine learning\nMediation analysis\n\n\n\n\nApplication of Machine Learning Models to Identify Risk Factors of Malaria Incidence Among Children Under Five in Ghana\nDepartmental Seminar\nUniversity of Ghana\nNovember 2023\nPresented undergraduate thesis research using machine learning methods to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
+  },
+  {
+    "objectID": "presentations.html#academic-presentations",
+    "href": "presentations.html#academic-presentations",
+    "title": "Conferences & Presentations",
+    "section": "Academic Presentations",
+    "text": "Academic Presentations\n\nStatistical Analysis of Diabetes Risk Factors Among American Adults\nClass Presentation\nIllinois State University\nMay 2026\nPresented a sex-based comparative analysis of diabetes risk factors using SAS and R.\nMethods included:\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel diagnostics\n\n\n\n\nStatistical Analysis of Cardiovascular Disease Risk Factors\nClass Presentation\nIllinois State University\nDecember 2025"
+  },
+  {
+    "objectID": "presentations.html#presented-a-gender-based-comparative-analysis-of-cardiovascular-disease-risk-factors-using-minitab.",
+    "href": "presentations.html#presented-a-gender-based-comparative-analysis-of-cardiovascular-disease-risk-factors-using-minitab.",
+    "title": "Conferences & Presentations",
+    "section": "Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.",
+    "text": "Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab."
   },
   {
     "objectID": "research.html",
@@ -152,348 +397,5 @@
     "title": "Research",
     "section": "I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions.",
     "text": "I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.\n\n\n\nMedical Specialty Classification from Clinical Conversations\n\nPython GPT-2 NLP Gradio\n\nFine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.\nHighlights\n\n79.1% test accuracy\n0.799 macro-F1\n25.2M trainable parameters\nFour medical specialties\nt-SNE embedding analysis\nInteractive Gradio deployment\n\n\nView GitHub\n\n\n\n\nSpatial Statistics, Machine Learning, and Public Health\n\nR Spatial Statistics XGBoost SHAP\n\nAnalyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.\nMethods\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nRandom Forest\nXGBoost\nSHAP\nMediation analysis\n\nKey Results\n\n232 unexplained high-mortality spatial clusters identified\nCOPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\n\nCounty-Level Public Health Analysis\n\nR Spatial Analysis Regression Mapping\n\nAnalyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\nMethods\n\nStandardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\nKey Result\nIdentified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\n\nCDC BRFSS Analysis\n\nSAS R Regression ANOVA\n\nAnalyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.\nMethods\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nDiagnostics\nSex-stratified analysis\n\n\n\n\nSocioeconomic and Health Indicators\n\nR Regression Predictive Modeling\n\nBuilt a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.\nKey Result\nThe final model achieved an adjusted R² of approximately 0.98.\nAdult mortality and HIV incidence emerged as major predictors.\n\n\n\nMalaria Among Pregnant Women in Ghana\n\nMachine Learning KNN Public Health\n\nApplied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.\nKey Result\nThe K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.\n\n\n\nMalaria Risk Among Children Under Five in Ghana\n\nMachine Learning Random Forest Neural Networks\n\nUsed the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nOther classification algorithms\n\n\n\n\nIterated Function Systems\n\nPython NumPy Linear Algebra\n\nDeveloped a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.\nConcepts\n\nMatrix transformations\nAffine mappings\nTranslation vectors\nIterative computation\nMathematical visualization"
-  },
-  {
-    "objectID": "projects.html#selected-projects",
-    "href": "projects.html#selected-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.\n\n\n\nMedical Specialty Classification from Clinical Conversations\n\nPython GPT-2 NLP Gradio\n\nFine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.\nHighlights\n\n79.1% test accuracy\n0.799 macro-F1\n25.2M trainable parameters\nFour medical specialties\nt-SNE embedding analysis\nInteractive Gradio deployment\n\n\nView GitHub\n\n\n\n\nSpatial Statistics, Machine Learning, and Public Health\n\nR Spatial Statistics XGBoost SHAP\n\nAnalyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.\nMethods\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nRandom Forest\nXGBoost\nSHAP\nMediation analysis\n\nKey Results\n\n232 unexplained high-mortality spatial clusters identified\nCOPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\n\nCounty-Level Public Health Analysis\n\nR Spatial Analysis Regression Mapping\n\nAnalyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\nMethods\n\nStandardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\nKey Result\nIdentified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\n\nCDC BRFSS Analysis\n\nSAS R Regression ANOVA\n\nAnalyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.\nMethods\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nDiagnostics\nSex-stratified analysis\n\n\n\n\nSocioeconomic and Health Indicators\n\nR Regression Predictive Modeling\n\nBuilt a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.\nKey Result\nThe final model achieved an adjusted R² of approximately 0.98.\nAdult mortality and HIV incidence emerged as major predictors.\n\n\n\nMalaria Among Pregnant Women in Ghana\n\nMachine Learning KNN Public Health\n\nApplied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.\nKey Result\nThe K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.\n\n\n\nMalaria Risk Among Children Under Five in Ghana\n\nMachine Learning Random Forest Neural Networks\n\nUsed the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nOther classification algorithms\n\n\n\n\nIterated Function Systems\n\nPython NumPy Linear Algebra\n\nDeveloped a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.\nConcepts\n\nMatrix transformations\nAffine mappings\nTranslation vectors\nIterative computation\nMathematical visualization"
-  },
-  {
-    "objectID": "projects.html#biomed-scribe",
-    "href": "projects.html#biomed-scribe",
-    "title": "Projects",
-    "section": "BioMed-Scribe",
-    "text": "BioMed-Scribe\n\nMedical Specialty Classification from Clinical Conversations\nType: Large Language Model / NLP\nTools: Python, GPT-2 Medium, t-SNE, Gradio\nBioMed-Scribe is a medical text classification project designed to classify clinical conversations into medical specialties.\nThe project used 13,492 clinical conversations and fine-tuned GPT-2 Medium using a two-block parameter-efficient fine-tuning strategy.\n\n\nResults\n\n79.1% test accuracy\n0.799 macro-F1\nFour-class classification:\n\nCardiology\nNeurology\nOrthopedics\nGeneral Medicine\n\n25.2 million trainable parameters\nInteractive deployment using Gradio\n\n\n\nWhat I Worked On\n\nClinical text preprocessing\nModel fine-tuning\nClassification evaluation\nEmbedding visualization using t-SNE\nInteractive model deployment"
-  },
-  {
-    "objectID": "projects.html#county-level-lung-cancer-mortality-in-the-united-states",
-    "href": "projects.html#county-level-lung-cancer-mortality-in-the-united-states",
-    "title": "Projects",
-    "section": "County-Level Lung Cancer Mortality in the United States",
-    "text": "County-Level Lung Cancer Mortality in the United States\nType: Spatial Statistics / Public Health / Machine Learning\nTools: R, spatial analysis, Random Forest, XGBoost, SHAP\nThis project analyzed lung cancer mortality across 2,536 U.S. counties using data from the CDC Social Vulnerability Index, CDC PLACES, and the National Cancer Institute.\n\nMethods\n\nRobust OLS regression\nQuantile regression\nGlobal Moran’s I\nLocal Indicators of Spatial Association\nSpatial error models\nRandom Forest\nXGBoost\nSHAP interpretation\nMediation analysis\n\n\n\nResults\n\nIdentified 232 unexplained high-mortality spatial clusters\nEstimated that COPD mediated approximately 50.8% of the county-level smoking–mortality association\n\n\n\nSkills Demonstrated\n\nMulti-source data integration\nSpatial modeling\nRegression analysis\nMachine learning\nExplainable AI\nPublic-health interpretation\nGeographic visualization"
-  },
-  {
-    "objectID": "projects.html#county-level-food-insecurity-and-chronic-disease-burden",
-    "href": "projects.html#county-level-food-insecurity-and-chronic-disease-burden",
-    "title": "Projects",
-    "section": "County-Level Food Insecurity and Chronic Disease Burden",
-    "text": "County-Level Food Insecurity and Chronic Disease Burden\nType: Public Health Analytics / Spatial Analysis\nTools: R, regression, spatial statistics, mapping\nThis project analyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.\n\nMethods\n\nConstruction of a standardized disease-burden index\nMultivariable regression\nSensitivity analysis\nSpatial autocorrelation\nGeographic mapping\n\n\n\nResult\nThe analysis identified 408 counties experiencing both high food insecurity and high chronic disease burden.\n\n\nSkills Demonstrated\n\nIndex construction\nData integration\nGeographic analysis\nStatistical modeling\nPublic-health interpretation"
-  },
-  {
-    "objectID": "projects.html#statistical-analysis-of-diabetes-risk-factors",
-    "href": "projects.html#statistical-analysis-of-diabetes-risk-factors",
-    "title": "Projects",
-    "section": "Statistical Analysis of Diabetes Risk Factors",
-    "text": "Statistical Analysis of Diabetes Risk Factors\nType: Statistical Modeling / Public Health\nTools: SAS, R\nThis project used 253,680 CDC BRFSS observations to investigate factors associated with diabetes-related outcomes among American adults.\n\nMethods\n\nData transformation\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel selection\nRegression diagnostics\nSex-stratified analyses\n\n\n\nSkills Demonstrated\n\nLarge dataset analysis\nClassical statistical inference\nModel diagnostics\nSAS programming\nR programming"
-  },
-  {
-    "objectID": "projects.html#modeling-life-expectancy-in-africa",
-    "href": "projects.html#modeling-life-expectancy-in-africa",
-    "title": "Projects",
-    "section": "Modeling Life Expectancy in Africa",
-    "text": "Modeling Life Expectancy in Africa\nType: Regression Modeling\nTools: R\nThis project used socioeconomic and health indicators to predict life expectancy across African countries.\n\nResults\nThe final multiple linear regression model achieved an adjusted R-squared of approximately 0.98.\nAdult mortality and HIV incidence were identified as major predictors of life expectancy.\n\n\nSkills Demonstrated\n\nRegression modeling\nVariable selection\nModel interpretation\nStatistical diagnostics"
-  },
-  {
-    "objectID": "projects.html#explainable-machine-learning-for-malaria-risk",
-    "href": "projects.html#explainable-machine-learning-for-malaria-risk",
-    "title": "Projects",
-    "section": "Explainable Machine Learning for Malaria Risk",
-    "text": "Explainable Machine Learning for Malaria Risk\nType: Machine Learning / Public Health\nTools: R, machine learning models\nThis project used Demographic and Health Survey data to model malaria prevalence among pregnant women in Ghana.\n\nMethods\nSeveral machine learning models were evaluated and compared.\nThe K-Nearest Neighbor model achieved the strongest predictive performance, with an AUC of approximately 0.88.\n\n\nSkills Demonstrated\n\nPredictive modeling\nModel comparison\nClassification\nFeature importance\nPublic-health analytics"
-  },
-  {
-    "objectID": "projects.html#undergraduate-thesis-malaria-risk-among-children-under-five",
-    "href": "projects.html#undergraduate-thesis-malaria-risk-among-children-under-five",
-    "title": "Projects",
-    "section": "Undergraduate Thesis: Malaria Risk Among Children Under Five",
-    "text": "Undergraduate Thesis: Malaria Risk Among Children Under Five\nType: Machine Learning / Epidemiology\nMy undergraduate thesis investigated machine learning methods for identifying risk factors associated with malaria incidence among children under five years of age in Ghana.\nThe analysis used the 2019 Ghana Malaria Indicator Survey.\n\nModels Evaluated\n\nRandom Forest\nNeural Networks\nK-Nearest Neighbors\nAdditional classification algorithms\n\n\n\nSkills Demonstrated\n\nSurvey-data analysis\nMachine learning\nModel evaluation\nEpidemiologic interpretation"
-  },
-  {
-    "objectID": "projects.html#fractal-pattern-generation",
-    "href": "projects.html#fractal-pattern-generation",
-    "title": "Projects",
-    "section": "Fractal Pattern Generation",
-    "text": "Fractal Pattern Generation\n\nIterated Function Systems\nType: Mathematical Computing\nTools: Python, NumPy\nThis project explored computational applications of linear algebra by generating fractal patterns using iterated function systems.\nI developed a Python program that repeatedly applied affine transformations to geometric shapes using matrix operations and translation vectors.\n\n\nConcepts Used\n\nLinear algebra\nMatrix transformations\nAffine transformations\nIterated function systems\nNumPy computation\nMathematical visualization"
-  },
-  {
-    "objectID": "projects.html#technical-toolkit",
-    "href": "projects.html#technical-toolkit",
-    "title": "Projects",
-    "section": "Technical Toolkit",
-    "text": "Technical Toolkit\n\nStatistical Software\nR · SAS · SPSS · STATA\nProgramming & Databases\nPython · SQL\nData & Visualization\nPower BI · Excel · Geographic Mapping\nResearch & Reproducibility\nQuarto · R Markdown · LaTeX · Git · GitHub"
-  },
-  {
-    "objectID": "projects.html#github",
-    "href": "projects.html#github",
-    "title": "Projects",
-    "section": "GitHub",
-    "text": "GitHub\nAdditional code and future project repositories will be available on my GitHub profile."
-  },
-  {
-    "objectID": "projects.html#view-my-github",
-    "href": "projects.html#view-my-github",
-    "title": "Projects",
-    "section": "View my GitHub",
-    "text": "View my GitHub"
-  },
-  {
-    "objectID": "projects.html#view-github",
-    "href": "projects.html#view-github",
-    "title": "Projects",
-    "section": "View GitHub",
-    "text": "View GitHub"
-  },
-  {
-    "objectID": "award.html",
-    "href": "award.html",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
-  },
-  {
-    "objectID": "award.html#awards-honors",
-    "href": "award.html#awards-honors",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Featured Posts",
-    "section": "",
-    "text": "American Statistical Association · Boston, MA · August 2026\nI participated in the Joint Statistical Meetings and the Diversity Mentoring Program, gaining exposure to current developments in statistics, professional networking, and mentoring opportunities within the statistical community.\n\n\n\n\nResearch Presentation · Illinois State University · May 2026\nPresented research on county-level food insecurity and chronic disease burden in the United States, with a focus on identifying priority counties for intervention.\nThe project combined public-health indicators, regression modeling, spatial autocorrelation, and geographic mapping.\n\n\n\n\nClass Presentation · Illinois State University · May 2026\nPresented a statistical analysis of diabetes risk factors among American adults using SAS and R.\nThe project used CDC BRFSS data and included chi-square testing, ANOVA, regression modeling, diagnostics, and sex-based comparative analysis.\n\n\n\n\nResearch Presentation · Illinois State University · March 2026\nPresented research examining social vulnerability, behavioral risk factors, spatial clustering, and unexplained lung cancer mortality hotspots across U.S. counties.\nThe analysis incorporated spatial statistics, regression models, machine learning, and mediation analysis.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, an opportunity focused on mentoring, professional development, and engagement with the biostatistics community.\n\n\n\n\nClass Presentation · Illinois State University · December 2025\nPresented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.\n\n\n\n\nDepartmental Seminar · University of Ghana · November 2023\nPresented undergraduate research on the application of machine learning models to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
-  },
-  {
-    "objectID": "posts.html#featured-posts",
-    "href": "posts.html#featured-posts",
-    "title": "Featured Posts",
-    "section": "",
-    "text": "American Statistical Association · Boston, MA · August 2026\nI participated in the Joint Statistical Meetings and the Diversity Mentoring Program, gaining exposure to current developments in statistics, professional networking, and mentoring opportunities within the statistical community.\n\n\n\n\nResearch Presentation · Illinois State University · May 2026\nPresented research on county-level food insecurity and chronic disease burden in the United States, with a focus on identifying priority counties for intervention.\nThe project combined public-health indicators, regression modeling, spatial autocorrelation, and geographic mapping.\n\n\n\n\nClass Presentation · Illinois State University · May 2026\nPresented a statistical analysis of diabetes risk factors among American adults using SAS and R.\nThe project used CDC BRFSS data and included chi-square testing, ANOVA, regression modeling, diagnostics, and sex-based comparative analysis.\n\n\n\n\nResearch Presentation · Illinois State University · March 2026\nPresented research examining social vulnerability, behavioral risk factors, spatial clustering, and unexplained lung cancer mortality hotspots across U.S. counties.\nThe analysis incorporated spatial statistics, regression models, machine learning, and mediation analysis.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, an opportunity focused on mentoring, professional development, and engagement with the biostatistics community.\n\n\n\n\nClass Presentation · Illinois State University · December 2025\nPresented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.\n\n\n\n\nDepartmental Seminar · University of Ghana · November 2023\nPresented undergraduate research on the application of machine learning models to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
-  },
-  {
-    "objectID": "posts.html#updated-september-2026",
-    "href": "posts.html#updated-september-2026",
-    "title": "Featured Posts",
-    "section": "Updated September 2026",
-    "text": "Updated September 2026"
-  },
-  {
-    "objectID": "awards.html",
-    "href": "awards.html",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
-  },
-  {
-    "objectID": "awards.html#awards-honors",
-    "href": "awards.html#awards-honors",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Illinois State University · 2026\nRecognized as an outstanding master’s student for academic performance and achievement in the Applied Statistics program.\n\n\n\nIllinois State University · 2026\nAwarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.\n\n\n\nAmerican Statistical Association · 2026\nReceived funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.\nThe program provides professional development, mentoring, networking, and exposure to the broader statistics community.\n\n\n\nENAR · 2025\nSelected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.\nThe workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.\n\n\n\nUniversity of Ghana · 2023\nWon the Statistics and Actuarial Science Quiz Competition at the University of Ghana.\n\n\n\nUniversity of Ghana · 2023\nWon the Mathematics Society Quiz Competition at the University of Ghana."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Department of Mathematics, Illinois State University\nAugust 2025 – Present\nAs a Graduate Teaching Assistant, I support undergraduate instruction in mathematics and statistics through discussion sessions, computational work, assessment, and individualized feedback.\nMy responsibilities include:\n\nFacilitating weekly discussion sections\nLeading computational and problem-solving sessions\nReinforcing mathematical and statistical concepts through active learning\nGrading assignments and examinations\nProviding detailed feedback on student work\nSupporting students who need additional help with course material"
-  },
-  {
-    "objectID": "teaching.html#teaching-experience",
-    "href": "teaching.html#teaching-experience",
-    "title": "Teaching",
-    "section": "",
-    "text": "Department of Mathematics, Illinois State University\nAugust 2025 – Present\nAs a Graduate Teaching Assistant, I support undergraduate instruction in mathematics and statistics through discussion sessions, computational work, assessment, and individualized feedback.\nMy responsibilities include:\n\nFacilitating weekly discussion sections\nLeading computational and problem-solving sessions\nReinforcing mathematical and statistical concepts through active learning\nGrading assignments and examinations\nProviding detailed feedback on student work\nSupporting students who need additional help with course material"
-  },
-  {
-    "objectID": "teaching.html#teaching-philosophy",
-    "href": "teaching.html#teaching-philosophy",
-    "title": "Teaching",
-    "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nI view mathematics and statistics as disciplines that are best learned through a combination of conceptual understanding, structured problem solving, and practical application.\nIn teaching, I aim to help students move beyond memorizing formulas or procedures and instead understand:\n\nWhy a method works\nWhen it should be used\nWhat assumptions it relies on\nHow to interpret results\nHow to communicate reasoning clearly\n\nI also believe students learn quantitative material best when they are encouraged to ask questions, work through examples, and connect abstract ideas to concrete problems."
-  },
-  {
-    "objectID": "teaching.html#computational-instruction",
-    "href": "teaching.html#computational-instruction",
-    "title": "Teaching",
-    "section": "Computational Instruction",
-    "text": "Computational Instruction\nA significant part of my teaching and academic experience involves helping students develop confidence with quantitative and computational tools.\nAreas I support include:\n\nData management\nExploratory data analysis\nStatistical visualization\nRegression modeling\nStatistical inference\nInterpretation of statistical output\nReproducible analysis\n\nMy technical experience includes:\nR · SAS · SPSS · STATA · Python · SQL"
-  },
-  {
-    "objectID": "teaching.html#mentoring-and-academic-support",
-    "href": "teaching.html#mentoring-and-academic-support",
-    "title": "Teaching",
-    "section": "Mentoring and Academic Support",
-    "text": "Mentoring and Academic Support\n\nSolution Space Member\nThe Mathematics Society, University of Ghana\n2020 – 2023\nAs a member of the Solution Space initiative, I helped students approach challenging mathematical problems by providing explanations, problem-solving strategies, and guidance intended to promote independent reasoning."
-  },
-  {
-    "objectID": "teaching.html#educational-leadership",
-    "href": "teaching.html#educational-leadership",
-    "title": "Teaching",
-    "section": "Educational Leadership",
-    "text": "Educational Leadership\n\nMathEye Impact\nCo-Founder / Vice President\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting students in mathematics and related subjects\nDeveloping learning opportunities for high-achieving students\nContributing to the administration of a residential academic program\nSupporting students preparing for Cambridge International examinations"
-  },
-  {
-    "objectID": "teaching.html#teaching-interests",
-    "href": "teaching.html#teaching-interests",
-    "title": "Teaching",
-    "section": "Teaching Interests",
-    "text": "Teaching Interests\nI am especially interested in teaching courses related to:\n\nIntroductory Statistics\nApplied Statistics\nRegression Analysis\nStatistical Computing\nData Science\nMachine Learning\nProbability and Mathematical Statistics\nStatistical Programming"
-  },
-  {
-    "objectID": "teaching.html#courses-taught-and-assisted",
-    "href": "teaching.html#courses-taught-and-assisted",
-    "title": "Teaching",
-    "section": "Courses Taught and Assisted",
-    "text": "Courses Taught and Assisted\n\nIllinois State University\nMAT 113 — Elements of Mathematical Reasoning\nFall 2025, Fall 2026\nMAT 119 — College Algebra Fall 2026\nMAT 120 — Finite Mathematics Spring 2026\n\n\n\nUniversity of Ghana\nSTAT 223 — Elementary Statistical Methods\nSTAT 456 — Actuarial Statistics"
-  },
-  {
-    "objectID": "teaching.html#teaching-and-research-assistant",
-    "href": "teaching.html#teaching-and-research-assistant",
-    "title": "Teaching",
-    "section": "Teaching and Research Assistant",
-    "text": "Teaching and Research Assistant\nDepartment of Statistics and Actuarial Science, University of Ghana\nSeptember 2023 – August 2024\nI supported undergraduate and graduate students through tutorials, review sessions, and quantitative problem-solving.\nMy responsibilities included:\n\nCoordinating tutorial sessions\nConducting comprehensive review sessions\nExplaining theoretical statistical concepts\nHelping students develop stronger problem-solving strategies\nSupporting students preparing for assessments\nAssisting with faculty research through data cleaning, literature reviews, and exploratory data analysis\n\nThis role allowed me to combine teaching with research support in a statistical consulting environment."
-  },
-  {
-    "objectID": "teaching.html#the-inaugural-cohort-achieved-strong-academic-outcomes-with-students-earning-a-and-a-grades-on-more-than-70-of-examinations-taken.",
-    "href": "teaching.html#the-inaugural-cohort-achieved-strong-academic-outcomes-with-students-earning-a-and-a-grades-on-more-than-70-of-examinations-taken.",
-    "title": "Teaching",
-    "section": "The inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.",
-    "text": "The inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I am always interested in connecting with researchers, students, and professionals working in statistics, data science, machine learning, public health analytics, and related fields.\nI am also open to conversations about research collaborations, internships, statistical consulting, and other professional opportunities."
-  },
-  {
-    "objectID": "contact.html#contact-me",
-    "href": "contact.html#contact-me",
-    "title": "Contact",
-    "section": "",
-    "text": "I am always interested in connecting with researchers, students, and professionals working in statistics, data science, machine learning, public health analytics, and related fields.\nI am also open to conversations about research collaborations, internships, statistical consulting, and other professional opportunities."
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "Email",
-    "text": "Email\nSamuel Bonney\nGraduate Student in Applied Statistics\nIllinois State University\n✉ sbonney@ilstu.edu (sbonney at ilstu dot edu)"
-  },
-  {
-    "objectID": "contact.html#location",
-    "href": "contact.html#location",
-    "title": "Contact",
-    "section": "Location",
-    "text": "Location\nNormal, Illinois, USA\nIllinois State University\nDepartment of Mathematics"
-  },
-  {
-    "objectID": "contact.html#online-profiles",
-    "href": "contact.html#online-profiles",
-    "title": "Contact",
-    "section": "Online Profiles",
-    "text": "Online Profiles\nGitHub\nLinkedIn"
-  },
-  {
-    "objectID": "contact.html#research-professional-interests",
-    "href": "contact.html#research-professional-interests",
-    "title": "Contact",
-    "section": "Research & Professional Interests",
-    "text": "Research & Professional Interests\nI welcome opportunities involving:\n\nApplied statistics\nStatistical methodology\nNonparametric statistics\nSpatial statistics\nMachine learning\nStatistical computing\nPublic health analytics\nData science\nResearch collaboration\nStatistical consulting"
-  },
-  {
-    "objectID": "contact.html#curriculum-vitae",
-    "href": "contact.html#curriculum-vitae",
-    "title": "Contact",
-    "section": "Curriculum Vitae",
-    "text": "Curriculum Vitae\nFor additional information about my education, research, teaching, and professional experience:"
-  },
-  {
-    "objectID": "contact.html#view-my-cv",
-    "href": "contact.html#view-my-cv",
-    "title": "Contact",
-    "section": "View My CV",
-    "text": "View My CV"
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Conferences & Presentations",
-    "section": "",
-    "text": "American Statistical Association\nBoston, Massachusetts · August 2026\nParticipated in the Joint Statistical Meetings and the Diversity Mentoring Program, with opportunities for professional development, mentoring, networking, and engagement with the broader statistical community.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, with a focus on professional development, mentoring, and exposure to opportunities in biostatistics."
-  },
-  {
-    "objectID": "presentations.html#conferences-workshops",
-    "href": "presentations.html#conferences-workshops",
-    "title": "Conferences & Presentations",
-    "section": "",
-    "text": "American Statistical Association\nBoston, Massachusetts · August 2026\nParticipated in the Joint Statistical Meetings and the Diversity Mentoring Program, with opportunities for professional development, mentoring, networking, and engagement with the broader statistical community.\n\n\n\n\nIndiana · March 2026\nParticipated in the ENAR Fostering Diversity in Biostatistics Workshop, with a focus on professional development, mentoring, and exposure to opportunities in biostatistics."
-  },
-  {
-    "objectID": "presentations.html#research-presentations",
-    "href": "presentations.html#research-presentations",
-    "title": "Conferences & Presentations",
-    "section": "Research Presentations",
-    "text": "Research Presentations\n\nCounty-Level Food Insecurity and Chronic Disease Burden in the United States\nResearch Presentation\nIllinois State University\nMay 2026\nPresented an analysis of county-level food insecurity and chronic disease burden in the United States, with emphasis on identifying priority counties for intervention.\nThe project incorporated regression modeling, sensitivity analysis, spatial autocorrelation, and geographic mapping.\n\n\n\nCounty-Level Lung Cancer Mortality in the United States\nResearch Presentation\nIllinois State University\nMarch 2026\nPresented research on social vulnerability, behavioral risk factors, spatial clustering, and unexplained mortality hotspots across U.S. counties.\nThe analysis incorporated:\n\nRobust OLS\nQuantile regression\nMoran’s I\nLISA\nSpatial error models\nMachine learning\nMediation analysis\n\n\n\n\nApplication of Machine Learning Models to Identify Risk Factors of Malaria Incidence Among Children Under Five in Ghana\nDepartmental Seminar\nUniversity of Ghana\nNovember 2023\nPresented undergraduate thesis research using machine learning methods to identify risk factors associated with malaria incidence among children under five years of age in Ghana."
-  },
-  {
-    "objectID": "presentations.html#academic-presentations",
-    "href": "presentations.html#academic-presentations",
-    "title": "Conferences & Presentations",
-    "section": "Academic Presentations",
-    "text": "Academic Presentations\n\nStatistical Analysis of Diabetes Risk Factors Among American Adults\nClass Presentation\nIllinois State University\nMay 2026\nPresented a sex-based comparative analysis of diabetes risk factors using SAS and R.\nMethods included:\n\nChi-square tests\nFactorial ANOVA\nMultiple regression\nLogistic regression\nModel diagnostics\n\n\n\n\nStatistical Analysis of Cardiovascular Disease Risk Factors\nClass Presentation\nIllinois State University\nDecember 2025"
-  },
-  {
-    "objectID": "presentations.html#presented-a-gender-based-comparative-analysis-of-cardiovascular-disease-risk-factors-using-minitab.",
-    "href": "presentations.html#presented-a-gender-based-comparative-analysis-of-cardiovascular-disease-risk-factors-using-minitab.",
-    "title": "Conferences & Presentations",
-    "section": "Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab.",
-    "text": "Presented a gender-based comparative analysis of cardiovascular disease risk factors using Minitab."
-  },
-  {
-    "objectID": "leadership.html",
-    "href": "leadership.html",
-    "title": "Leadership & Service",
-    "section": "",
-    "text": "Illinois State University\n2026 – Present\nAs Treasurer of the Ghanaian Students Association, I help manage the organization’s financial operations and support planning for student activities and events.\nMy responsibilities include:\n\nBudget preparation\nFinancial recordkeeping\nReimbursement processing\nExpenditure tracking\nResource allocation\nCollaboration with executive members on event planning\nSupporting responsible financial decision-making\n\n\n\n\n\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana, particularly in the Central Region.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting the development of a residential learning environment\nContributing to student recruitment and academic programming\nSupporting mathematics and science education\nAssisting with school administration and resource planning\nMentoring students preparing for Cambridge International examinations\n\nThe inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.\nFive students also finished first in Ghana in their respective subjects."
-  },
-  {
-    "objectID": "leadership.html#leadership",
-    "href": "leadership.html#leadership",
-    "title": "Leadership & Service",
-    "section": "",
-    "text": "Illinois State University\n2026 – Present\nAs Treasurer of the Ghanaian Students Association, I help manage the organization’s financial operations and support planning for student activities and events.\nMy responsibilities include:\n\nBudget preparation\nFinancial recordkeeping\nReimbursement processing\nExpenditure tracking\nResource allocation\nCollaboration with executive members on event planning\nSupporting responsible financial decision-making\n\n\n\n\n\n2021 – Present\nI co-founded MathEye Impact, a nonprofit educational initiative serving high-achieving students from low-income backgrounds in Ghana, particularly in the Central Region.\nMy responsibilities have included:\n\nAcademic and organizational leadership\nSupporting the development of a residential learning environment\nContributing to student recruitment and academic programming\nSupporting mathematics and science education\nAssisting with school administration and resource planning\nMentoring students preparing for Cambridge International examinations\n\nThe inaugural cohort achieved strong academic outcomes, with students earning A and A* grades on more than 70% of examinations taken.\nFive students also finished first in Ghana in their respective subjects."
-  },
-  {
-    "objectID": "leadership.html#mentoring",
-    "href": "leadership.html#mentoring",
-    "title": "Leadership & Service",
-    "section": "Mentoring",
-    "text": "Mentoring\n\nSolution Space Member\nThe Mathematics Society, University of Ghana\n2020 – 2023\nAs a member of the Solution Space initiative, I helped students work through challenging mathematical problems by providing clear explanations, structured problem-solving strategies, and guidance aimed at building independent reasoning skills."
-  },
-  {
-    "objectID": "leadership.html#professional-memberships",
-    "href": "leadership.html#professional-memberships",
-    "title": "Leadership & Service",
-    "section": "Professional Memberships",
-    "text": "Professional Memberships\nI am currently a member of:\n\nAmerican Mathematical Society — 2025–Present\nInstitute of Mathematical Statistics — 2025–Present"
-  },
-  {
-    "objectID": "leadership.html#professional-development",
-    "href": "leadership.html#professional-development",
-    "title": "Leadership & Service",
-    "section": "Professional Development",
-    "text": "Professional Development\nMy professional development activities have included:\n\nJoint Statistical Meetings Diversity Mentoring Program\nENAR Fostering Diversity in Biostatistics Workshop\nResearch presentations\nStatistical consulting experience\nTeaching and mentoring\nData analysis and statistical computing"
   }
 ]
