@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -14,10 +14,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3b70048a18d7346dda91cbc844313ac3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e6e518aa5a687bf7e11e193e0f623b29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -218,7 +221,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Interactive Gradio deployment</li>
 </ul>
 <div class="project-links">
-<p><a href="https://github.com/samuelbonney20013" class="btn btn-sm btn-outline-primary">View GitHub</a></p>
+<p><a href="https://github.com/samuelbonney20013/biomed-scribe" class="btn btn-sm btn-outline-primary" target="_blank">View GitHub</a></p>
+<p><a href="files/reports/BioMed_Scribe_Report.pdf" class="btn btn-sm btn-primary" target="_blank">View Report</a></p>
 </div>
 </section>
 <section id="county-level-lung-cancer-mortality" class="level3 project-card">
@@ -227,7 +231,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="badges">
 <p><span class="badge">R</span> <span class="badge">Spatial Statistics</span> <span class="badge">XGBoost</span> <span class="badge">SHAP</span></p>
 </div>
-<p>Analyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.</p>
+<p>Analyzed lung cancer mortality across 2,536 U.S. counties using CDC Social Vulnerability Index, CDC PLACES, and National Cancer Institute data.</p>
 <p><strong>Methods</strong></p>
 <ul>
 <li>Robust OLS</li>
@@ -245,6 +249,9 @@ ul.task-list li input[type="checkbox"] {
 <li>232 unexplained high-mortality spatial clusters identified</li>
 <li>COPD mediated approximately 50.8% of the county-level smoking–mortality association</li>
 </ul>
+<div class="project-links">
+<p><a href="files/reports/Lung_Cancer_Report.pdf" class="btn btn-sm btn-primary" target="_blank">View Report</a></p>
+</div>
 </section>
 <section id="food-insecurity-and-chronic-disease-burden" class="level3 project-card">
 <h3 class="anchored" data-anchor-id="food-insecurity-and-chronic-disease-burden">Food Insecurity and Chronic Disease Burden</h3>
@@ -252,17 +259,50 @@ ul.task-list li input[type="checkbox"] {
 <div class="badges">
 <p><span class="badge">R</span> <span class="badge">Spatial Analysis</span> <span class="badge">Regression</span> <span class="badge">Mapping</span></p>
 </div>
-<p>Analyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.</p>
+<p>Analyzed 2,299 U.S. counties to examine the relationship between food insecurity and chronic disease burden.</p>
 <p><strong>Methods</strong></p>
 <ul>
-<li>Standardized disease-burden index</li>
+<li>Standardized chronic disease burden index</li>
 <li>Multivariable regression</li>
 <li>Sensitivity analysis</li>
 <li>Spatial autocorrelation</li>
 <li>Geographic mapping</li>
 </ul>
-<p><strong>Key Result</strong></p>
-<p>Identified 408 counties experiencing both high food insecurity and high chronic disease burden.</p>
+<p><strong>Key Results</strong></p>
+<ul>
+<li>Identified 408 counties with jointly high food insecurity and chronic disease burden</li>
+<li>Significant spatial clustering was observed across the United States</li>
+</ul>
+<div class="project-links">
+<p><a href="files/reports/Food_Insecurity_Chronic_Disease_Burden.pdf" class="btn btn-sm btn-primary" target="_blank">View Report</a></p>
+</div>
+</section>
+<section id="cardiovascular-disease-risk-factors" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="cardiovascular-disease-risk-factors">Cardiovascular Disease Risk Factors</h3>
+<p><strong>Gender-Based Comparative Statistical Analysis</strong></p>
+<div class="badges">
+<p><span class="badge">Minitab</span> <span class="badge">Logistic Regression</span> <span class="badge">ROC Analysis</span> <span class="badge">Public Health</span></p>
+</div>
+<p>Analyzed cardiovascular disease risk factors in a public dataset of 68,672 adults, with emphasis on whether associations differed between women and men.</p>
+<p><strong>Methods</strong></p>
+<ul>
+<li>Spearman correlation</li>
+<li>Welch’s two-sample t test</li>
+<li>Kruskal-Wallis tests</li>
+<li>Chi-square test of independence</li>
+<li>Binary logistic regression</li>
+<li>Gender-specific models</li>
+<li>ROC and AUC analysis</li>
+</ul>
+<p><strong>Key Results</strong></p>
+<ul>
+<li>Combined logistic model achieved an AUC of approximately 0.791</li>
+<li>Age, BMI, blood pressure, and cholesterol were important predictors of cardiovascular disease</li>
+<li>Gender-specific models showed similar overall risk structures with differences in coefficient magnitude</li>
+</ul>
+<div class="project-links">
+<p><a href="files/reports/Cardiovascular_Disease_Risk_Factors.pdf" class="btn btn-sm btn-primary" target="_blank">View Report</a></p>
+</div>
 </section>
 <section id="statistical-analysis-of-diabetes-risk-factors" class="level3 project-card">
 <h3 class="anchored" data-anchor-id="statistical-analysis-of-diabetes-risk-factors">Statistical Analysis of Diabetes Risk Factors</h3>
@@ -341,7 +381,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="technical-toolkit">Technical Toolkit</h2>
 <div class="toolkit">
 <p><strong>Statistical Software</strong><br>
-R · SAS · SPSS · STATA</p>
+R · SAS · SPSS · STATA · Minitab</p>
 <p><strong>Programming &amp; Databases</strong><br>
 Python · SQL</p>
 <p><strong>Data &amp; Visualization</strong><br>
@@ -353,13 +393,8 @@ Quarto · R Markdown · LaTeX · Git · GitHub</p>
 </section>
 <section id="github" class="level2">
 <h2 class="anchored" data-anchor-id="github">GitHub</h2>
-<p>Additional code and future project repositories will be available on my GitHub profile.</p>
-</section>
-<section id="view-github" class="level2">
-<h2 class="anchored" data-anchor-id="view-github"><a href="https://github.com/samuelbonney20013" class="btn btn-primary">View GitHub</a></h2>
-</section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
+<p>Additional code and project repositories are available on my GitHub profile.</p>
+<p><a href="https://github.com/samuelbonney20013" class="btn btn-primary" target="_blank">View GitHub</a></p>
 
 
 </section>

@@ -9,20 +9,15 @@ toc: false
 
 A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.
 
-<div class="project-grid">
-
-<div class="project-card">
-
+::::::::::::::::::::::::: project-grid
+::::: project-card
 ### BioMed-Scribe
 
 **Medical Specialty Classification from Clinical Conversations**
 
-<div class="badges">
-<span class="badge">Python</span>
-<span class="badge">GPT-2</span>
-<span class="badge">NLP</span>
-<span class="badge">Gradio</span>
-</div>
+::: badges
+[Python]{.badge} [GPT-2]{.badge} [NLP]{.badge} [Gradio]{.badge}
+:::
 
 Fine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block parameter-efficient fine-tuning strategy.
 
@@ -35,29 +30,23 @@ Fine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block param
 - t-SNE embedding analysis
 - Interactive Gradio deployment
 
-<div class="project-links">
+::: project-links
+[View GitHub](https://github.com/samuelbonney20013/biomed-scribe){.btn .btn-sm .btn-outline-primary target="_blank"}
 
-[View GitHub](https://github.com/samuelbonney20013){.btn .btn-sm .btn-outline-primary}
+[View Report](files/reports/BioMed_Scribe_Report.pdf){.btn .btn-sm .btn-primary target="_blank"}
+:::
+:::::
 
-</div>
-
-</div>
-
-
-<div class="project-card">
-
+::::: project-card
 ### County-Level Lung Cancer Mortality
 
 **Spatial Statistics, Machine Learning, and Public Health**
 
-<div class="badges">
-<span class="badge">R</span>
-<span class="badge">Spatial Statistics</span>
-<span class="badge">XGBoost</span>
-<span class="badge">SHAP</span>
-</div>
+::: badges
+[R]{.badge} [Spatial Statistics]{.badge} [XGBoost]{.badge} [SHAP]{.badge}
+:::
 
-Analyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLACES, and National Cancer Institute data.
+Analyzed lung cancer mortality across 2,536 U.S. counties using CDC Social Vulnerability Index, CDC PLACES, and National Cancer Institute data.
 
 **Methods**
 
@@ -76,51 +65,80 @@ Analyzed lung cancer mortality across 2,536 U.S. counties using CDC SVI, CDC PLA
 - 232 unexplained high-mortality spatial clusters identified
 - COPD mediated approximately 50.8% of the county-level smoking–mortality association
 
-</div>
+::: project-links
+[View Report](files/reports/Lung_Cancer_Report.pdf){.btn .btn-sm .btn-primary target="_blank"}
+:::
+:::::
 
-
-<div class="project-card">
-
+::::: project-card
 ### Food Insecurity and Chronic Disease Burden
 
 **County-Level Public Health Analysis**
 
-<div class="badges">
-<span class="badge">R</span>
-<span class="badge">Spatial Analysis</span>
-<span class="badge">Regression</span>
-<span class="badge">Mapping</span>
-</div>
+::: badges
+[R]{.badge} [Spatial Analysis]{.badge} [Regression]{.badge} [Mapping]{.badge}
+:::
 
-Analyzed 2,299 U.S. counties using food insecurity, social-needs, and chronic-disease data.
+Analyzed 2,299 U.S. counties to examine the relationship between food insecurity and chronic disease burden.
 
 **Methods**
 
-- Standardized disease-burden index
+- Standardized chronic disease burden index
 - Multivariable regression
 - Sensitivity analysis
 - Spatial autocorrelation
 - Geographic mapping
 
-**Key Result**
+**Key Results**
 
-Identified 408 counties experiencing both high food insecurity and high chronic disease burden.
+- Identified 408 counties with jointly high food insecurity and chronic disease burden
+- Significant spatial clustering was observed across the United States
 
-</div>
+::: project-links
+[View Report](files/reports/Food_Insecurity_Chronic_Disease_Burden.pdf){.btn .btn-sm .btn-primary target="_blank"}
+:::
+:::::
 
+::::: project-card
+### Cardiovascular Disease Risk Factors
 
-<div class="project-card">
+**Gender-Based Comparative Statistical Analysis**
 
+::: badges
+[Minitab]{.badge} [Logistic Regression]{.badge} [ROC Analysis]{.badge} [Public Health]{.badge}
+:::
+
+Analyzed cardiovascular disease risk factors in a public dataset of 68,672 adults, with emphasis on whether associations differed between women and men.
+
+**Methods**
+
+- Spearman correlation
+- Welch's two-sample t test
+- Kruskal-Wallis tests
+- Chi-square test of independence
+- Binary logistic regression
+- Gender-specific models
+- ROC and AUC analysis
+
+**Key Results**
+
+- Combined logistic model achieved an AUC of approximately 0.791
+- Age, BMI, blood pressure, and cholesterol were important predictors of cardiovascular disease
+- Gender-specific models showed similar overall risk structures with differences in coefficient magnitude
+
+::: project-links
+[View Report](files/reports/Cardiovascular_Disease_Risk_Factors.pdf){.btn .btn-sm .btn-primary target="_blank"}
+:::
+:::::
+
+:::: project-card
 ### Statistical Analysis of Diabetes Risk Factors
 
 **CDC BRFSS Analysis**
 
-<div class="badges">
-<span class="badge">SAS</span>
-<span class="badge">R</span>
-<span class="badge">Regression</span>
-<span class="badge">ANOVA</span>
-</div>
+::: badges
+[SAS]{.badge} [R]{.badge} [Regression]{.badge} [ANOVA]{.badge}
+:::
 
 Analyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.
 
@@ -133,21 +151,16 @@ Analyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, dem
 - Model selection
 - Diagnostics
 - Sex-stratified analysis
+::::
 
-</div>
-
-
-<div class="project-card">
-
+:::: project-card
 ### Modeling Life Expectancy in Africa
 
 **Socioeconomic and Health Indicators**
 
-<div class="badges">
-<span class="badge">R</span>
-<span class="badge">Regression</span>
-<span class="badge">Predictive Modeling</span>
-</div>
+::: badges
+[R]{.badge} [Regression]{.badge} [Predictive Modeling]{.badge}
+:::
 
 Built a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.
 
@@ -156,42 +169,32 @@ Built a multiple linear regression model to predict life expectancy using socioe
 The final model achieved an adjusted R² of approximately 0.98.
 
 Adult mortality and HIV incidence emerged as major predictors.
+::::
 
-</div>
-
-
-<div class="project-card">
-
+:::: project-card
 ### Explainable Machine Learning for Malaria Risk
 
 **Malaria Among Pregnant Women in Ghana**
 
-<div class="badges">
-<span class="badge">Machine Learning</span>
-<span class="badge">KNN</span>
-<span class="badge">Public Health</span>
-</div>
+::: badges
+[Machine Learning]{.badge} [KNN]{.badge} [Public Health]{.badge}
+:::
 
 Applied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.
 
 **Key Result**
 
 The K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.
+::::
 
-</div>
-
-
-<div class="project-card">
-
+:::: project-card
 ### Undergraduate Thesis
 
 **Malaria Risk Among Children Under Five in Ghana**
 
-<div class="badges">
-<span class="badge">Machine Learning</span>
-<span class="badge">Random Forest</span>
-<span class="badge">Neural Networks</span>
-</div>
+::: badges
+[Machine Learning]{.badge} [Random Forest]{.badge} [Neural Networks]{.badge}
+:::
 
 Used the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models for identifying risk factors associated with malaria incidence among children under five.
 
@@ -201,21 +204,16 @@ Used the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models
 - Neural Networks
 - K-Nearest Neighbors
 - Other classification algorithms
+::::
 
-</div>
-
-
-<div class="project-card">
-
+:::: project-card
 ### Fractal Pattern Generation
 
 **Iterated Function Systems**
 
-<div class="badges">
-<span class="badge">Python</span>
-<span class="badge">NumPy</span>
-<span class="badge">Linear Algebra</span>
-</div>
+::: badges
+[Python]{.badge} [NumPy]{.badge} [Linear Algebra]{.badge}
+:::
 
 Developed a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.
 
@@ -226,38 +224,31 @@ Developed a Python program that generated fractal patterns using affine transfor
 - Translation vectors
 - Iterative computation
 - Mathematical visualization
+::::
+:::::::::::::::::::::::::
 
-</div>
-
-</div>
-
----
+------------------------------------------------------------------------
 
 ## Technical Toolkit
 
-<div class="toolkit">
+::: toolkit
+**Statistical Software**\
+R · SAS · SPSS · STATA · Minitab
 
-**Statistical Software**  
-R · SAS · SPSS · STATA
-
-**Programming & Databases**  
+**Programming & Databases**\
 Python · SQL
 
-**Data & Visualization**  
+**Data & Visualization**\
 Power BI · Excel · Geographic Mapping
 
-**Research & Reproducibility**  
+**Research & Reproducibility**\
 Quarto · R Markdown · LaTeX · Git · GitHub
+:::
 
-</div>
-
----
+------------------------------------------------------------------------
 
 ## GitHub
 
-Additional code and future project repositories will be available on my GitHub profile.
+Additional code and project repositories are available on my GitHub profile.
 
-[View GitHub](https://github.com/samuelbonney20013){.btn .btn-primary}
----
-
-## 
+[View GitHub](https://github.com/samuelbonney20013){.btn .btn-primary target="_blank"}

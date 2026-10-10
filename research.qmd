@@ -22,7 +22,7 @@ I am particularly interested in:
 - Large Language Models
 - Reproducible Data Science
 
----
+------------------------------------------------------------------------
 
 ## Graduate Thesis
 
@@ -48,7 +48,7 @@ The work examines:
 
 The broader goal is to understand whether tilted density estimators can improve inferential performance relative to conventional kernel-based approaches under different data-generating settings.
 
----
+------------------------------------------------------------------------
 
 ## County-Level Lung Cancer Mortality in the United States
 
@@ -77,7 +77,7 @@ The analysis identified 232 unexplained high-mortality spatial clusters after ac
 
 The study also estimated that COPD mediated approximately 50.8% of the county-level association between smoking and lung cancer mortality.
 
----
+------------------------------------------------------------------------
 
 ## County-Level Food Insecurity and Chronic Disease Burden
 
@@ -97,7 +97,7 @@ The analysis included 2,299 counties and combined food insecurity, social-needs,
 
 The analysis identified 408 counties experiencing both high food insecurity and high chronic disease burden, highlighting potential priority areas for public-health intervention.
 
----
+------------------------------------------------------------------------
 
 ## BioMed-Scribe
 
@@ -126,7 +126,7 @@ The final model achieved:
 
 The project demonstrates how large language models can be adapted to specialized clinical classification tasks while limiting the number of trainable parameters.
 
----
+------------------------------------------------------------------------
 
 ## Statistical Analysis of Diabetes Risk Factors
 
@@ -147,7 +147,7 @@ The analysis used 253,680 observations from the CDC Behavioral Risk Factor Surve
 
 The analysis was conducted using both SAS and R.
 
----
+------------------------------------------------------------------------
 
 ## Modeling Life Expectancy in Africa
 
@@ -157,7 +157,7 @@ A multiple linear regression model was developed to identify key predictors of n
 
 The final model achieved an adjusted R-squared of approximately 0.98, with adult mortality and HIV incidence emerging as major predictors.
 
----
+------------------------------------------------------------------------
 
 ## Malaria Research in Ghana
 
@@ -184,7 +184,7 @@ The project evaluated multiple machine learning algorithms, including:
 
 The analysis used data from the 2019 Ghana Malaria Indicator Survey.
 
----
+------------------------------------------------------------------------
 
 ## Fractal Pattern Generation via Iterated Function Systems
 
@@ -201,7 +201,7 @@ I developed a Python program that applied affine transformations iteratively to 
 - Iterated function systems
 - Mathematical visualization
 
----
+------------------------------------------------------------------------
 
 ## Research Approach
 
@@ -220,13 +220,8 @@ My research frequently involves:
 - Reproducible reporting
 - R, Python, SAS, SQL, and Quarto
 
----
+------------------------------------------------------------------------
 
 ## Current Research Direction
 
-My current work is increasingly focused on nonparametric statistical methodology, simulation-based inference, and the integration of classical statistical techniques with modern machine learning methods.
-
-I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions.
----
-
-## 
+My current work is increasingly focused on nonparametric statistical methodology, simulation-based inference, and the integration of classical statistical techniques with modern machine learning methods. I am especially interested in research that is methodologically rigorous, computationally reproducible, and applicable to meaningful scientific and public-health questions.

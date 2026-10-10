@@ -8,5 +8,4 @@ toc: false
 
 The page you are looking for may have moved or the link may be incorrect.
 
-[Return to Home](index.qmd){.btn .btn-primary}
----
+## [Return to Home](index.qmd){.btn .btn-primary}

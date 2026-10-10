@@ -7,32 +7,24 @@ toc: false
 
 ## Awards & Honors
 
-<div class="award-grid">
-
-<div class="award-card">
-
+::::::::: award-grid
+::: award-card
 ### Outstanding Master’s Student
 
 **Illinois State University · 2026**
 
 Recognized as an outstanding master's student for academic performance and achievement in the Applied Statistics program.
+:::
 
-</div>
-
-
-<div class="award-card">
-
+::: award-card
 ### Kenneth Berk Scholarship
 
 **Illinois State University · 2026**
 
 Awarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.
+:::
 
-</div>
-
-
-<div class="award-card">
-
+::: award-card
 ### JSM Diversity Workshop and Mentoring Program Funding
 
 **American Statistical Association · 2026**
@@ -40,12 +32,9 @@ Awarded the Kenneth Berk Scholarship in recognition of academic excellence and p
 Received funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.
 
 The program provides professional development, mentoring, networking, and exposure to the broader statistics community.
+:::
 
-</div>
-
-
-<div class="award-card">
-
+::: award-card
 ### Fostering Diversity in Biostatistics Workshop Funding
 
 **ENAR · 2025**
@@ -53,30 +42,23 @@ The program provides professional development, mentoring, networking, and exposu
 Selected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.
 
 The workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.
+:::
 
-</div>
-
-
-<div class="award-card">
-
+::: award-card
 ### Winner, Statistics and Actuarial Science Quiz Competition
 
 **University of Ghana · 2023**
 
 Won the Statistics and Actuarial Science Quiz Competition at the University of Ghana.
+:::
 
-</div>
-
-
-<div class="award-card">
-
+::: award-card
 ### Winner, Mathematics Society Quiz Competition
 
 **University of Ghana · 2023**
 
 Won the Mathematics Society Quiz Competition at the University of Ghana.
+:::
+:::::::::
 
-</div>
-
-</div>
----
+------------------------------------------------------------------------
