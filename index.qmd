@@ -7,7 +7,6 @@ page-layout: full
 
 about:
   template: trestles
-  image-width: 50%
   links:
     - icon: envelope
       text: Email
@@ -18,11 +17,12 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/samuel-bonney-b06472299
-<!-- --- -->
+---
 
 *Graduate Student in Applied Statistics · Illinois State University*
 
 ## About Me
+
 Hi, I'm **Samuel Bonney** 👋
 
 I'm a graduate student in Applied Statistics at [Illinois State University](https://illinoisstate.edu/), where I spend most of my time asking a deceptively simple question: *how well does a model actually fit the data?*
@@ -59,4 +59,3 @@ What ties all of this together is that I enjoy the full journey: the theory, the
 
 **University of Ghana**  
 2019–2023
-
