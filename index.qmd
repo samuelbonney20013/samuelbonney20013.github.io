@@ -2,47 +2,38 @@
 title: "Samuel Bonney"
 description-meta: "Academic website for Samuel Bonney, graduate student in Applied Statistics."
 image: "images/PP.jpeg"
-
-page-navigation: true
 toc: false
 page-layout: full
 
 about:
-  id: hero-heading
   template: trestles
   image-width: 50%
-
   links:
     - icon: envelope
       text: Email
       href: mailto:sbonney@ilstu.edu
-
     - icon: github
       text: GitHub
       href: https://github.com/samuelbonney20013
-      target: _blank
-
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/samuel-bonney-b06472299
-      target: _blank
----
+<!-- --- -->
 
 *Graduate Student in Applied Statistics · Illinois State University*
 
 ## About Me
+Hi, I'm **Samuel Bonney** 👋
 
-Welcome to my academic website.
+I'm a graduate student in Applied Statistics at [Illinois State University](https://illinoisstate.edu/), where I spend most of my time asking a deceptively simple question: *how well does a model actually fit the data?*
 
-I am **Samuel Bonney**, a graduate student in Applied Statistics at [Illinois State University](https://illinoisstate.edu/).
+My research focuses on **nonparametric statistical methodology**, specifically tilted kernel density estimation and Bickel–Rosenblatt goodness-of-fit testing. I like working on methods that make fewer assumptions about the world and still deliver reliable answers, and I test them the hard way, through simulation studies.
 
-I earned my Bachelor of Arts in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and am currently pursuing my master's degree in Applied Statistics at Illinois State University.
+Beyond my thesis, I apply statistics to problems that matter for public health: mapping lung cancer mortality and chronic disease burden across U.S. counties, using explainable machine learning to understand malaria risk in Ghana, and fine-tuning large language models to classify clinical conversations. Before coming to Illinois State, I earned my B.A. in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/).
 
-My current research focuses on **nonparametric statistical methodology**, including tilted kernel density estimation and Bickel–Rosenblatt goodness-of-fit testing. I am also interested in spatial statistics, statistical learning, machine learning, and public-health applications.
+What ties all of this together is that I enjoy the full journey: the theory, the code, the simulations, and finally turning the results into something people can actually understand.
 
-My broader work includes county-level spatial analyses of lung cancer mortality and chronic disease burden, explainable machine learning for malaria risk, and large language model applications in clinical text classification.
-
-I enjoy combining statistical theory, computation, simulation, and visualization to address practical problems and communicate results clearly.
+**Away from the data**, you'll probably find me at a pool table or a table tennis table. Both are, if you think about it, applied geometry and probability with a lot more trash talk. I also enjoy video games in my downtime, which I tell myself counts as research into decision-making under uncertainty.
 
 ## Research Interests
 
