@@ -9,8 +9,9 @@ toc: false
 
 A selection of projects demonstrating my experience in statistical modeling, machine learning, spatial analysis, public health analytics, large language models, and reproducible research.
 
-::::::::::::::::::::::::: project-grid
-::::: project-card
+::::::: project-grid
+
+:::: project-card
 ### BioMed-Scribe
 
 **Medical Specialty Classification from Clinical Conversations**
@@ -26,18 +27,18 @@ Fine-tuned GPT-2 Medium on 13,492 clinical conversations using a two-block param
 - 79.1% test accuracy
 - 0.799 macro-F1
 - 25.2M trainable parameters
-- Four medical specialties
+- Four medical specialties: Cardiology, Neurology, Orthopedics, and General Medicine
 - t-SNE embedding analysis
 - Interactive Gradio deployment
 
 ::: project-links
-[View GitHub](https://github.com/samuelbonney20013/biomed-scribe){.btn .btn-sm .btn-outline-primary target="_blank"}
-
+[View GitHub](https://github.com/samuelbonney20013/biomed-scribe){.btn .btn-sm .btn-outline-primary}
 [View Report](files/reports/BioMed_Scribe_Report.pdf){.btn .btn-sm .btn-primary target="_blank"}
 :::
-:::::
 
-::::: project-card
+::::
+
+:::: project-card
 ### County-Level Lung Cancer Mortality
 
 **Spatial Statistics, Machine Learning, and Public Health**
@@ -50,14 +51,10 @@ Analyzed lung cancer mortality across 2,536 U.S. counties using CDC Social Vulne
 
 **Methods**
 
-- Robust OLS
-- Quantile regression
-- Moran's I
-- LISA
+- Robust OLS and quantile regression
+- Global Moran's I and LISA
 - Spatial error models
-- Random Forest
-- XGBoost
-- SHAP
+- Random Forest and XGBoost with SHAP interpretation
 - Mediation analysis
 
 **Key Results**
@@ -68,9 +65,10 @@ Analyzed lung cancer mortality across 2,536 U.S. counties using CDC Social Vulne
 ::: project-links
 [View Report](files/reports/Lung_Cancer_Report.pdf){.btn .btn-sm .btn-primary target="_blank"}
 :::
-:::::
 
-::::: project-card
+::::
+
+:::: project-card
 ### Food Insecurity and Chronic Disease Burden
 
 **County-Level Public Health Analysis**
@@ -97,9 +95,10 @@ Analyzed 2,299 U.S. counties to examine the relationship between food insecurity
 ::: project-links
 [View Report](files/reports/Food_Insecurity_Chronic_Disease_Burden.pdf){.btn .btn-sm .btn-primary target="_blank"}
 :::
-:::::
 
-::::: project-card
+::::
+
+:::: project-card
 ### Cardiovascular Disease Risk Factors
 
 **Gender-Based Comparative Statistical Analysis**
@@ -113,23 +112,22 @@ Analyzed cardiovascular disease risk factors in a public dataset of 68,672 adult
 **Methods**
 
 - Spearman correlation
-- Welch's two-sample t test
-- Kruskal-Wallis tests
+- Welch's two-sample t test and Kruskal–Wallis tests
 - Chi-square test of independence
-- Binary logistic regression
-- Gender-specific models
+- Binary logistic regression with gender-specific models
 - ROC and AUC analysis
 
 **Key Results**
 
 - Combined logistic model achieved an AUC of approximately 0.791
-- Age, BMI, blood pressure, and cholesterol were important predictors of cardiovascular disease
-- Gender-specific models showed similar overall risk structures with differences in coefficient magnitude
+- Age, BMI, blood pressure, and cholesterol were important predictors
+- Gender-specific models showed similar risk structures with differences in coefficient magnitude
 
 ::: project-links
 [View Report](files/reports/Cardiovascular_Disease_Risk_Factors.pdf){.btn .btn-sm .btn-primary target="_blank"}
 :::
-:::::
+
+::::
 
 :::: project-card
 ### Statistical Analysis of Diabetes Risk Factors
@@ -144,13 +142,11 @@ Analyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, dem
 
 **Methods**
 
-- Chi-square tests
-- Factorial ANOVA
-- Multiple regression
-- Logistic regression
-- Model selection
-- Diagnostics
+- Chi-square tests and factorial ANOVA
+- Multiple and logistic regression
+- Model selection and diagnostics
 - Sex-stratified analysis
+
 ::::
 
 :::: project-card
@@ -162,13 +158,13 @@ Analyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, dem
 [R]{.badge} [Regression]{.badge} [Predictive Modeling]{.badge}
 :::
 
-Built a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.
+Built a multiple linear regression model to predict life expectancy across African countries using socioeconomic and health indicators.
 
-**Key Result**
+**Key Results**
 
-The final model achieved an adjusted R² of approximately 0.98.
+- Final model achieved an adjusted R² of approximately 0.98
+- Adult mortality and HIV incidence emerged as major predictors
 
-Adult mortality and HIV incidence emerged as major predictors.
 ::::
 
 :::: project-card
@@ -180,11 +176,13 @@ Adult mortality and HIV incidence emerged as major predictors.
 [Machine Learning]{.badge} [KNN]{.badge} [Public Health]{.badge}
 :::
 
-Applied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.
+Applied explainable machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.
 
-**Key Result**
+**Key Results**
 
-The K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.
+- K-Nearest Neighbors achieved the strongest performance, with an AUC of approximately 0.88
+- Age and anaemia status ranked among the most important predictors
+
 ::::
 
 :::: project-card
@@ -203,7 +201,7 @@ Used the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models
 - Random Forest
 - Neural Networks
 - K-Nearest Neighbors
-- Other classification algorithms
+
 ::::
 
 :::: project-card
@@ -215,17 +213,17 @@ Used the 2019 Ghana Malaria Indicator Survey to evaluate machine learning models
 [Python]{.badge} [NumPy]{.badge} [Linear Algebra]{.badge}
 :::
 
-Developed a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.
+Developed a Python program that generated fractal patterns by repeatedly applying affine transformations using matrix operations and translation vectors.
 
 **Concepts**
 
-- Matrix transformations
-- Affine mappings
-- Translation vectors
-- Iterative computation
+- Matrix transformations and affine mappings
+- Iterated function systems
 - Mathematical visualization
+
 ::::
-:::::::::::::::::::::::::
+
+:::::::
 
 ------------------------------------------------------------------------
 
@@ -233,7 +231,7 @@ Developed a Python program that generated fractal patterns using affine transfor
 
 ::: toolkit
 **Statistical Software**\
-R · SAS · SPSS · STATA · Minitab
+R · SAS · SPSS · Stata · Minitab
 
 **Programming & Databases**\
 Python · SQL
@@ -251,4 +249,4 @@ Quarto · R Markdown · LaTeX · Git · GitHub
 
 Additional code and project repositories are available on my GitHub profile.
 
-[View GitHub](https://github.com/samuelbonney20013){.btn .btn-primary target="_blank"}
+[View GitHub](https://github.com/samuelbonney20013){.btn .btn-primary}

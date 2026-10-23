@@ -9,7 +9,7 @@
 <meta name="author" content="Samuel Bonney">
 <meta name="description" content="Academic website for Samuel Bonney, graduate student in Applied Statistics.">
 
-<title>Projects</title>
+<title>Projects – Samuel Bonney</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -76,12 +76,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Projects">
+<meta property="og:title" content="Projects – Samuel Bonney">
 <meta property="og:description" content="Selected statistical, machine learning, and data science projects">
-<meta property="og:image" content="https://samuelbonney.com/images/PP.jpeg">
-<meta name="twitter:title" content="Projects">
+<meta property="og:image" content="https://samuelbonney20013.github.io/images/PP.jpeg">
+<meta property="og:site_name" content="Samuel Bonney">
+<meta name="twitter:title" content="Projects – Samuel Bonney">
 <meta name="twitter:description" content="Selected statistical, machine learning, and data science projects">
-<meta name="twitter:image" content="https://samuelbonney.com/images/PP.jpeg">
+<meta name="twitter:image" content="https://samuelbonney20013.github.io/images/PP.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -91,6 +92,11 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Samuel Bonney</span>
+    </a>
+  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -139,21 +145,10 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">More</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-more">    
-        <li>
-    <a class="dropdown-item" href="./posts.html">
- <span class="dropdown-text">Featured Posts</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./contact.html">
- <span class="dropdown-text">Contact</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -161,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/samuelbonney20013" target="_blank"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/samuelbonney20013"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -216,13 +211,12 @@ ul.task-list li input[type="checkbox"] {
 <li>79.1% test accuracy</li>
 <li>0.799 macro-F1</li>
 <li>25.2M trainable parameters</li>
-<li>Four medical specialties</li>
+<li>Four medical specialties: Cardiology, Neurology, Orthopedics, and General Medicine</li>
 <li>t-SNE embedding analysis</li>
 <li>Interactive Gradio deployment</li>
 </ul>
 <div class="project-links">
-<p><a href="https://github.com/samuelbonney20013/biomed-scribe" class="btn btn-sm btn-outline-primary" target="_blank">View GitHub</a></p>
-<p><a href="files/reports/BioMed_Scribe_Report.pdf" class="btn btn-sm btn-primary" target="_blank">View Report</a></p>
+<p><a href="https://github.com/samuelbonney20013/biomed-scribe" class="btn btn-sm btn-outline-primary">View GitHub</a> <a href="files/reports/BioMed_Scribe_Report.pdf" class="btn btn-sm btn-primary" target="_blank">View Report</a></p>
 </div>
 </section>
 <section id="county-level-lung-cancer-mortality" class="level3 project-card">
@@ -234,14 +228,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Analyzed lung cancer mortality across 2,536 U.S. counties using CDC Social Vulnerability Index, CDC PLACES, and National Cancer Institute data.</p>
 <p><strong>Methods</strong></p>
 <ul>
-<li>Robust OLS</li>
-<li>Quantile regression</li>
-<li>Moran’s I</li>
-<li>LISA</li>
+<li>Robust OLS and quantile regression</li>
+<li>Global Moran’s I and LISA</li>
 <li>Spatial error models</li>
-<li>Random Forest</li>
-<li>XGBoost</li>
-<li>SHAP</li>
+<li>Random Forest and XGBoost with SHAP interpretation</li>
 <li>Mediation analysis</li>
 </ul>
 <p><strong>Key Results</strong></p>
@@ -287,18 +277,16 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Methods</strong></p>
 <ul>
 <li>Spearman correlation</li>
-<li>Welch’s two-sample t test</li>
-<li>Kruskal-Wallis tests</li>
+<li>Welch’s two-sample t test and Kruskal–Wallis tests</li>
 <li>Chi-square test of independence</li>
-<li>Binary logistic regression</li>
-<li>Gender-specific models</li>
+<li>Binary logistic regression with gender-specific models</li>
 <li>ROC and AUC analysis</li>
 </ul>
 <p><strong>Key Results</strong></p>
 <ul>
 <li>Combined logistic model achieved an AUC of approximately 0.791</li>
-<li>Age, BMI, blood pressure, and cholesterol were important predictors of cardiovascular disease</li>
-<li>Gender-specific models showed similar overall risk structures with differences in coefficient magnitude</li>
+<li>Age, BMI, blood pressure, and cholesterol were important predictors</li>
+<li>Gender-specific models showed similar risk structures with differences in coefficient magnitude</li>
 </ul>
 <div class="project-links">
 <p><a href="files/reports/Cardiovascular_Disease_Risk_Factors.pdf" class="btn btn-sm btn-primary" target="_blank">View Report</a></p>
@@ -313,12 +301,9 @@ ul.task-list li input[type="checkbox"] {
 <p>Analyzed 253,680 CDC BRFSS observations to investigate clinical, behavioral, demographic, and socioeconomic factors associated with diabetes-related outcomes.</p>
 <p><strong>Methods</strong></p>
 <ul>
-<li>Chi-square tests</li>
-<li>Factorial ANOVA</li>
-<li>Multiple regression</li>
-<li>Logistic regression</li>
-<li>Model selection</li>
-<li>Diagnostics</li>
+<li>Chi-square tests and factorial ANOVA</li>
+<li>Multiple and logistic regression</li>
+<li>Model selection and diagnostics</li>
 <li>Sex-stratified analysis</li>
 </ul>
 </section>
@@ -328,10 +313,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="badges">
 <p><span class="badge">R</span> <span class="badge">Regression</span> <span class="badge">Predictive Modeling</span></p>
 </div>
-<p>Built a multiple linear regression model to predict life expectancy using socioeconomic and health indicators.</p>
-<p><strong>Key Result</strong></p>
-<p>The final model achieved an adjusted R² of approximately 0.98.</p>
-<p>Adult mortality and HIV incidence emerged as major predictors.</p>
+<p>Built a multiple linear regression model to predict life expectancy across African countries using socioeconomic and health indicators.</p>
+<p><strong>Key Results</strong></p>
+<ul>
+<li>Final model achieved an adjusted R² of approximately 0.98</li>
+<li>Adult mortality and HIV incidence emerged as major predictors</li>
+</ul>
 </section>
 <section id="explainable-machine-learning-for-malaria-risk" class="level3 project-card">
 <h3 class="anchored" data-anchor-id="explainable-machine-learning-for-malaria-risk">Explainable Machine Learning for Malaria Risk</h3>
@@ -339,9 +326,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="badges">
 <p><span class="badge">Machine Learning</span> <span class="badge">KNN</span> <span class="badge">Public Health</span></p>
 </div>
-<p>Applied machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.</p>
-<p><strong>Key Result</strong></p>
-<p>The K-Nearest Neighbor model achieved the strongest performance with an AUC of approximately 0.88.</p>
+<p>Applied explainable machine learning methods to Demographic and Health Survey data to predict malaria risk among pregnant women.</p>
+<p><strong>Key Results</strong></p>
+<ul>
+<li>K-Nearest Neighbors achieved the strongest performance, with an AUC of approximately 0.88</li>
+<li>Age and anaemia status ranked among the most important predictors</li>
+</ul>
 </section>
 <section id="undergraduate-thesis" class="level3 project-card">
 <h3 class="anchored" data-anchor-id="undergraduate-thesis">Undergraduate Thesis</h3>
@@ -355,7 +345,6 @@ ul.task-list li input[type="checkbox"] {
 <li>Random Forest</li>
 <li>Neural Networks</li>
 <li>K-Nearest Neighbors</li>
-<li>Other classification algorithms</li>
 </ul>
 </section>
 <section id="fractal-pattern-generation" class="level3 project-card">
@@ -364,13 +353,11 @@ ul.task-list li input[type="checkbox"] {
 <div class="badges">
 <p><span class="badge">Python</span> <span class="badge">NumPy</span> <span class="badge">Linear Algebra</span></p>
 </div>
-<p>Developed a Python program that generated fractal patterns using affine transformations, matrix operations, and iterated function systems.</p>
+<p>Developed a Python program that generated fractal patterns by repeatedly applying affine transformations using matrix operations and translation vectors.</p>
 <p><strong>Concepts</strong></p>
 <ul>
-<li>Matrix transformations</li>
-<li>Affine mappings</li>
-<li>Translation vectors</li>
-<li>Iterative computation</li>
+<li>Matrix transformations and affine mappings</li>
+<li>Iterated function systems</li>
 <li>Mathematical visualization</li>
 </ul>
 </section>
@@ -381,7 +368,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="technical-toolkit">Technical Toolkit</h2>
 <div class="toolkit">
 <p><strong>Statistical Software</strong><br>
-R · SAS · SPSS · STATA · Minitab</p>
+R · SAS · SPSS · Stata · Minitab</p>
 <p><strong>Programming &amp; Databases</strong><br>
 Python · SQL</p>
 <p><strong>Data &amp; Visualization</strong><br>
@@ -394,7 +381,7 @@ Quarto · R Markdown · LaTeX · Git · GitHub</p>
 <section id="github" class="level2">
 <h2 class="anchored" data-anchor-id="github">GitHub</h2>
 <p>Additional code and project repositories are available on my GitHub profile.</p>
-<p><a href="https://github.com/samuelbonney20013" class="btn btn-primary" target="_blank">View GitHub</a></p>
+<p><a href="https://github.com/samuelbonney20013" class="btn btn-primary">View GitHub</a></p>
 
 
 </section>
@@ -473,7 +460,7 @@ Quarto · R Markdown · LaTeX · Git · GitHub</p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/samuelbonney\.com");
+        var filterRegex = new RegExp("https:\/\/samuelbonney20013\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -818,8 +805,8 @@ Last updated
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/samuelbonney20013" target="_blank">
-      <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/samuelbonney20013">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
     </a>
   </li>  

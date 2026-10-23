@@ -5,15 +5,15 @@ page-layout: full
 toc: false
 ---
 
-## Awards & Honors
+:::: award-grid
 
-::::::::: award-grid
 ::: award-card
-### Outstanding Master’s Student
+### Outstanding Master's Student
 
 **Illinois State University · 2026**
 
 Recognized as an outstanding master's student for academic performance and achievement in the Applied Statistics program.
+
 :::
 
 ::: award-card
@@ -22,6 +22,7 @@ Recognized as an outstanding master's student for academic performance and achie
 **Illinois State University · 2026**
 
 Awarded the Kenneth Berk Scholarship in recognition of academic excellence and promise in graduate study.
+
 :::
 
 ::: award-card
@@ -29,9 +30,8 @@ Awarded the Kenneth Berk Scholarship in recognition of academic excellence and p
 
 **American Statistical Association · 2026**
 
-Received funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program.
+Received funding to participate in the Joint Statistical Meetings Diversity Workshop and Mentoring Program, which provides professional development, mentoring, networking, and exposure to the broader statistics community.
 
-The program provides professional development, mentoring, networking, and exposure to the broader statistics community.
 :::
 
 ::: award-card
@@ -39,9 +39,8 @@ The program provides professional development, mentoring, networking, and exposu
 
 **ENAR · 2025**
 
-Selected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop.
+Selected to receive funding to participate in the ENAR Fostering Diversity in Biostatistics Workshop, which supports students interested in biostatistics through mentoring, professional development, and engagement with researchers in the field.
 
-The workshop supports students interested in biostatistics and provides opportunities for mentoring, professional development, and engagement with researchers in the field.
 :::
 
 ::: award-card
@@ -50,6 +49,7 @@ The workshop supports students interested in biostatistics and provides opportun
 **University of Ghana · 2023**
 
 Won the Statistics and Actuarial Science Quiz Competition at the University of Ghana.
+
 :::
 
 ::: award-card
@@ -58,7 +58,7 @@ Won the Statistics and Actuarial Science Quiz Competition at the University of G
 **University of Ghana · 2023**
 
 Won the Mathematics Society Quiz Competition at the University of Ghana.
-:::
-:::::::::
 
-------------------------------------------------------------------------
+:::
+
+::::

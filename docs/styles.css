@@ -32,6 +32,18 @@ a:focus {
   text-decoration: underline;
 }
 
+/* Buttons and menu links should never be underlined */
+
+.btn:hover,
+.btn:focus,
+.nav-link:hover,
+.nav-link:focus,
+.dropdown-item:hover,
+.dropdown-item:focus,
+.navbar-brand:hover {
+  text-decoration: none !important;
+}
+
 /* Headings */
 
 h1 {
@@ -88,7 +100,6 @@ h4 {
 
 .about-image img,
 .about-entity img,
-#hero-heading img,
 .quarto-about-trestles .about-image img {
   border-radius: 50% !important;
   aspect-ratio: 1 / 1 !important;
@@ -138,26 +149,49 @@ h4 {
   color: var(--primary) !important;
 }
 
-/* Buttons */
+/* Buttons
+   Bootstrap 5 controls button colors through variables, so setting them
+   here also covers the pressed (active) state, which would otherwise
+   flash the theme's default blue. */
 
 .btn-primary {
+  --bs-btn-bg: #8A1838;
+  --bs-btn-border-color: #8A1838;
+  --bs-btn-hover-bg: #651127;
+  --bs-btn-hover-border-color: #651127;
+  --bs-btn-active-bg: #651127;
+  --bs-btn-active-border-color: #651127;
+  --bs-btn-focus-shadow-rgb: 138, 24, 56;
   background-color: var(--primary);
   border-color: var(--primary);
+  color: #ffffff;
 }
 
 .btn-primary:hover,
-.btn-primary:focus {
+.btn-primary:focus,
+.btn-primary:active {
   background-color: var(--primary-dark);
   border-color: var(--primary-dark);
+  color: #ffffff;
 }
 
 .btn-outline-primary {
+  --bs-btn-color: #8A1838;
+  --bs-btn-border-color: #8A1838;
+  --bs-btn-hover-bg: #8A1838;
+  --bs-btn-hover-border-color: #8A1838;
+  --bs-btn-hover-color: #ffffff;
+  --bs-btn-active-bg: #651127;
+  --bs-btn-active-border-color: #651127;
+  --bs-btn-active-color: #ffffff;
+  --bs-btn-focus-shadow-rgb: 138, 24, 56;
   color: var(--primary);
   border-color: var(--primary);
 }
 
 .btn-outline-primary:hover,
-.btn-outline-primary:focus {
+.btn-outline-primary:focus,
+.btn-outline-primary:active {
   background-color: var(--primary);
   border-color: var(--primary);
   color: #ffffff;
@@ -167,7 +201,7 @@ h4 {
 
 hr {
   border: 0;
-  border-top: 1px solid #dddddd;
+  border-top: 1px solid var(--border);
   margin: 2.2rem 0;
 }
 
@@ -200,7 +234,7 @@ hr {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.8rem;
   margin-top: 1.5rem;
   margin-bottom: 2rem;
@@ -212,8 +246,7 @@ hr {
   border-radius: 14px;
   padding: 1.5rem;
 
-  box-shadow:
-    0 4px 14px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
 
   transition:
     transform 0.25s ease,
@@ -223,10 +256,7 @@ hr {
 
 .project-card:hover {
   transform: translateY(-5px);
-
-  box-shadow:
-    0 10px 28px rgba(138, 24, 56, 0.14);
-
+  box-shadow: 0 10px 28px rgba(138, 24, 56, 0.14);
   border-color: rgba(138, 24, 56, 0.25);
 }
 
@@ -250,6 +280,10 @@ hr {
   margin: 0.8rem 0 1rem 0;
 }
 
+.badges p {
+  display: contents;
+}
+
 .badge {
   display: inline-block;
 
@@ -271,6 +305,13 @@ hr {
 
 .project-links {
   margin-top: 1rem;
+}
+
+.project-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0;
 }
 
 .project-links .btn {
@@ -298,7 +339,7 @@ hr {
 
 .award-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.6rem;
   margin-top: 1.5rem;
 }
@@ -311,8 +352,7 @@ hr {
 
   padding: 1.4rem 1.5rem;
 
-  box-shadow:
-    0 4px 14px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
 
   transition:
     transform 0.25s ease,
@@ -321,9 +361,7 @@ hr {
 
 .award-card:hover {
   transform: translateY(-4px);
-
-  box-shadow:
-    0 9px 24px rgba(138, 24, 56, 0.12);
+  box-shadow: 0 9px 24px rgba(138, 24, 56, 0.12);
 }
 
 .award-card h3 {
@@ -347,8 +385,7 @@ hr {
   }
 
   .about-image img,
-  .about-entity img,
-  #hero-heading img {
+  .about-entity img {
     width: 180px !important;
     height: 180px !important;
   }
